@@ -1,0 +1,3916 @@
+[
+  {
+    "name": "Cured Snapper with Tomato Vinaigrette, Avocado, Radish & Cucumber",
+    "slug": "S23E01QF01",
+    "season": 23,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S23/E01/QF01.tiff",
+    "cuisines": [],
+    "dishes": ["cured fish", "vinaigrette"],
+    "ingredients": ["fish", "snapper", "tomato", "vinaigrette", "avocado", "radish", "cucumber"],
+    "techniques": ["cured"]
+  },
+  {
+    "name": "Pan-Seared Red Snapper with Corn & Cauliflower Salad & Moilee Sauce",
+    "slug": "S23E01QF02",
+    "season": 23,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S23/E01/QF02.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["salad", "moilee"],
+    "ingredients": ["fish", "snapper", "corn", "cauliflower", "coconut"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Harissa Butter Poached Shrimp with Charred Cabbage & Pickled Green Tomato",
+    "slug": "S23E01QF03",
+    "season": 23,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S23/E01/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["pickles"],
+    "ingredients": ["shellfish", "shrimp", "harissa", "butter", "cabbage", "tomato", "green tomato"],
+    "techniques": ["poached", "charred"]
+  },
+  {
+    "name": "Shrimp Ceviche & Avocado Aguachile with Crab Salad",
+    "slug": "S23E01QF04",
+    "season": 23,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S23/E01/QF04.tiff",
+    "cuisines": ["Latin American", "Mexican"],
+    "dishes": ["ceviche", "aguachile", "salad"],
+    "ingredients": ["shellfish", "shrimp", "avocado", "crab"],
+    "techniques": []
+  },
+  {
+    "name": "Crab & Shrimp Hushpuppy with Harissa Aioli, Napa & Peach Salad",
+    "slug": "S23E01QF05",
+    "season": 23,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S23/E01/QF05.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["hushpuppy", "aioli", "salad"],
+    "ingredients": ["shellfish", "crab", "shrimp", "cornmeal", "harissa", "napa cabbage", "peach"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Carolina Ruby Moqueca with Green Papaya Chow Chow",
+    "slug": "S23E01E01",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E01/E01.tiff",
+    "cuisines": ["Brazilian", "Southern"],
+    "dishes": ["moqueca", "chow chow", "pickles"],
+    "ingredients": ["sweet potato", "coconut", "green papaya"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Grilled Pork Loin, Carolina Ruby Bacon Jam, Sweet Potato Puree & Pickled Okra",
+    "slug": "S23E01E02",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E01/E02.tiff",
+    "cuisines": [],
+    "dishes": ["bacon jam", "puree", "pickles"],
+    "ingredients": ["pork", "pork loin", "sweet potato", "bacon", "okra"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Roasted Carolina Ruby with Herbes de Provence, Sos Kreyol & Roasted Snapper",
+    "slug": "S23E01E03",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Day",
+    "image": "/S23/E01/E03.tiff",
+    "cuisines": ["Haitian"],
+    "dishes": ["sos kreyol"],
+    "ingredients": ["sweet potato", "herbes de provence", "fish", "snapper"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Seared Scallop with Murasaki Accra, Murasaki Fondant & Jus",
+    "slug": "S23E01E04",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E01/E04.tiff",
+    "cuisines": ["Haitian"],
+    "dishes": ["accra", "fondant potato", "jus"],
+    "ingredients": ["shellfish", "scallop", "sweet potato"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Murasaki Mpotompoto with Collard Greens & Smoked Ham",
+    "slug": "S23E01E05",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Nana",
+    "image": "/S23/E01/E05.tiff",
+    "cuisines": ["Ghanaian"],
+    "dishes": ["mpotompoto"],
+    "ingredients": ["sweet potato", "collard greens", "ham"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Murasaki & Pork Stuffed Collard Green Sarma with Tomato & Yogurt",
+    "slug": "S23E01E06",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E01/E06.tiff",
+    "cuisines": ["Croatian"],
+    "dishes": ["sarma"],
+    "ingredients": ["sweet potato", "pork", "collard greens", "tomato", "yogurt"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Braised Purple Majesty with Agave Chorizo Hash & Pasilla Salsa",
+    "slug": "S23E01E07",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E01/E07.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["salsa"],
+    "ingredients": ["sweet potato", "agave", "chorizo", "pasilla chile"],
+    "techniques": ["braised", "pan-fried"]
+  },
+  {
+    "name": "Curry & Cardamom Poached Purple Majesty, Brown Butter Sweet Potato Puree & Cheese Sauce",
+    "slug": "S23E01E08",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E01/E08.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["cheese sauce", "puree"],
+    "ingredients": ["sweet potato", "cardamom", "curry", "butter", "cheese"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Purple Majesty with Caramel, Coconut & White Chocolate Sorbet, Sweet Potato Streusel & Meringue",
+    "slug": "S23E01E09",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E01/E09.tiff",
+    "cuisines": [],
+    "dishes": ["sorbet", "streusel", "meringue"],
+    "ingredients": ["sweet potato", "caramel", "coconut", "white chocolate"],
+    "techniques": ["frozen", "baked"]
+  },
+  {
+    "name": "Rice & Lentil Khichdi with Roasted Covingtons & Yogurt Pickles",
+    "slug": "S23E01E10",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Jassi",
+    "image": "/S23/E01/E10.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["khichdi", "pickles"],
+    "ingredients": ["sweet potato", "rice", "lentils", "yogurt"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Seared Pork Tenderloin, Covington Puree, Pickled & Crispy Sweet Potato",
+    "slug": "S23E01E11",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Brittany",
+    "image": "/S23/E01/E11.tiff",
+    "cuisines": [],
+    "dishes": ["puree", "pickles"],
+    "ingredients": ["sweet potato", "pork", "pork loin"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Soy-Glazed Covington with Miso Sweet Potato Puree & Lime Creme Fraiche",
+    "slug": "S23E01E12",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E01/E12.tiff",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["sweet potato", "soy sauce", "miso", "lime", "creme fraiche"],
+    "techniques": ["glazed", "braised"]
+  },
+  {
+    "name": "Norton Sweet Potato & Pandan Mochi with Ginger Syrup & Coconut Cream",
+    "slug": "S23E01E13",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E01/E13.tiff",
+    "cuisines": [],
+    "dishes": ["mochi", "syrup"],
+    "ingredients": ["sweet potato", "pandan", "sticky rice", "ginger", "coconut"],
+    "techniques": ["steamed"]
+  },
+  {
+    "name": "Seared Norton, Roasted Onion Jus & Sweet Potato Puree",
+    "slug": "S23E01E14",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E01/E14.tiff",
+    "cuisines": [],
+    "dishes": ["jus", "puree"],
+    "ingredients": ["sweet potato", "onion"],
+    "techniques": ["pan-fried", "roasted"]
+  },
+  {
+    "name": "Condensed Milk Poached Sweet Potato with Squash Puree & Pickled Nortons",
+    "slug": "S23E01E15",
+    "season": 23,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E01/E15.tiff",
+    "cuisines": [],
+    "dishes": ["puree", "pickles"],
+    "ingredients": ["sweet potato", "sweetened condensed milk", "squash"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Polenta Cachapa, Brown Sugar & Butter Caramel, Fresno Chili, Almonds & Crispy Skin Provolone",
+    "slug": "S23E02QF01",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E02/QF01.tiff",
+    "cuisines": ["Venezuelan"],
+    "dishes": ["cachapas"],
+    "ingredients": ["cornmeal", "brown sugar", "butter", "caramel", "chiles", "almonds", "cheese", "provolone"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Polenta Crusted Grouper, Kabocha Crema, Guava Gastrique, Champagne Grapes & Bitter Chocolate",
+    "slug": "S23E02QF02",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E02/QF02.tiff",
+    "cuisines": [],
+    "dishes": ["gastrique"],
+    "ingredients": ["cornmeal", "fish", "grouper", "squash", "kabocha", "guava", "grapes", "chocolate"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Marinated Fennel Salad with Oranges, Cured Black Olives, Figs, Feta Cheese, Chocolate & Lemon Puree",
+    "slug": "S23E02QF03",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Jennifer",
+    "image": "/S23/E02/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["salad", "puree"],
+    "ingredients": ["fennel", "orange", "olives", "figs", "cheese", "feta", "chocolate", "lemon"],
+    "techniques": []
+  },
+  {
+    "name": "Oven Roasted Fennel, Vinaigrette with Feta, Roasted Pine Nuts, Fig & Olives",
+    "slug": "S23E02QF04",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E02/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["vinaigrette"],
+    "ingredients": ["fennel", "cheese", "feta", "pine nuts", "fig", "olives"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Lamb Borek with Apricot Jam, Pickled Tomatillos & Pistachios",
+    "slug": "S23E02QF05",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E02/QF05.tiff",
+    "cuisines": ["Turkish"],
+    "dishes": ["borek", "jam", "pickles"],
+    "ingredients": ["lamb", "phyllo", "apricot", "tomatillo", "pistachio"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Crispy Artichoke with Pipian Sauce, Candied Apricot & Pistachio",
+    "slug": "S23E02QF06",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E02/QF06.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["artichoke", "pumpkin seeds", "apricot", "pistachio"],
+    "techniques": ["fried", "candied"]
+  },
+  {
+    "name": "Coffee Spiced Lamb Tartare with Crispy Plantains & Aioli with Chili Pepper and Plantains",
+    "slug": "S23E02QF07",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Brittany",
+    "image": "/S23/E02/QF07.tiff",
+    "cuisines": [],
+    "dishes": ["tartare", "aioli"],
+    "ingredients": ["coffee", "lamb", "plantain", "chiles"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Coffee & Chili Rubbed Pork Loin Chop with Pan Jus, Tostones & Dragon Fruit Salsa",
+    "slug": "S23E02QF08",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E02/QF08.tiff",
+    "cuisines": ["Latin American"],
+    "dishes": ["jus", "salsa", "tostones"],
+    "ingredients": ["pork", "pork loin", "coffee", "chiles", "plantain", "dragon fruit"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Malai Paneer Tikka with Kachumber Salad & Spice Mix",
+    "slug": "S23E02QF09",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Jassi",
+    "image": "/S23/E02/QF09.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["paneer tikka", "salad", "kachumber"],
+    "ingredients": ["paneer", "cheese", "yogurt", "cucumber"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Curried Cauliflower Steak with Chunky Tomato Salsa & Spinach",
+    "slug": "S23E02QF10",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Nana",
+    "image": "/S23/E02/QF10.tiff",
+    "cuisines": [],
+    "dishes": ["salsa"],
+    "ingredients": ["cauliflower", "curry", "tomato", "spinach"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Strawberry Snapper with Cracked Coconut & Uni",
+    "slug": "S23E02QF11",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E02/QF11.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "snapper", "strawberry", "coconut", "uni"],
+    "techniques": []
+  },
+  {
+    "name": "Charred Eggplant, Tamarind, Miso & Vanilla Sauce with Lychee & Coconut",
+    "slug": "S23E02QF12",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E02/QF12.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["eggplant", "tamarind", "miso", "vanilla", "lychee", "coconut"],
+    "techniques": ["charred"]
+  },
+  {
+    "name": "Pork Loin Medallion with Peach Mostarda & Crispy Mustard Leaf",
+    "slug": "S23E02QF13",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E02/QF13.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["mostarda"],
+    "ingredients": ["pork", "pork loin", "peach", "mustard", "mustard greens"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Pecan Crusted Pork Tenderloin, Braised Mustard Greens, Peach & Grape Reduction",
+    "slug": "S23E02QF14",
+    "season": 23,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E02/QF14.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["pork", "pork tenderloin", "nuts", "pecan", "mustard greens", "peach", "grapes"],
+    "techniques": ["pan-fried", "braised"]
+  },
+  {
+    "name": "Kumamoto Oyster, Cucumber, Green Jalapeno Mignonette Granita & Reaper Salsa",
+    "slug": "S23E02E01",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E02/E01.tiff",
+    "cuisines": [],
+    "dishes": ["granita", "salsa", "mignonette"],
+    "ingredients": ["shellfish", "oyster", "cucumber", "chiles", "jalapeno", "carolina reaper"],
+    "techniques": ["frozen"]
+  },
+  {
+    "name": "Tuna Tartare, Tomato Jalapeno Jelly, Avocado Mousse & Puffed Wild Rice",
+    "slug": "S23E02E02",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E02/E02.tiff",
+    "cuisines": [],
+    "dishes": ["tartare", "jelly", "mousse", "puffed grain"],
+    "ingredients": ["fish", "tuna", "tomato", "chiles", "jalapeno", "avocado", "wild rice"],
+    "techniques": []
+  },
+  {
+    "name": "Charred Corn & Grilled Shrimp Salad with Chili Lime Vinaigrette & Pickled Cayenne Peppers",
+    "slug": "S23E02E03",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Brittany",
+    "image": "/S23/E02/E03.tiff",
+    "cuisines": [],
+    "dishes": ["salad", "vinaigrette", "pickles"],
+    "ingredients": ["shellfish", "shrimp", "corn", "chiles", "cayenne", "lime"],
+    "techniques": ["grilled", "charred"]
+  },
+  {
+    "name": "Chilled Seafood Chowder with Lemongrass, Fresno Chilies & Fresno Lime Granita",
+    "slug": "S23E02E04",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E02/E04.tiff",
+    "cuisines": [],
+    "dishes": ["chowder", "granita"],
+    "ingredients": ["shellfish", "lemongrass", "chiles", "fresno chile", "lime"],
+    "techniques": ["frozen"]
+  },
+  {
+    "name": "Pepper Crab with Grits & Seafood Gravy",
+    "slug": "S23E02E05",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E02/E05.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["gravy", "grits"],
+    "ingredients": ["shellfish", "crab", "grits", "chiles"],
+    "techniques": []
+  },
+  {
+    "name": "Pork Laab Salad with Jalapenos & Rice Crackers",
+    "slug": "S23E02E06",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E02/E06.tiff",
+    "cuisines": ["Thai"],
+    "dishes": ["laab", "salad", "rice crackers"],
+    "ingredients": ["pork", "chiles", "jalapeno", "greens"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Pan Seared Snapper with Cara Cara Orange & Kumquat Slaw",
+    "slug": "S23E02E07",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E02/E07.tiff",
+    "cuisines": [],
+    "dishes": ["slaw"],
+    "ingredients": ["fish", "snapper", "orange", "kumquat", "chiles"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Carolina-Style Yuxiang Eggplant Three Ways with Rice",
+    "slug": "S23E02E08",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E02/E08.tiff",
+    "cuisines": ["Chinese", "Southern"],
+    "dishes": ["yuxiang eggplant"],
+    "ingredients": ["eggplant", "chiles", "rice"],
+    "techniques": ["braised", "fried", "roasted"]
+  },
+  {
+    "name": "Jerk Lamb, Hoe Cake, Red Jalapeno & Scotch Bonnet Carrot Maafe, Carolina Reaper Pikliz",
+    "slug": "S23E02E09",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E02/E09.tiff",
+    "cuisines": ["Caribbean", "West African", "Southern"],
+    "dishes": ["hoe cake", "maafe", "jerk", "pikliz", "pickles"],
+    "ingredients": ["lamb", "chiles", "jalapeo", "scotch bonnet", "carrot", "carolina reaper"],
+    "techniques": ["grilled", "pan-fried"]
+  },
+  {
+    "name": "Shito Marinated Red Snapper with Fish Light Soup, Fufu Espuma & Okra Salsa",
+    "slug": "S23E02E10",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Nana",
+    "image": "/S23/E02/E10.tiff",
+    "cuisines": ["Ghanaian"],
+    "dishes": ["fufu", "salsa", "light soup", "espuma"],
+    "ingredients": ["fish", "snapper", "chiles", "shito peppers", "okra"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Blue Corn Masa Huarache with Al Pastor, Salsa Diabla, Salsa Criolla & Pickled Pineapple",
+    "slug": "S23E02E11",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E02/E11.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["huarache", "al pastor", "salsa", "pickles"],
+    "ingredients": ["masa", "blue corn", "pork", "pineapple", "chiles"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Shrimp Stuffed Chicken Wings with Greens Dressed in Habanero Chili Oil & Yogurt Ranch",
+    "slug": "S23E02E12",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E02/E12.tiff",
+    "cuisines": [],
+    "dishes": ["salad", "ranch", "chili oil"],
+    "ingredients": ["chicken", "chicken wings", "shellfish", "shrimp", "chiles", "habanero", "yogurt", "greens"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Pepper Braised Short Rib, Chili Pickled Pearl Onions & Blistered Cayenne",
+    "slug": "S23E02E13",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E02/E13.tiff",
+    "cuisines": [],
+    "dishes": ["pickles"],
+    "ingredients": ["beef", "short rib", "chiles", "cayenne", "onions", "pearl onions"],
+    "techniques": ["braised", "charred"]
+  },
+  {
+    "name": "Braised Lamb Vindaloo with Flaky Paratha, Potato Mash, Yogurt & Lime Shot",
+    "slug": "S23E02E14",
+    "season": 23,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Jassi",
+    "image": "/S23/E02/E14.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["vindaloo", "paratha"],
+    "ingredients": ["lamb", "potato", "yogurt", "lime"],
+    "techniques": ["braised", "pan-fried"]
+  },
+  {
+    "name": "Livermush & Grilled Chicken Banh Mi with Pickled Carrots",
+    "slug": "S23E03QF01",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E03/QF01.tiff",
+    "cuisines": ["Vietnamese"],
+    "dishes": ["banh mi", "pickles"],
+    "ingredients": ["livermush", "chicken", "carrot", "bread"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Livermush French Toast & Maple Syrup",
+    "slug": "S23E03QF02",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Nana",
+    "image": "/S23/E03/QF02.tiff",
+    "cuisines": [],
+    "dishes": ["french toast"],
+    "ingredients": ["livermush", "bread", "egg", "maple syrup"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Livermush Pate with Tomatoes, Cayenne & Livermush Croutons",
+    "slug": "S23E03QF03",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E03/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["pate", "croutons"],
+    "ingredients": ["livermush", "tomato", "chiles", "cayenne"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Cornmeal Fried Livermush with Brown Butter Hollandaise & Roasted Grapes",
+    "slug": "S23E03QF04",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E03/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["hollandaise"],
+    "ingredients": ["livermush", "cornmeal", "butter", "grapes", "egg"],
+    "techniques": ["fried", "roasted"]
+  },
+  {
+    "name": "Livermush Benedict",
+    "slug": "S23E03QF05",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E03/QF05.tiff",
+    "cuisines": [],
+    "dishes": ["eggs benedict", "hollandaise"],
+    "ingredients": ["livermush", "egg", "butter", "bread"],
+    "techniques": ["poached", "pan-fried"]
+  },
+  {
+    "name": "Livermush Foie Gras, Pommes de Terre & Pickled Sunchokes",
+    "slug": "S23E03QF06",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E03/QF06.tiff",
+    "cuisines": ["French"],
+    "dishes": ["pickles"],
+    "ingredients": ["livermush", "potato", "sunchoke"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Cantonese Steamed Egg with Livermush & Marinated Tomatoes",
+    "slug": "S23E03QF07",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E03/QF07.tiff",
+    "cuisines": ["Chinese"],
+    "dishes": ["steamed egg"],
+    "ingredients": ["livermush", "egg", "tomato"],
+    "techniques": ["steamed"]
+  },
+  {
+    "name": "Piccalilli Beurre Blanc with Seared Livermush",
+    "slug": "S23E03QF08",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E03/QF08.tiff",
+    "cuisines": ["French", "British"],
+    "dishes": ["beurre blanc", "piccalilli", "pickles"],
+    "ingredients": ["livermush", "butter"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "\"Livermushroom\" Toast with Parmesan Whipped Cream",
+    "slug": "S23E03QF09",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E03/QF09.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["livermush", "mushroom", "bread", "cheese", "parmesan", "cream"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Arpege Egg with Livermush",
+    "slug": "S23E03QF10",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E03/QF10.tiff",
+    "cuisines": ["French"],
+    "dishes": ["arpege egg"],
+    "ingredients": ["livermush", "egg"],
+    "techniques": []
+  },
+  {
+    "name": "Crispy Livermush, Pate & Grape Mostarda",
+    "slug": "S23E03QF11",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Brittany",
+    "image": "/S23/E03/QF11.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["mostarda", "pate"],
+    "ingredients": ["livermush", "grapes"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Pork & Livermush Albondigas with Peaches & Marsala Dijon Sauce",
+    "slug": "S23E03QF12",
+    "season": 23,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E03/QF12.tiff",
+    "cuisines": ["Spanish"],
+    "dishes": ["albondigas"],
+    "ingredients": ["pork", "livermush", "peach", "wine", "marsala", "mustard", "bread"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Deconstructed Lasagna Bolognese with Marbled Pasta & Whipped Ricotta",
+    "slug": "S23E03E01",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E03/E01.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["lasagna", "bolognese"],
+    "ingredients": ["pasta", "beef", "cheese", "ricotta"],
+    "techniques": []
+  },
+  {
+    "name": "Chicken Galantine & Yassa Onion Puree",
+    "slug": "S23E03E02",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Nana",
+    "image": "/S23/E03/E02.tiff",
+    "cuisines": ["West African", "French"],
+    "dishes": ["galantine", "puree", "yassa"],
+    "ingredients": ["chicken", "onion", "mustard"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Pickled Shrimp Bun with Red Eye Gravy",
+    "slug": "S23E03E03",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E03/E03.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["pickles", "gravy"],
+    "ingredients": ["shellfish", "shrimp", "bread", "coffee", "pork", "ham"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Mole Negro, Mole Rojo & Mole Verde with Chicken",
+    "slug": "S23E03E04",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E03/E04.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["mole"],
+    "ingredients": ["chicken", "chiles", "chocolate"],
+    "techniques": []
+  },
+  {
+    "name": "Bao Flight: Yellow Chili Pork, Green Curry Beef & Strawberry Matcha",
+    "slug": "S23E03E05",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E03/E05.tiff",
+    "cuisines": ["Chinese"],
+    "dishes": ["bao"],
+    "ingredients": ["pork", "beef", "chiles", "curry", "strawberry", "matcha"],
+    "techniques": ["steamed", "braised"]
+  },
+  {
+    "name": "Pan Seared Scallops, Broccoli & Chlorophyll Puree, Daikon, Carrot & Saffron Broth",
+    "slug": "S23E03E06",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Brittany",
+    "image": "/S23/E03/E06.tiff",
+    "cuisines": [],
+    "dishes": ["puree", "broth"],
+    "ingredients": ["shellfish", "scallop", "broccoli", "chlorophyll", "daikon", "carrot", "saffron"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Lamb & Clams with Dyed Vegetables",
+    "slug": "S23E03E07",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E03/E07.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["lamb", "shellfish", "clams"],
+    "techniques": ["roasted", "steamed"]
+  },
+  {
+    "name": "Charcoal-Brined Pork with Rainbow Spatzle, Red Cabbage, Kumquat & Sourdough Vinaigrette",
+    "slug": "S23E03E08",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E03/E08.tiff",
+    "cuisines": ["German"],
+    "dishes": ["spatzle", "vinaigrette"],
+    "ingredients": ["pork", "red cabbage", "kumquat", "bread", "sourdough"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Cochinita Pibil, Jalapeno Cilantro Crema, Turmeric Rice, Hibiscus Pickled Onion, Habanero Salad & Guajillo Oil",
+    "slug": "S23E03E09",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E03/E09.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["cochinita pibil", "crema", "pickles", "salad", "chili oil"],
+    "ingredients": ["pork", "jalapeno", "cilantro", "rice", "turmeric", "hibiscus", "onion", "habanero", "chiles", "guajillo"],
+    "techniques": ["braised", "steamed"]
+  },
+  {
+    "name": "Vadouvan Poached Scallop, Braised Calamari with Squid Ink & Onion Soubise",
+    "slug": "S23E03E10",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E03/E10.tiff",
+    "cuisines": ["French"],
+    "dishes": ["soubise"],
+    "ingredients": ["shellfish", "scallop", "squid ink", "squid", "vadouvan", "onion"],
+    "techniques": ["poached", "braised"]
+  },
+  {
+    "name": "Tricolor Red Snapper, Corn Nuts & Leche de Tigre",
+    "slug": "S23E03E11",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E03/E11.tiff",
+    "cuisines": ["Latin American"],
+    "dishes": ["leche de tigre"],
+    "ingredients": ["fish", "snapper", "corn", "lime"],
+    "techniques": []
+  },
+  {
+    "name": "Mussels in Escabeche with Marbled Potatoes, Mojo Rojo & Mojo Verde",
+    "slug": "S23E03E12",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E03/E12.tiff",
+    "cuisines": ["Spanish"],
+    "dishes": ["escabeche", "mojo"],
+    "ingredients": ["shellfish", "mussels", "potato"],
+    "techniques": ["steamed"]
+  },
+  {
+    "name": "Brioche-Stuffed Roasted Chicken, Preserved Lemon Tagine & Charcoal Parsnip Puree",
+    "slug": "S23E03E13",
+    "season": 23,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E03/E13.tiff",
+    "cuisines": ["Moroccan"],
+    "dishes": ["tagine", "puree"],
+    "ingredients": ["chicken", "bread", "brioche", "preserved lemon", "parsnip", "charcoal"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Arepa with Parmesan, Creme Fraiche & Caviar",
+    "slug": "S23E04QF01",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E04/QF01.tiff",
+    "cuisines": ["Venezuelan"],
+    "dishes": ["arepa"],
+    "ingredients": ["masa", "parmesan", "creme fraiche", "caviar"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Seared Scallop with Plum Sauce",
+    "slug": "S23E04QF02",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Brittany",
+    "image": "/S23/E04/QF02.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["shellfish", "scallop", "plum"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Sourdough Crusted Grouper with Dried Fruits & Nuts",
+    "slug": "S23E04QF03",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E04/QF03.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "grouper", "bread", "sourdough", "dried fruit", "nuts"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Tomme Grilled Cheese with Raspberry & Apricot Compote",
+    "slug": "S23E04QF04",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E04/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["grilled cheese", "compote"],
+    "ingredients": ["cheese", "tomme", "bread", "raspberry", "apricot"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Roasted & Fried Sunchokes with Tomme Cheese Sauce",
+    "slug": "S23E04QF05",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E04/QF05.tiff",
+    "cuisines": [],
+    "dishes": ["cheese sauce"],
+    "ingredients": ["sunchoke", "cheese", "tomme"],
+    "techniques": ["roasted", "fried"]
+  },
+  {
+    "name": "Mushroom Toast with Seared Ribeye, Tomme & Soubise",
+    "slug": "S23E04QF06",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E04/QF06.tiff",
+    "cuisines": [],
+    "dishes": ["soubise"],
+    "ingredients": ["mushroom", "bread", "beef", "ribeye", "cheese", "tomme", "onion"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Braised Artichoke, Poached Quail Egg & Rose Mayonnaise",
+    "slug": "S23E04QF07",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E04/QF07.tiff",
+    "cuisines": [],
+    "dishes": ["aioli"],
+    "ingredients": ["artichoke", "egg", "quail egg", "wine", "rose wine"],
+    "techniques": ["braised", "poached"]
+  },
+  {
+    "name": "Soft Scrambled Eggs with Roasted Grape Verjus & Croutons",
+    "slug": "S23E04QF08",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Jennifer",
+    "image": "/S23/E04/QF08.tiff",
+    "cuisines": [],
+    "dishes": ["croutons"],
+    "ingredients": ["egg", "grapes", "verjus", "bread"],
+    "techniques": ["pan-fried", "roasted", "fried"]
+  },
+  {
+    "name": "Poached Peaches with Sabayon",
+    "slug": "S23E04QF09",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E04/QF09.tiff",
+    "cuisines": ["French"],
+    "dishes": ["sabayon"],
+    "ingredients": ["peach", "egg"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Sauteed Mushroom Mochi",
+    "slug": "S23E04QF10",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E04/QF10.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["mochi"],
+    "ingredients": ["mushroom", "sticky rice"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Potato & Bottarga Mochi with Creme Fraiche",
+    "slug": "S23E04QF11",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E04/QF11.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["mochi"],
+    "ingredients": ["potato", "bottarga", "creme fraiche", "sticky rice"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Lamb, Cherry & Parsley Mochi",
+    "slug": "S23E04QF12",
+    "season": 23,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E04/QF12.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["mochi"],
+    "ingredients": ["lamb", "cherry", "parsley", "sticky rice"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Marble Potato Salad with Smoked Trout, Potato Chip & Potato Nage",
+    "slug": "S23E04E01",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E04/E01.tiff",
+    "cuisines": [],
+    "dishes": ["salad", "nage"],
+    "ingredients": ["potato", "fish", "trout", "smoked fish"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Yukon Filled with Potato Salad, Scallion Cream & Potato Chip",
+    "slug": "S23E04E02",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E04/E02.tiff",
+    "cuisines": [],
+    "dishes": ["salad", "potato salad"],
+    "ingredients": ["potato", "scallion", "sour cream"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "\"Hoppin' Juan\" - Beans with Crispy Bacon, Sofrito, Carolina Gold Rice & Poached Egg",
+    "slug": "S23E04E03",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E04/E03.tiff",
+    "cuisines": ["Latin American", "Southern"],
+    "dishes": ["hoppin' john", "sofrito"],
+    "ingredients": ["beans", "bacon", "rice", "egg"],
+    "techniques": ["braised", "poached", "steamed", "pan-fried"]
+  },
+  {
+    "name": "\"Hoppin' Huang\" - Crispy Rice with Charred Shiitakes, Butter Beans & Cured Egg Yolk",
+    "slug": "S23E04E04",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E04/E04.tiff",
+    "cuisines": ["Chinese", "Southern"],
+    "dishes": ["hoppin' john", "soy-cured egg yolk"],
+    "ingredients": ["rice", "mushroom", "shiitake", "beans", "egg"],
+    "techniques": ["braised", "pan-fried", "charred", "steamed", "cured"]
+  },
+  {
+    "name": "Braised Collards, Chadon Beni & Kimchi with Black Bean & Tasso Ham Fritter",
+    "slug": "S23E04E05",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E04/E05.tiff",
+    "cuisines": ["Caribbean", "Southern"],
+    "dishes": ["fritter"],
+    "ingredients": ["collard greens", "culantro", "beans", "pork", "ham"],
+    "techniques": ["braised", "fried"]
+  },
+  {
+    "name": "Collard Wrapped Pork & Fennel Sausage with Smoked Tomato Butter Sauce",
+    "slug": "S23E04E06",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Brittany",
+    "image": "/S23/E04/E06.tiff",
+    "cuisines": [],
+    "dishes": ["sausage"],
+    "ingredients": ["collard greens", "pork", "sausage", "fennel", "tomato", "butter"],
+    "techniques": ["smoked", "pan-fried"]
+  },
+  {
+    "name": "Charred Cabbage with Grits, Confit Tomatoes & Pickled Corn",
+    "slug": "S23E04E07",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E04/E07.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["grits", "pickles", "confit"],
+    "ingredients": ["cabbage", "cornmeal", "tomato", "corn"],
+    "techniques": ["charred", "confit"]
+  },
+  {
+    "name": "Charred Cabbage with Smoked Bacon & Parmesan Breadcrumbs",
+    "slug": "S23E04E08",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E04/E08.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["cabbage", "bacon", "cream", "parmesan", "breadcrumbs"],
+    "techniques": ["charred"]
+  },
+  {
+    "name": "Hoe Cake with Gochujang Fried Chicken & Bourbon-Bacon Maple Syrup",
+    "slug": "S23E04E09",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E04/E09.tiff",
+    "cuisines": ["Korean", "Southern"],
+    "dishes": ["hoe cake", "fried chicken"],
+    "ingredients": ["cornmeal", "chicken", "gochujang", "bacon", "maple syrup", "bourbon"],
+    "techniques": ["fried", "pan-fried"]
+  },
+  {
+    "name": "Yeasted Hoe Cake with Pot Likker, Butter Beans, Triple Cream & Hot Honey",
+    "slug": "S23E04E10",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E04/E10.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["hoe cake", "pot likker", "hot honey"],
+    "ingredients": ["cornmeal", "butter beans", "cream", "honey"],
+    "techniques": ["baked", "braised"]
+  },
+  {
+    "name": "Braised Okra & Pork Belly with Seeded Tempura",
+    "slug": "S23E04E11",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E04/E11.tiff",
+    "cuisines": ["Japanese", "Southern"],
+    "dishes": ["tempura"],
+    "ingredients": ["okra", "pork", "pork belly"],
+    "techniques": ["braised", "fried"]
+  },
+  {
+    "name": "Red Curry Rice & Fried Egg",
+    "slug": "S23E04E12",
+    "season": 23,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E04/E12.tiff",
+    "cuisines": ["Thai"],
+    "dishes": [],
+    "ingredients": ["rice", "curry", "egg"],
+    "techniques": ["pan-fried", "steamed"]
+  },
+  {
+    "name": "Colorado Vanilla Ice Cream with Nutella, Corn Nut Crunch & Maple Syrup",
+    "slug": "S23E05QF01",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E05/QF01.tiff",
+    "cuisines": [],
+    "dishes": ["ice cream"],
+    "ingredients": ["vanilla", "nutella", "corn nuts", "maple syrup"],
+    "techniques": ["frozen"]
+  },
+  {
+    "name": "Puffified Chicken with Cheesy Rainbow Grits & Christmas Flavors",
+    "slug": "S23E05QF02",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E05/QF02.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["grits"],
+    "ingredients": ["chicken", "grits", "cheese"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Ribeye with Cheesy Potatoes, Corn Nuts & Ketchup",
+    "slug": "S23E05QF03",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E05/QF03.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["beef", "ribeye", "potato", "cheese", "corn nuts", "ketchup"],
+    "techniques": ["pan-fried", "fried"]
+  },
+  {
+    "name": "Potato Souffle, Lamb Shepherd's Pie with Ranch Seasoning & Corn Nut Crunch",
+    "slug": "S23E05QF04",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E05/QF04.tiff",
+    "cuisines": ["French", "British"],
+    "dishes": ["souffle", "shepherd's pie", "ranch"],
+    "ingredients": ["potato", "cheese", "lamb", "corn nuts"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "\"Poof Poof Pass the Pizza Puff\" with Basil, Ricotta Cheese & Corn Nuts",
+    "slug": "S23E05QF05",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E05/QF05.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["pizza"],
+    "ingredients": ["basil", "ricotta", "cheese", "corn nuts", "bread"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Sweet & Sour Fried Chicken with Puffed Rice & Corn Nuts",
+    "slug": "S23E05QF06",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E05/QF06.tiff",
+    "cuisines": [],
+    "dishes": ["fried chicken"],
+    "ingredients": ["chicken", "rice", "corn nuts"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Chicken Tenders with Corn Nuts, Mountain of Puffy Potatoes with Cheesy \"Snow\" & Turkey Gravy",
+    "slug": "S23E05QF07",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E05/QF07.tiff",
+    "cuisines": [],
+    "dishes": ["fried chicken", "gravy"],
+    "ingredients": ["chicken", "corn nuts", "potato", "cheese", "turkey"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Peppermint & White Chocolate Crema Catalana with Corn Nuts, Puffed Sorghum, Strawberry & Pomegranate",
+    "slug": "S23E05QF08",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E05/QF08.tiff",
+    "cuisines": ["Spanish"],
+    "dishes": ["crema catalana", "puffed grain"],
+    "ingredients": ["peppermint", "chocolate", "white chocolate", "corn nuts", "sorghum", "strawberry", "pomegranate"],
+    "techniques": []
+  },
+  {
+    "name": "Turkey Meatball Soup, Creme Fraiche & Corn Nuts",
+    "slug": "S23E05QF09",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E05/QF09.tiff",
+    "cuisines": [],
+    "dishes": ["soup", "meatballs"],
+    "ingredients": ["turkey", "creme fraiche", "corn nuts"],
+    "techniques": []
+  },
+  {
+    "name": "Puffified Pizza with Pita Bread, Andouille Sausage, Cheese \"Snow\", Blueberries & Grapes",
+    "slug": "S23E05QF10",
+    "season": 23,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E05/QF10.tiff",
+    "cuisines": ["Italian", "Creole"],
+    "dishes": ["pizza"],
+    "ingredients": ["pita", "andouille", "sausage", "cheese", "blueberry", "grapes", "tomato"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Cured Salmon with Banga Broth & Dehydrated Smoked Oyster Infused Rice",
+    "slug": "S23E05E01",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E05/E01.tiff",
+    "cuisines": ["Nigerian"],
+    "dishes": ["broth", "banga"],
+    "ingredients": ["fish", "salmon", "shellfish", "oyster", "smoked oyster", "rice"],
+    "techniques": ["cured", "dehydrated"]
+  },
+  {
+    "name": "Grilled New York Strip with XO Sauce, Marinated Dehydrated Mushrooms, Citrus, Fried Leeks & Fried Beef",
+    "slug": "S23E05E02",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E05/E02.tiff",
+    "cuisines": ["Chinese"],
+    "dishes": ["XO sauce"],
+    "ingredients": ["beef", "new york strip", "mushroom", "citrus", "leeks"],
+    "techniques": ["grilled", "dehydrated", "fried"]
+  },
+  {
+    "name": "Matcha Cake with Strawberries, Yuzu Meringue, Pink Peppercorn Meringue, Pineapple Leather & Thai Basil",
+    "slug": "S23E05E03",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E05/E03.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["meringue", "cake"],
+    "ingredients": ["matcha", "strawberry", "yuzu", "pineapple", "basil", "thai basil", "pink peppercorn"],
+    "techniques": ["baked", "dehydrated"]
+  },
+  {
+    "name": "Sea Bass with Summer Cassoulet, Smoked Kalamata Olive Crumble, Tomato Skins, Tomato & Potato Chip",
+    "slug": "S23E05E04",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E05/E04.tiff",
+    "cuisines": ["French"],
+    "dishes": ["cassoulet"],
+    "ingredients": ["fish", "sea bass", "beans", "olives", "tomato", "potato"],
+    "techniques": ["pan-fried", "braised", "smoked", "dehydrated", "fried"]
+  },
+  {
+    "name": "Brassica Salad with Trail Mix, Creamy Sesame Dressing & Pomegranate Glass",
+    "slug": "S23E05E05",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E05/E05.tiff",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["sesame", "pomegranate", "nuts"],
+    "techniques": ["dehydrated"]
+  },
+  {
+    "name": "Smoked Swordfish with Dehydrated Strawberries, Jicama & Mandarin Salsa, Mizuna Leaves & Lime Meringue Sticks",
+    "slug": "S23E05E06",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E05/E06.tiff",
+    "cuisines": [],
+    "dishes": ["salsa", "meringue"],
+    "ingredients": ["fish", "swordfish", "strawberry", "jicama", "mandarin", "lime", "mizuna", "egg"],
+    "techniques": ["smoked", "dehydrated", "baked"]
+  },
+  {
+    "name": "Squid Ink Crusted Roasted Monkfish with Squid Ink Adobo Sauce, Dehydrated Broccoli & Garlic Chip",
+    "slug": "S23E05E07",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E05/E07.tiff",
+    "cuisines": ["Filipino"],
+    "dishes": ["adobo"],
+    "ingredients": ["fish", "monkfish", "squid ink", "broccoli", "garlic"],
+    "techniques": ["roasted", "dehydrated", "fried"]
+  },
+  {
+    "name": "Spinach Wrapped Poached Chicken & Morel Quenelle with Consomme",
+    "slug": "S23E05E08",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E05/E08.tiff",
+    "cuisines": ["French"],
+    "dishes": ["quenelle", "consomme"],
+    "ingredients": ["chicken", "spinach", "mushroom", "morel", "celery", "carrot"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Lamb Chop with Yellow Grits, Asparagus & Variations of Mama's Mole",
+    "slug": "S23E05E09",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E05/E09.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["grits", "mole"],
+    "ingredients": ["lamb", "cornmeal", "asparagus", "chiles"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Smoked Catfish Dip with Dehydrated Herbs, Focaccia with Sesame Seeds, Poppy Seeds & Dehydrated Lemon",
+    "slug": "S23E05E10",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E05/E10.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["smoked catfish dip"],
+    "ingredients": ["fish", "catfish", "focaccia", "sesame", "poppy seeds", "lemon"],
+    "techniques": ["smoked", "dehydrated", "baked"]
+  },
+  {
+    "name": "Coconut Braised Pork Belly, Radicchio, Thai Basil, Chimichurri & Rice with Dehydrated Shrimp & Aromatics",
+    "slug": "S23E05E11",
+    "season": 23,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E05/E11.tiff",
+    "cuisines": [],
+    "dishes": ["chimichurri"],
+    "ingredients": ["pork", "pork belly", "coconut", "radicchio", "thai basil", "rice", "shellfish", "shrimp"],
+    "techniques": ["braised", "dehydrated", "steamed"]
+  },
+  {
+    "name": "Cookie S'more Sandwich",
+    "slug": "S23E06QF01",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E06/QF01.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["cookie", "chocolate", "marshmallow"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Peanuts Two Ways Pizzelle S'more",
+    "slug": "S23E06QF02",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E06/QF02.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["peanuts", "marshmallow", "pizzelle"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Biscoff & Lucky Charms S'more",
+    "slug": "S23E06QF03",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E06/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["biscoff", "marshmallow", "cereal"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "\"Right Side Up\" S'more",
+    "slug": "S23E06QF04",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E06/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["chocolate", "marshmallow", "graham cracker"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Caramel & Raspberry S'more",
+    "slug": "S23E06QF05",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E06/QF05.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["caramel", "raspberry", "marshmallow", "graham cracker"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Glazed Pecan S'more",
+    "slug": "S23E06QF06",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Jennifer",
+    "image": "/S23/E06/QF06.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["pecan", "marshmallow", "graham cracker"],
+    "techniques": ["fire-roasted", "candied"]
+  },
+  {
+    "name": "Spicy Chili S'more",
+    "slug": "S23E06QF07",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E06/QF07.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["chiles", "chocolate", "marshmallow", "graham cracker"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Peanut Butter Cup & Popcorn S'more",
+    "slug": "S23E06QF08",
+    "season": 23,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E06/QF08.tiff",
+    "cuisines": [],
+    "dishes": ["s'more"],
+    "ingredients": ["peanut butter", "chocolate", "marshmallow", "popcorn", "graham cracker"],
+    "techniques": ["fire-roasted"]
+  },
+  {
+    "name": "Milk Bread BBQ Sandwich, Smoked Pork Shoulder, Alabama Coleslaw, Spicy Pickles & Dipping Sauce",
+    "slug": "S23E06E01",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E06/E01.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["sandwich", "coleslaw", "pickles"],
+    "ingredients": ["pork", "pork shoulder", "bread", "cabbage"],
+    "techniques": ["smoked", "baked"]
+  },
+  {
+    "name": "\"South of the Border\" Bossam, Eastern Style Vinaigrette, Cabbage Chow Chow & Fresh Herb Salad",
+    "slug": "S23E06E02",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E06/E02.tiff",
+    "cuisines": ["Southern", "Korean"],
+    "dishes": ["chow chow", "vinaigrette", "salad", "bossam"],
+    "ingredients": ["pork", "pork shoulder", "cabbage", "herbs"],
+    "techniques": ["smoked"]
+  },
+  {
+    "name": "Pork Loin, Crispy Ear Terrine & Mustard-Based Carrot BBQ Sauce",
+    "slug": "S23E06E03",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E06/E03.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["terrine"],
+    "ingredients": ["pork", "pork loin", "pork ear", "carrot", "mustard"],
+    "techniques": ["pan-fried", "smoked"]
+  },
+  {
+    "name": "Smoked Pork Loin, Pork Floss, Rice & \"East Meets East\" Sauce",
+    "slug": "S23E06E04",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E06/E04.tiff",
+    "cuisines": ["Southern", "Chinese"],
+    "dishes": [],
+    "ingredients": ["pork", "pork loin", "rice", "pork floss"],
+    "techniques": ["smoked", "dehydrated"]
+  },
+  {
+    "name": "Pork Belly, Chicharron, Succotash & Pimento Cheese",
+    "slug": "S23E06E05",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E06/E05.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["succotash", "pimento cheese"],
+    "ingredients": ["pork", "pork belly", "chicharron", "corn", "cheese"],
+    "techniques": ["smoked", "fried"]
+  },
+  {
+    "name": "Smoked BBQ Pork Belly, Mac N' Cheese, Collard Greens & Mustard Onions",
+    "slug": "S23E06E06",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E06/E06.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["mac and cheese"],
+    "ingredients": ["pork", "pork belly", "pasta", "cheese", "collard greens", "onion", "mustard"],
+    "techniques": ["smoked", "baked", "braised"]
+  },
+  {
+    "name": "Ham Steak, Black-Eyed Pea Puree, Hushpuppies, Smoked Grapes & Pickled Collard Green Stems",
+    "slug": "S23E06E07",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E06/E07.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["puree", "hushpuppy", "pickles"],
+    "ingredients": ["ham", "pork", "black-eyed peas", "cornmeal", "grapes", "collard greens"],
+    "techniques": ["fried", "smoked"]
+  },
+  {
+    "name": "Ham Mojo, Black Bean Puree, Oranges & Hushpuppies",
+    "slug": "S23E06E08",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E06/E08.tiff",
+    "cuisines": ["Cuban"],
+    "dishes": ["mojo", "puree", "hushpuppy"],
+    "ingredients": ["ham", "pork", "beans", "orange", "cornmeal"],
+    "techniques": ["smoked", "fried"]
+  },
+  {
+    "name": "Pig Face Stuffed Tamale, Curtido & Salsa Ahogada BBQ Sauce",
+    "slug": "S23E06E09",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E06/E09.tiff",
+    "cuisines": ["Mexican", "Salvadoran"],
+    "dishes": ["tamale", "curtido", "salsa"],
+    "ingredients": ["pork", "masa", "cabbage", "chiles"],
+    "techniques": ["smoked"]
+  },
+  {
+    "name": "Chopped BBQ, Papaya Salad, Summer Roll & Fried Spring Roll",
+    "slug": "S23E06E10",
+    "season": 23,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E06/E10.tiff",
+    "cuisines": ["Vietnamese", "Thai"],
+    "dishes": ["salad", "summer roll", "spring roll"],
+    "ingredients": ["pork", "papaya", "rice paper", "herbs"],
+    "techniques": ["smoked", "fried"]
+  },
+  {
+    "name": "Pan de Elote with Berries, Maple & Piloncillo",
+    "slug": "S23E07QF01",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E07/QF01.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "pan de elote"
+    ],
+    "ingredients": [
+      "cornmeal",
+      "berries",
+      "maple syrup",
+      "piloncillo"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Eggs Benedict, Rushed Hashbrowns & Shortcut Hollandaise",
+    "slug": "S23E07QF02",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Brandon",
+    "image": "/S23/E07/QF02.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "eggs benedict",
+      "hollandaise",
+      "hashbrowns"
+    ],
+    "ingredients": [
+      "egg",
+      "potato",
+      "butter"
+    ],
+    "techniques": [
+      "poached",
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "New York Strip Corn Beef Hash, Mustard Sabayon Sauce, Hash Browns",
+    "slug": "S23E07QF03",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Justin",
+    "image": "/S23/E07/QF03.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "corned beef hash",
+      "sabayon",
+      "hashbrowns"
+    ],
+    "ingredients": [
+      "beef",
+      "new york strip",
+      "mustard",
+      "egg",
+      "potato",
+      "bread"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Fried Green Tomato & Country Ham Sandwich",
+    "slug": "S23E07QF04",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E07/QF04.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+      "sandwich"
+    ],
+    "ingredients": [
+      "green tomato",
+      "tomato",
+      "ham",
+      "pork",
+      "bread",
+      "greens"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Fried Green Tomato & Country Ham Sandwich with Salmon Roe & Avocado",
+    "slug": "S23E07QF05",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E07/QF05.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+      "sandwich"
+    ],
+    "ingredients": [
+      "green tomato",
+      "tomato",
+      "ham",
+      "pork",
+      "fish roe",
+      "salmon roe",
+      "avocado",
+      "greens",
+      "bread"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Crab & Shrimp Bisque with Hoecake",
+    "slug": "S23E07QF06",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E07/QF06.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+      "bisque",
+      "hoe cake"
+    ],
+    "ingredients": [
+      "shellfish",
+      "crab",
+      "shrimp",
+      "cornmeal"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Chicken Tenders with Five-Spice Butter & Syrup",
+    "slug": "S23E07QF07",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E07/QF07.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "fried chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "five-spice",
+      "butter",
+      "maple syrup"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Smothered Steak with Bourbon Pan Gravy",
+    "slug": "S23E07QF08",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E07/QF08.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+      "gravy"
+    ],
+    "ingredients": [
+      "beef",
+      "steak",
+      "mushroom",
+      "onion",
+      "bourbon"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Cornmeal Battered Fried Oysters with Lemon Pepper & Creamed Corn",
+    "slug": "S23E07QF09",
+    "season": 23,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": "Jennifer",
+    "image": "/S23/E07/QF09.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+    ],
+    "ingredients": [
+      "shellfish",
+      "oyster",
+      "cornmeal",
+      "lemon",
+      "corn"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Apple Semifreddo with Apple Coulis, Spiced Cake & Apple Butters",
+    "slug": "S23E07E01",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E07/E01.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "semifreddo",
+      "coulis",
+      "cake"
+    ],
+    "ingredients": [
+      "apple",
+      "butter",
+      "cream"
+    ],
+    "techniques": [
+      "frozen",
+      "baked"
+    ]
+  },
+  {
+    "name": "Chocolate Sabayon, Chocolate Custard, Pate Sucree & Candied Kumquats",
+    "slug": "S23E07E02",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E07/E02.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "sabayon",
+      "custard",
+      "pate sucree"
+    ],
+    "ingredients": [
+      "chocolate",
+      "egg",
+      "butter",
+      "kumquat"
+    ],
+    "techniques": [
+      "baked",
+      "candied"
+    ]
+  },
+  {
+    "name": "Coconut Tres Leches",
+    "slug": "S23E07E03",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E07/E03.tiff",
+    "cuisines": [
+      "Latin American"
+    ],
+    "dishes": [
+      "tres leches"
+    ],
+    "ingredients": [
+      "coconut",
+      "cream",
+      "egg",
+      "butter"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Pandan & Coconut Rice, Roasted Bananas & Dulce de Leche Sabayon",
+    "slug": "S23E07E04",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E07/E04.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "sabayon"
+    ],
+    "ingredients": [
+      "pandan",
+      "coconut",
+      "rice",
+      "banana",
+      "dulce de leche",
+      "nuts"
+    ],
+    "techniques": [
+      "roasted",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Meyer Lemon Curd & Yuzu Jelly with Saltine & Graham Cracker Crunch",
+    "slug": "S23E07E05",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Jennifer",
+    "image": "/S23/E07/E05.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "curd",
+      "jelly"
+    ],
+    "ingredients": [
+      "lemon",
+      "yuzu",
+      "egg",
+      "saltine",
+      "graham cracker"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Cherry Granita, Roasted Pineapple, Brown Butter Walnuts & Raspberry Whipped Cream",
+    "slug": "S23E07E06",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Justin",
+    "image": "/S23/E07/E06.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "granita"
+    ],
+    "ingredients": [
+      "cherry",
+      "pineapple",
+      "butter",
+      "nuts",
+      "walnut",
+      "raspberry",
+      "cream",
+      "marshmallow"
+    ],
+    "techniques": [
+      "frozen",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Berry Compote, Almond Pate Brisee with Passion Fruit Mousse & Cotton Candy",
+    "slug": "S23E07E07",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E07/E07.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "compote",
+      "pate brisee",
+      "mousse"
+    ],
+    "ingredients": [
+      "berries",
+      "nuts",
+      "almond",
+      "passion fruit",
+      "cream"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Capirotada with Whipped Cream",
+    "slug": "S23E07E08",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E07/E08.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "capirotada"
+    ],
+    "ingredients": [
+      "bread",
+      "raisins",
+      "cheese",
+      "cream",
+      "piloncillo"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "\"Banana-misu\" - Roasted Banana Compote, Espresso Dipped Wafers & Whipped Cream",
+    "slug": "S23E07E09",
+    "season": 23,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E07/E09.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "tiramisu",
+      "compote"
+    ],
+    "ingredients": [
+      "banana",
+      "espresso",
+      "coffee",
+      "cream",
+      "ladyfingers"
+    ],
+    "techniques": [
+      "roasted"
+    ]
+  },
+  {
+    "name": "She-Crab Cake with She-Crab Bisque",
+    "slug": "S23E08E01",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E08/E01.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["crab cake", "bisque"],
+    "ingredients": ["shellfish", "crab", "tomato", "greens"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Cheese Puff with Country Ham, Comte & Sauce Mornay",
+    "slug": "S23E08E02",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E08/E02.tiff",
+    "cuisines": ["French", "Southern"],
+    "dishes": ["gougere", "mornay"],
+    "ingredients": ["cheese", "comte", "ham", "pork", "butter", "egg"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Red Rice with Smoked Oysters, Pickled Okra, Crab Roe & Bearnaise",
+    "slug": "S23E08E03",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E08/E03.tiff",
+    "cuisines": ["Southern", "French"],
+    "dishes": ["bearnaise", "pickles"],
+    "ingredients": ["rice", "shellfish", "oyster", "smoked oyster", "okra", "crab roe", "butter", "egg"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Crispy Pork Belly with Collard Greens, Fried Scallion Corn Bread & Pickles",
+    "slug": "S23E08E04",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E08/E04.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["corn bread", "pickles"],
+    "ingredients": ["pork", "pork belly", "collard greens", "scallion", "cornmeal", "cucumber"],
+    "techniques": ["roasted", "pan-fried", "braised"]
+  },
+  {
+    "name": "\"PB & J\" Peanut Panna Cotta, Compressed Fruits, Oat Crumble & Cheerwine Gel",
+    "slug": "S23E08E05",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E08/E05.tiff",
+    "cuisines": [],
+    "dishes": ["panna cotta", "gel"],
+    "ingredients": ["peanut butter", "peanuts", "cream", "strawberry", "oats", "cheerwine"],
+    "techniques": ["compressed"]
+  },
+  {
+    "name": "Pecan Baklava with Bourbon Maple Syrup & Sweet Potato Creme Anglaise",
+    "slug": "S23E08E06",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E08/E06.tiff",
+    "cuisines": ["Middle Eastern", "Southern"],
+    "dishes": ["baklava", "creme anglaise"],
+    "ingredients": ["nuts", "pecan", "phyllo", "bourbon", "maple syrup", "sweet potato", "cream", "egg"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Carolina Ruby Sweet Potato Tostada with Crema & Salsa Negra",
+    "slug": "S23E08E07",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E08/E07.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["tostada", "salsa", "crema"],
+    "ingredients": ["sweet potato", "masa"],
+    "techniques": ["fried", "roasted"]
+  },
+  {
+    "name": "Snapper Aguachile with Plantain Chip",
+    "slug": "S23E08E08",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E08/E08.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["aguachile"],
+    "ingredients": ["fish", "snapper", "plantain", "avocado", "onion", "chiles"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Cod Pescado a la Veracruzana with Stewed Tomatoes, Castelvetrano Olives & Capers",
+    "slug": "S23E08E09",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E08/E09.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["veracruzana"],
+    "ingredients": ["fish", "cod", "tomato", "olives", "capers"],
+    "techniques": ["steamed"]
+  },
+  {
+    "name": "Tongue & Cheek Barbacoa with Duo of Salsas",
+    "slug": "S23E08E10",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E08/E10.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["barbacoa", "salsa"],
+    "ingredients": ["beef", "beef tongue", "beef cheek", "cauliflower", "carrot", "onion"],
+    "techniques": ["braised", "steamed"]
+  },
+  {
+    "name": "\"Cremeuxso\" with Crema Catalana & Benne Cracker",
+    "slug": "S23E08E11",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E08/E11.tiff",
+    "cuisines": ["Spanish"],
+    "dishes": ["crema catalana"],
+    "ingredients": ["cream", "egg", "sesame"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Arroz con Leche with Cheerwine Cherry Jelly",
+    "slug": "S23E08E12",
+    "season": 23,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": "Brandon",
+    "image": "/S23/E08/E12.tiff",
+    "cuisines": ["Latin American"],
+    "dishes": ["arroz con leche", "jelly"],
+    "ingredients": ["rice", "cream", "cheerwine", "cherry"],
+    "techniques": []
+  },
+  {
+    "name": "BLT Deviled Egg with Bacon Jam & Pimento",
+    "slug": "S23E09QF01",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E09/QF01.tiff",
+    "cuisines": [
+      "Southern"
+    ],
+    "dishes": [
+      "deviled egg",
+      "BLT"
+    ],
+    "ingredients": [
+      "egg",
+      "bacon",
+      "pimento",
+      "lettuce",
+      "tomato"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Crab Dumpling with Chili Crunch & Mayo",
+    "slug": "S23E09QF02",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E09/QF02.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "dumpling",
+      "chili oil"
+    ],
+    "ingredients": [
+      "shellfish",
+      "crab",
+      "chiles"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Twice Baked Potato, Aioli, Steak Tartare & Crispy Potato",
+    "slug": "S23E09QF03",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E09/QF03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "tartare",
+      "aioli"
+    ],
+    "ingredients": [
+      "potato",
+      "beef"
+    ],
+    "techniques": [
+      "baked",
+      "fried"
+    ]
+  },
+  {
+    "name": "Shrimp Toast with Shrimp Salad",
+    "slug": "S23E09QF04",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E09/QF04.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "shrimp toast",
+      "salad"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "bread"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Pimento Cheese Tostone",
+    "slug": "S23E09QF05",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Oscar",
+    "image": "/S23/E09/QF05.tiff",
+    "cuisines": [
+      "Latin American",
+      "Southern"
+    ],
+    "dishes": [
+      "tostones",
+      "pimento cheese"
+    ],
+    "ingredients": [
+      "plantain",
+      "cheese",
+      "pimento"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Pancetta Croquette with Carolina Gold Aioli & Horseradish Lemon Aioli",
+    "slug": "S23E09QF06",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E09/QF06.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "croquette",
+      "aioli"
+    ],
+    "ingredients": [
+      "pork",
+      "pancetta",
+      "rice",
+      "lemon",
+      "horseradish"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Deviled Egg Crab Gribiche with Fried Capers",
+    "slug": "S23E09QF07",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E09/QF07.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "deviled egg",
+      "gribiche"
+    ],
+    "ingredients": [
+      "egg",
+      "shellfish",
+      "crab",
+      "capers"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Oyster Cracker with Trout Dip, Creme Fraiche, Mayo & Cornichons",
+    "slug": "S23E09QF08",
+    "season": 23,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E09/QF08.tiff",
+    "cuisines": [],
+    "dishes": [
+      "trout dip"
+    ],
+    "ingredients": [
+      "fish",
+      "trout",
+      "creme fraiche",
+      "radish",
+      "pickles",
+      "cornichons",
+      "cracker"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Steak Tartare, Egg Yolk Emulsion, Cornichon Chimichurri, Crispy Shallots & Toasted Baguette",
+    "slug": "S23E09E01",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E09/E01.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "tartare",
+      "chimichurri"
+    ],
+    "ingredients": [
+      "beef",
+      "egg",
+      "pickles",
+      "cornichons",
+      "shallot",
+      "bread",
+      "baguette"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Heirloom Tomatoes, Compressed Watermelon, Pickled Rind & Dungeness Crab",
+    "slug": "S23E09E02",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E09/E02.tiff",
+    "cuisines": [],
+    "dishes": [
+      "salad"
+    ],
+    "ingredients": [
+      "tomato",
+      "watermelon",
+      "shellfish",
+      "crab",
+      "pickles"
+    ],
+    "techniques": [
+      "compressed"
+    ]
+  },
+  {
+    "name": "\"Long's Tāng\" Chicken & Corn Egg Drop Soup with Marinated Bok Choy & Grilled Corn",
+    "slug": "S23E09E03",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E09/E03.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "egg drop soup"
+    ],
+    "ingredients": [
+      "chicken",
+      "corn",
+      "egg",
+      "bok choy",
+      "cilantro"
+    ],
+    "techniques": [
+      "grilled"
+    ]
+  },
+  {
+    "name": "Stuffed Peppers with Lobster Mousseline, Corn Ragu & Salsa Verde",
+    "slug": "S23E09E04",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E09/E04.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "mousseline",
+      "ragu",
+      "salsa verde"
+    ],
+    "ingredients": [
+      "shellfish",
+      "lobster",
+      "chiles",
+      "poblano",
+      "corn"
+    ],
+    "techniques": [
+      "roasted",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Seafood Rice with Herb Salad & Dashi Beurre Monte",
+    "slug": "S23E09E05",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E09/E05.tiff",
+    "cuisines": [
+      "Japanese",
+      "French"
+    ],
+    "dishes": [
+      "salad",
+      "beurre monte",
+      "dashi"
+    ],
+    "ingredients": [
+      "shellfish",
+      "rice",
+      "radish",
+      "butter",
+      "herbs"
+    ],
+    "techniques": [
+      "steamed"
+    ]
+  },
+  {
+    "name": "Chicken Vesuvio, Pea & Parmesan Puree, Chicken Jus & Potatoes",
+    "slug": "S23E09E06",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E09/E06.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "jus"
+    ],
+    "ingredients": [
+      "chicken",
+      "peas",
+      "cheese",
+      "parmesan",
+      "potato"
+    ],
+    "techniques": [
+      "roasted"
+    ]
+  },
+  {
+    "name": "Short Rib Sancocho with Yuca, Butternut Squash, Carrots & Rice",
+    "slug": "S23E09E07",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Oscar",
+    "image": "/S23/E09/E07.tiff",
+    "cuisines": [
+      "Latin American"
+    ],
+    "dishes": [
+      "sancocho"
+    ],
+    "ingredients": [
+      "beef",
+      "short rib",
+      "yucca",
+      "squash",
+      "butternut squash",
+      "carrot",
+      "rice"
+    ],
+    "techniques": [
+      "braised",
+      "steamed"
+    ]
+  },
+  {
+    "name": "Eton Mess with Whipped Creme Fraiche, Berries & Lemon Pith",
+    "slug": "S23E09E08",
+    "season": 23,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E09/E08.tiff",
+    "cuisines": [
+      "British"
+    ],
+    "dishes": [
+      "eton mess",
+      "meringue"
+    ],
+    "ingredients": [
+      "creme fraiche",
+      "berries",
+      "strawberry",
+      "blueberry",
+      "blackberry",
+      "lemon",
+      "egg"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Warm Corn, Pecan & Shrimp Salad with Scuppernong & Tamarind Vinaigrette",
+    "slug": "S23E10QF01",
+    "season": 23,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E10/QF01.tiff",
+    "cuisines": [],
+    "dishes": [
+      "salad",
+      "vinaigrette"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "corn",
+      "nuts",
+      "pecan",
+      "grapes",
+      "tamarind",
+      "tomato",
+      "cucumber"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Corn, Pecan & Shrimp Chow Mein with Scuppernong Pickles",
+    "slug": "S23E10QF02",
+    "season": 23,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E10/QF02.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "chow mein",
+      "pickles"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "corn",
+      "nuts",
+      "pecan",
+      "noodles",
+      "grapes"
+    ],
+    "techniques": [
+      "stir-fried",
+      "fried"
+    ]
+  },
+  {
+    "name": "Butter Poached Shrimp with Pecan Romesco & Charred Corn",
+    "slug": "S23E10QF03",
+    "season": 23,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": "Duyen",
+    "image": "/S23/E10/QF03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "romesco"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "butter",
+      "nuts",
+      "pecan",
+      "corn"
+    ],
+    "techniques": [
+      "poached",
+      "charred"
+    ]
+  },
+  {
+    "name": "Ajo Blanco with Shrimp, Corn, Scuppernongs & Toasted Pecans",
+    "slug": "S23E10QF04",
+    "season": 23,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E10/QF04.tiff",
+    "cuisines": [
+      "Spanish"
+    ],
+    "dishes": [
+      "ajo blanco"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "corn",
+      "nuts",
+      "pecan",
+      "grapes",
+      "bread"
+    ],
+    "techniques": [
+      "grilled",
+      "toasted",
+      "pureed"
+    ]
+  },
+  {
+    "name": "Canh Chua with Pineapple, Tomatoes & Bok Choy",
+    "slug": "S23E10E01",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Duyen",
+    "image": "/S23/E10/E01.tiff",
+    "cuisines": [
+      "Vietnamese"
+    ],
+    "dishes": [
+      "canh chua"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "pineapple",
+      "tamarind",
+      "tomato",
+      "bok choy"
+    ],
+    "techniques": [
+      "braised"
+    ]
+  },
+  {
+    "name": "Seared Spotted Bass, Fennel Puree, Artichoke Barigoule with Mussel & Clam Sauce Meuniere",
+    "slug": "S23E10E02",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E10/E02.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "puree",
+      "barigoule",
+      "meuniere"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "fennel",
+      "artichoke",
+      "shellfish",
+      "mussels",
+      "clams",
+      "butter"
+    ],
+    "techniques": [
+      "pan-fried",
+      "braised"
+    ]
+  },
+  {
+    "name": "Baked Spotted Bass with Braised Lentils, Pepper Sofrito, Dates & Cardamom Vinaigrette",
+    "slug": "S23E10E03",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E10/E03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "vinaigrette",
+      "sofrito"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "lentils",
+      "chiles",
+      "dates",
+      "cardamom"
+    ],
+    "techniques": [
+      "baked",
+      "braised"
+    ]
+  },
+  {
+    "name": "Cantonese Steamed Fish with Ginger, Scallions, Fried Leeks, Rice & Bok Choy",
+    "slug": "S23E10E04",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E10/E04.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [],
+    "ingredients": [
+      "fish",
+      "bass",
+      "ginger",
+      "scallion",
+      "leeks",
+      "rice",
+      "bok choy"
+    ],
+    "techniques": [
+      "steamed",
+      "fried"
+    ]
+  },
+  {
+    "name": "Spotted Bass with Poblano Egusi Sauce & Yassa",
+    "slug": "S23E10E05",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E10/E05.tiff",
+    "cuisines": [
+      "West African"
+    ],
+    "dishes": [
+      "egusi",
+      "yassa"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "chiles",
+      "poblano",
+      "egusi seeds",
+      "radish",
+      "mustard"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Spotted Bass with Green Curry & Papaya Salad",
+    "slug": "S23E10E06",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E10/E06.tiff",
+    "cuisines": [
+      "Thai"
+    ],
+    "dishes": [
+      "salad"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "curry",
+      "papaya",
+      "radish",
+      "tomato"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Beer Battered Fish Taco with Avocado Mousse, Cabbage Slaw & Chipotle Remoulade",
+    "slug": "S23E10E07",
+    "season": 23,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E10/E07.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "taco",
+      "slaw",
+      "mousse",
+      "remoulade"
+    ],
+    "ingredients": [
+      "fish",
+      "bass",
+      "beer",
+      "avocado",
+      "cabbage",
+      "chiles",
+      "jalapeno",
+      "chipotle",
+      "masa"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Crostini with Peach & Raisin Relish, Pickled Peaches, Arugula & Yogurt Sauce",
+    "slug": "S23E11QF01",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Laurence",
+    "image": "/S23/E11/QF01.tiff",
+    "cuisines": [],
+    "dishes": [
+      "crostini",
+      "relish",
+      "pickles"
+    ],
+    "ingredients": [
+      "bread",
+      "peach",
+      "raisins",
+      "arugula",
+      "yogurt"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Crostini with Arugula, Roasted Peaches, Pickled Peaches, Whipped Feta & Toasted Almonds",
+    "slug": "S23E11QF02",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Anthony",
+    "image": "/S23/E11/QF02.tiff",
+    "cuisines": [],
+    "dishes": [
+      "crostini",
+      "pickles"
+    ],
+    "ingredients": [
+      "bread",
+      "arugula",
+      "peach",
+      "cheese",
+      "feta",
+      "nuts",
+      "almonds"
+    ],
+    "techniques": [
+      "roasted",
+      "pickled"
+    ]
+  },
+  {
+    "name": "Peach & Burrata Tostada with Corn Relish & Chipotle Aioli",
+    "slug": "S23E11QF03",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Rhoda",
+    "image": "/S23/E11/QF03.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "tostada",
+      "relish",
+      "aioli"
+    ],
+    "ingredients": [
+      "masa",
+      "peach",
+      "cheese",
+      "burrata",
+      "corn",
+      "chiles",
+      "chipotle"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Gochujang Marinated Peach Crostini with Burrata, Marinated Tomatoes & Fresh Basil Pesto",
+    "slug": "S23E11QF04",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Sherry",
+    "image": "/S23/E11/QF04.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "crostini",
+      "pesto"
+    ],
+    "ingredients": [
+      "bread",
+      "gochujang",
+      "peach",
+      "cheese",
+      "burrata",
+      "tomato",
+      "basil"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Heirloom Tomatoes, Peaches, Sardines & Green Harissa",
+    "slug": "S23E11QF05",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Jonathan",
+    "image": "/S23/E11/QF05.tiff",
+    "cuisines": [],
+    "dishes": [
+      "green harissa"
+    ],
+    "ingredients": [
+      "tomato",
+      "peach",
+      "fish",
+      "sardines",
+      "chiles",
+      "jalapeno",
+      "parsley",
+      "cilantro"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Crostini with Sunflower Seed & Peach Aillade, Roasted Peach, Whipped Feta & Dill",
+    "slug": "S23E11QF06",
+    "season": 23,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": "Sieger",
+    "image": "/S23/E11/QF06.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "crostini",
+      "aillade"
+    ],
+    "ingredients": [
+      "bread",
+      "nuts",
+      "sunflower seeds",
+      "peach",
+      "cheese",
+      "feta",
+      "dill"
+    ],
+    "techniques": [
+      "roasted"
+    ]
+  },
+  {
+    "name": "Rabbit Roulade with Rabbit & Offal Farce, Braised Endive, Hazelnut & Cauliflower Purée",
+    "slug": "S23E11E01",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Sieger",
+    "image": "/S23/E11/E01.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "roulade",
+      "puree"
+    ],
+    "ingredients": [
+      "rabbit",
+      "offal",
+      "endive",
+      "nuts",
+      "hazelnuts",
+      "cauliflower"
+    ],
+    "techniques": [
+      "braised"
+    ]
+  },
+  {
+    "name": "Jerk Braised Rabbit with Yuca & Plantain Mofongo & Avocado Crema",
+    "slug": "S23E11E02",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Sherry",
+    "image": "/S23/E11/E02.tiff",
+    "cuisines": [
+      "Caribbean",
+      "Puerto Rican"
+    ],
+    "dishes": [
+      "mofongo",
+      "crema",
+      "jerk"
+    ],
+    "ingredients": [
+      "rabbit",
+      "yucca",
+      "plantain",
+      "avocado"
+    ],
+    "techniques": [
+      "braised",
+      "fried"
+    ]
+  },
+  {
+    "name": "Rabbit Siu Mai",
+    "slug": "S23E11E03",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Laurence",
+    "image": "/S23/E11/E03.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "siu mai",
+      "dumpling"
+    ],
+    "ingredients": [
+      "rabbit"
+    ],
+    "techniques": [
+      "steamed",
+      "velveted"
+    ]
+  },
+  {
+    "name": "Rabbit Croquette with Butternut Squash Puree & Rabbit Tenderloin with Roasted Mushroom & Leek Sauté",
+    "slug": "S23E11E04",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Jonathan",
+    "image": "/S23/E11/E04.tiff",
+    "cuisines": [],
+    "dishes": [
+      "croquette",
+      "puree"
+    ],
+    "ingredients": [
+      "rabbit",
+      "squash",
+      "butternut squash",
+      "mushroom",
+      "leeks"
+    ],
+    "techniques": [
+      "fried",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Roasted Rabbit Loin with Rabbit Sausage & Pea Stew",
+    "slug": "S23E11E05",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Rhoda",
+    "image": "/S23/E11/E05.tiff",
+    "cuisines": [],
+    "dishes": [
+      "sausage",
+      "stew"
+    ],
+    "ingredients": [
+      "rabbit",
+      "peas",
+      "tomato"
+    ],
+    "techniques": [
+      "roasted",
+      "braised"
+    ]
+  },
+  {
+    "name": "Braised Rabbit Legs & Thighs with Carrot Ginger Purée, Rabbit Loin, Carrot Top Salsa Verde, Rabbit Jus & Carrot",
+    "slug": "S23E11E06",
+    "season": 23,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": "Anthony",
+    "image": "/S23/E11/E06.tiff",
+    "cuisines": [],
+    "dishes": [
+      "puree",
+      "salsa verde",
+      "jus"
+    ],
+    "ingredients": [
+      "rabbit",
+      "carrot",
+      "carrot tops",
+      "ginger"
+    ],
+    "techniques": [
+      "braised",
+      "fried"
+    ]
+  },
+  {
+  "name": "Mountain Trout & Crab Cake with Sour Corn & Peach Relish, Sage & Apple Aioli",
+  "slug": "S23E12E01",
+  "season": 23,
+  "episode": 12,
+  "competition": "Elimination",
+  "chef": "Jonathan",
+  "image": "/S23/E12/E01.tiff",
+  "cuisines": [
+    "Southern"
+  ],
+  "dishes": [
+    "crab cake",
+    "relish",
+    "aioli"
+  ],
+  "ingredients": [
+    "fish",
+    "trout",
+    "shellfish",
+    "crab",
+    "corn",
+    "peach",
+    "sage",
+    "apple"
+  ],
+  "techniques": [
+    "fried",
+    "fermented"
+  ]
+},
+{
+  "name": "October Bean Acarajé with Vatapá, Pico de Gallo Chow Chow & Garlicky Shrimp",
+  "slug": "S23E12E02",
+  "season": 23,
+  "episode": 12,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E12/E02.tiff",
+  "cuisines": [
+    "Brazilian",
+    "Southern"
+  ],
+  "dishes": [
+    "acarajé",
+    "vatapá",
+    "chow chow",
+    "pico de gallo"
+  ],
+  "ingredients": [
+    "beans",
+    "shellfish",
+    "shrimp",
+    "tomato",
+    "garlic"
+  ],
+  "techniques": [
+    "fried"
+  ]
+},
+{
+  "name": "Catfish Sandwich with Leather Britches Bun, Sourwood Honey Mayo & Pickled Slaw",
+  "slug": "S23E12E03",
+  "season": 23,
+  "episode": 12,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E12/E03.tiff",
+  "cuisines": [
+    "Southern"
+  ],
+  "dishes": [
+    "sandwich",
+    "slaw",
+    "pickles"
+  ],
+  "ingredients": [
+    "bread",
+    "fish",
+    "catfish",
+    "beans",
+    "leather britches",
+    "honey",
+    "mayo",
+    "cabbage"
+  ],
+  "techniques": [
+    "fried",
+    "baked"
+  ]
+},
+{
+  "name": "\"Filipino Egg Roll\" Stuffed Cabbage with Paw Paw Ponzu, Apple Butter Mostarda & Buckwheat Chili Crisp",
+  "slug": "S23E12E04",
+  "season": 23,
+  "episode": 12,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E12/E04.tiff",
+  "cuisines": [
+    "Filipino",
+    "Chinese",
+    "Italian"
+  ],
+  "dishes": [
+    "stuffed cabbage",
+    "ponzu",
+    "mostarda",
+    "apple butter",
+    "chili crisp"
+  ],
+  "ingredients": [
+    "cabbage",
+    "pork",
+    "shellfish",
+    "shrimp",
+    "paw paw",
+    "apple",
+    "buckwheat",
+    "chiles"
+  ],
+  "techniques": [
+  ]
+},
+{
+  "name": "Chicken Liver Pâté with Rye Cracker, Pickled Watermelon Rind & Greasy Beans",
+  "slug": "S23E12E05",
+  "season": 23,
+  "episode": 12,
+  "competition": "Elimination",
+  "chef": "Sieger",
+  "image": "/S23/E12/E05.tiff",
+  "cuisines": [],
+  "dishes": [
+    "pâté",
+    "cracker",
+    "pickles"
+  ],
+  "ingredients": [
+    "chicken",
+    "chicken liver",
+    "offal",
+    "rye",
+    "watermelon",
+    "beans"
+  ],
+  "techniques": [
+  ]
+},
+{
+  "name": "Cod Poached in Shellfish Broth with Sautéed Spinach, Ají Dulces & Lemon Zest",
+  "slug": "S23E13QF01",
+  "season": 23,
+  "episode": 13,
+  "competition": "Quickfire",
+  "chef": "Sherry",
+  "image": "/S23/E13/QF01.tiff",
+  "cuisines": [],
+  "dishes": [
+  ],
+  "ingredients": [
+    "fish",
+    "cod",
+    "shellfish",
+    "spinach",
+    "chiles",
+    "aji dulce",
+    "lemon"
+  ],
+  "techniques": [
+    "poached"
+  ]
+},
+{
+  "name": "Poached Cod with Mussels Steamed in White Wine & Paprika",
+  "slug": "S23E13QF02",
+  "season": 23,
+  "episode": 13,
+  "competition": "Quickfire",
+  "chef": "Rhoda",
+  "image": "/S23/E13/QF02.tiff",
+  "cuisines": [],
+  "dishes": [],
+  "ingredients": [
+    "fish",
+    "cod",
+    "shellfish",
+    "mussels",
+    "white wine",
+    "paprika"
+  ],
+  "techniques": [
+    "poached",
+    "steamed"
+  ]
+},
+{
+  "name": "Poached Cod with Mussels Meunière Sauce, Asparagus, Leeks & Roasted Red Pepper",
+  "slug": "S23E13QF03",
+  "season": 23,
+  "episode": 13,
+  "competition": "Quickfire",
+  "chef": "Jonathan",
+  "image": "/S23/E13/QF03.tiff",
+  "cuisines": [
+    "French"
+  ],
+  "dishes": [
+    "meuniere"
+  ],
+  "ingredients": [
+    "fish",
+    "cod",
+    "shellfish",
+    "mussels",
+    "butter",
+    "asparagus",
+    "leeks",
+    "chiles",
+    "red pepper"
+  ],
+  "techniques": [
+    "poached",
+    "roasted"
+  ]
+},
+{
+  "name": "Butter Poached Cod with Clams & Fresno Chiles",
+  "slug": "S23E13QF04",
+  "season": 23,
+  "episode": 13,
+  "competition": "Quickfire",
+  "chef": "Laurence",
+  "image": "/S23/E13/QF04.tiff",
+  "cuisines": [],
+  "dishes": [],
+  "ingredients": [
+    "fish",
+    "cod",
+    "butter",
+    "shellfish",
+    "clams",
+    "chiles",
+    "fresno chile"
+  ],
+  "techniques": [
+    "poached"
+  ]
+},
+{
+  "name": "Pumpkin Seed Dinner Roll with Pumpkin Purée Compound Butter",
+  "slug": "S23E13E01",
+  "season": 23,
+  "episode": 13,
+  "competition": "Elimination",
+  "chef": "Jonathan",
+  "image": "/S23/E13/E01.tiff",
+  "cuisines": [],
+  "dishes": [
+    "compound butter",
+    "puree"
+  ],
+  "ingredients": [
+    "bread",
+    "pumpkin",
+    "nuts",
+    "pumpkin seeds",
+    "butter"
+  ],
+  "techniques": [
+    "baked"
+  ]
+},
+{
+  "name": "Grilled Ribeye with Beet Soil, Baby Carrots & Turnips, Burnt Leek Purée & Pickled Seaweed",
+  "slug": "S23E13E02",
+  "season": 23,
+  "episode": 13,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E13/E02.tiff",
+  "cuisines": [],
+  "dishes": [
+    "puree",
+    "pickles"
+  ],
+  "ingredients": [
+    "beef",
+    "ribeye",
+    "beets",
+    "carrot",
+    "turnips",
+    "leeks",
+    "seaweed"
+  ],
+  "techniques": [
+    "grilled",
+    "pickled"
+  ]
+},
+{
+  "name": "Cheung Fun Four Ways",
+  "slug": "S23E13E03",
+  "season": 23,
+  "episode": 13,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E13/E03.tiff",
+  "cuisines": [
+    "Chinese"
+  ],
+  "dishes": [
+    "cheung fun"
+  ],
+  "ingredients": [
+    "rice noodles",
+    "sesame seeds",
+    "scallion",
+    "sweet potato"
+  ],
+  "techniques": [
+    "steamed"
+  ]
+},
+{
+  "name": "Gochujang Braised Short Rib with Pear Kimchi, Rice & Banchan",
+  "slug": "S23E13E04",
+  "season": 23,
+  "episode": 13,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E13/E04.tiff",
+  "cuisines": [
+    "Korean"
+  ],
+  "dishes": [
+    "banchan",
+    "kimchi"
+  ],
+  "ingredients": [
+    "beef",
+    "short rib",
+    "gochujang",
+    "pear",
+    "rice",
+    "cabbage",
+    "seaweed"
+  ],
+  "techniques": [
+    "braised",
+    "fermented"
+  ]
+},
+{
+  "name": "Roasted Sweet Potato with Miso Butter, Fresh Uni & Charred Sweet Potato Leaves",
+  "slug": "S23E14E01",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E14/E01.tiff",
+  "cuisines": ["Japanese"],
+  "dishes": ["compound butter"],
+  "ingredients": ["sweet potato", "miso", "butter", "uni"],
+  "techniques": ["roasted", "charred"]
+},
+{
+  "name": "Moqueca with Frog Legs & Langoustine, Chayote, Zucchini & Shiitake Mushrooms",
+  "slug": "S23E14E02",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E14/E02.tiff",
+  "cuisines": ["Brazilian"],
+  "dishes": ["moqueca"],
+  "ingredients": ["frog legs", "shellfish", "langoustine", "chayote", "zucchini", "mushroom", "shiitake"],
+  "techniques": ["braised", "fried"]
+},
+{
+  "name": "Pork & Century Egg Congee with You Tiao",
+  "slug": "S23E14E03",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E14/E03.tiff",
+  "cuisines": ["Chinese"],
+  "dishes": ["congee", "youtiao"],
+  "ingredients": ["pork", "eggs", "century egg", "rice"],
+  "techniques": ["fried"]
+},
+{
+  "name": "Abalone Lugaw with Abalone Liver Mousse",
+  "slug": "S23E14E04",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E14/E04.tiff",
+  "cuisines": ["Filipino"],
+  "dishes": ["lugaw", "mousse"],
+  "ingredients": ["shellfish", "abalone", "offal", "liver", "mushroom", "saffron", "rice"],
+  "techniques": ["braised"]
+},
+{
+  "name": "Potato Dumplings with Pig Ear Broth, Matsutake & Pickled Hon-Shimeji Mushrooms",
+  "slug": "S23E14E05",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E14/E05.tiff",
+  "cuisines": [],
+  "dishes": ["dumpling", "broth", "pickles"],
+  "ingredients": ["potato", "pork", "pig ear", "mushroom", "matsutake", "hon-shimeji"],
+  "techniques": ["pickled"]
+},
+{
+  "name": "Dim Sum: Daikon Cake, Lobster Sticky Rice & Scallop and Shrimp Roll with Fresh Tofu Skins",
+  "slug": "S23E14E06",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E14/E06.tiff",
+  "cuisines": ["Chinese"],
+  "dishes": ["daikon cake", "spring roll"],
+  "ingredients": ["daikon", "shellfish", "lobster", "scallop", "shrimp", "tofu", "rice", "sticky rice"],
+  "techniques": ["steamed", "pan-fried"]
+},
+{
+  "name": "Grilled Eggplant Omelet with XO Sauce, Vinegar, Crispy Pork Belly, Chili & Fish Sauce",
+  "slug": "S23E14E07",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E14/E07.tiff",
+  "cuisines": ["Filipino"],
+  "dishes": ["tortang talong", "xo sauce"],
+  "ingredients": ["eggplant", "eggs", "pork", "pork belly", "chiles", "fish sauce", "vinegar"],
+  "techniques": ["grilled", "fried"]
+},
+{
+  "name": "Tournedos Rossini with Braised Beef Tongue, Carolina Reaper Leche de Tigre & Seared Foie Gras",
+  "slug": "S23E14E08",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E14/E08.tiff",
+  "cuisines": ["French", "Peruvian"],
+  "dishes": ["tournedos rossini", "leche de tigre"],
+  "ingredients": ["beef", "beef tongue", "offal", "foie gras", "chiles", "carolina reaper"],
+  "techniques": ["braised", "pan-fried"]
+},
+{
+  "name": "Seared Duck Breast with Sorghum Glaze, Fermented Tofu, Hoisin & Duck Broth",
+  "slug": "S23E14E09",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E14/E09.tiff",
+  "cuisines": ["Chinese"],
+  "dishes": [],
+  "ingredients": ["duck", "duck breast", "sorghum", "tofu", "fermented tofu", "hoisin", "rice", "radish"],
+  "techniques": ["pan-fried", "glazed"]
+},
+{
+  "name": "Braised Short Rib with Liver Sauce & Vegetables",
+  "slug": "S23E14E10",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Rhoda",
+  "image": "/S23/E14/E10.tiff",
+  "cuisines": [],
+  "dishes": ["jus"],
+  "ingredients": ["beef", "short rib", "offal", "liver", "carrot", "potato", "chiles", "olives"],
+  "techniques": ["braised"]
+},
+{
+  "name": "Hominy Porridge with Corn Husk Ice Cream, Toasted Brazil Nuts, Candied Peanuts & Candied Ginger",
+  "slug": "S23E14E11",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Sherry",
+  "image": "/S23/E14/E11.tiff",
+  "cuisines": [],
+  "dishes": ["porridge", "ice cream"],
+  "ingredients": ["corn", "hominy", "nuts", "brazil nuts", "peanuts", "ginger"],
+  "techniques": ["frozen", "candied"]
+},
+{
+  "name": "Broken Birthday Cake with Peaches & Caramelized White Chocolate Cream",
+  "slug": "S23E14E12",
+  "season": 23,
+  "episode": 14,
+  "competition": "Elimination",
+  "chef": "Laurence",
+  "image": "/S23/E14/E12.tiff",
+  "cuisines": [],
+  "dishes": ["cake"],
+  "ingredients": ["cake", "peach", "white chocolate"],
+  "techniques": ["baked", "caramelized"]
+}
+]
