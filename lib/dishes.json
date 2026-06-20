@@ -1,5 +1,1275 @@
 [
   {
+    "name": "Steamed Clam, Preserved King Oyster Mushroom, Baby Bok Choy with Tomato & Maple Syrup Nage",
+    "slug": "S22E01QF01",
+    "season": 22,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S22/E01/QF01.tiff",
+    "cuisines": [],
+    "dishes": ["nage"],
+    "ingredients": ["shellfish", "clams", "mushroom", "king oyster mushroom", "bok choy", "tomato", "maple syrup"],
+    "techniques": ["steamed"]
+  },
+  {
+    "name": "Acqua Pazza with Clams, Cabbage, Cured Black Olives & Grilled Bread",
+    "slug": "S22E01QF02",
+    "season": 22,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S22/E01/QF02.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["acqua pazza"],
+    "ingredients": ["shellfish", "clams", "cabbage", "olives", "bread", "tomato"],
+    "techniques": ["steamed", "grilled"]
+  },
+  {
+    "name": "Apple & Fennel Soup with Clams, Corn & Chorizo Relish",
+    "slug": "S22E01QF03",
+    "season": 22,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S22/E01/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["soup", "relish"],
+    "ingredients": ["apple", "fennel", "shellfish", "clams", "corn", "chorizo"],
+    "techniques": []
+  },
+  {
+    "name": "Butter Poached Clams with Charred Corn Sauce & Corn Sofrito, Pickled Fresno Chile & Potato Sticks",
+    "slug": "S22E01QF04",
+    "season": 22,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S22/E01/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["sofrito", "pickles"],
+    "ingredients": ["shellfish", "clams", "corn", "chiles", "fresno chile", "potato", "butter"],
+    "techniques": ["poached", "charred"]
+  },
+  {
+    "name": "Corn & Clam Chowder with Andouille, Apple & Chive Relish & Roasted Mushrooms",
+    "slug": "S22E01QF05",
+    "season": 22,
+    "episode": 1,
+    "competition": "Quickfire",
+    "chef": "Team",
+    "image": "/S22/E01/QF05.tiff",
+    "cuisines": [],
+    "ingredients": ["corn", "shellfish", "clams", "andouille", "apple", "chives", "mushrooms"],
+    "techniques": ["roasted"]
+  },
+  {
+    "name": "Seared Salmon with Dawadawa Cream, Lamb Fat-Roasted Mushrooms & Hazelnut Gremolata",
+    "slug": "S22E01E01",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Lana",
+    "image": "/S22/E01/E01.tiff",
+    "cuisines": ["West African"],
+    "dishes": ["gremolata"],
+    "ingredients": ["fish", "salmon", "dawadawa", "lamb", "mushroom", "nuts", "hazelnut", "cream"],
+    "techniques": ["pan-fried", "roasted"]
+  },
+  {
+    "name": "Confit Salmon with Miso-Hazelnut Butter Mushrooms & Consommé",
+    "slug": "S22E01E02",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Vinny",
+    "image": "/S22/E01/E02.tiff",
+    "cuisines": [],
+    "dishes": ["consomme"],
+    "ingredients": ["fish", "salmon", "miso", "nuts", "hazelnut", "butter", "mushroom"],
+    "techniques": ["confit"]
+  },
+  {
+    "name": "Grilled Lamb with Mushroom Mole, Hazelnut Pipián & Plum Salsa Macha",
+    "slug": "S22E01E03",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Paula",
+    "image": "/S22/E01/E03.tiff",
+    "cuisines": ["Mexican"],
+    "dishes": ["mole", "pipian", "salsa macha"],
+    "ingredients": ["lamb", "mushroom", "nuts", "hazelnut", "plum", "chiles"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Pan-Fried Walleye, Wild Rice with Tomatoes & Smoked Sour Cherries",
+    "slug": "S22E01E04",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Kat",
+    "image": "/S22/E01/E04.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "walleye", "wild rice", "tomato", "cherry", "sour cherry"],
+    "techniques": ["pan-fried", "smoked"]
+  },
+  {
+    "name": "Ribeye Tartare with Toasted Lentil Aioli, Sour Cherry Chimichurri, Cumin & Lentil Cracker & Egg Yolk Custard",
+    "slug": "S22E01E05",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Henry",
+    "image": "/S22/E01/E05.tiff",
+    "cuisines": [],
+    "dishes": ["tartare", "aioli", "chimichurri", "cracker", "custard"],
+    "ingredients": ["beef", "ribeye", "lentils", "cherry", "sour cherry", "cumin", "egg"],
+    "techniques": []
+  },
+  {
+    "name": "Grilled Ribeye, Red Lentil Purée with Tomatoes & Sour Cherries",
+    "slug": "S22E01E06",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Corwin",
+    "image": "/S22/E01/E06.tiff",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["beef", "ribeye", "lentils", "tomato", "cherry", "sour cherry"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Corn Butter Poached Trout, Grilled Radicchio with Corn & Pea Shoot Dressing",
+    "slug": "S22E01E07",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "César",
+    "image": "/S22/E01/E07.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "trout", "corn", "butter", "radicchio", "pea shoots"],
+    "techniques": ["poached", "grilled"]
+  },
+  {
+    "name": "Grilled Pork Loin & Potato Purée with Corn Beurre Monté & Peach Relish",
+    "slug": "S22E01E08",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Mimi",
+    "image": "/S22/E01/E08.tiff",
+    "cuisines": ["French"],
+    "dishes": ["puree", "relish", "beurre monte"],
+    "ingredients": ["pork", "pork loin", "potato", "corn", "butter", "peach"],
+    "techniques": ["grilled"]
+  },
+  {
+    "name": "Pork Loin Katsu with Miso, Corn & Pea Shoot Gravy & Kimchi Peaches",
+    "slug": "S22E01E09",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Katianna",
+    "image": "/S22/E01/E09.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["katsu", "gravy"],
+    "ingredients": ["pork", "pork loin", "miso", "corn", "pea shoots", "peach", "kimchi"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Poached Cod with Snow Crab & Dulse Mousse, Butter Poached Snow Crab with Potato & Dulse Crumble",
+    "slug": "S22E01E10",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Tristen",
+    "image": "/S22/E01/E10.tiff",
+    "cuisines": [],
+    "dishes": ["mousse", "crumble"],
+    "ingredients": ["fish", "cod", "shellfish", "crab", "snow crab", "seaweed", "dulse", "butter", "potato"],
+    "techniques": ["poached"]
+  },
+  {
+    "name": "Steamed Cod with Braised Daikon, Snow Crab & Egg Drop Sauce & Crispy Dulse",
+    "slug": "S22E01E11",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Shuai",
+    "image": "/S22/E01/E11.tiff",
+    "cuisines": ["Chinese"],
+    "dishes": ["egg drop soup", "tempura"],
+    "ingredients": ["fish", "cod", "daikon", "shellfish", "crab", "snow crab", "egg", "seaweed", "dulse"],
+    "techniques": ["steamed", "braised", "fried"]
+  },
+  {
+    "name": "Cod \"En Écailles\" with Beurre Blanc & Smoked Dulse",
+    "slug": "S22E01E12",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Massimo",
+    "image": "/S22/E01/E12.tiff",
+    "cuisines": ["French"],
+    "dishes": ["beurre blanc"],
+    "ingredients": ["fish", "cod", "potato", "butter", "seaweed", "dulse"],
+    "techniques": ["pan-fried", "smoked"]
+  },
+  {
+    "name": "Ukha with Arctic Char, Potatoes, Beet Caviar & Rye Cracker",
+    "slug": "S22E01E13",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Anya",
+    "image": "/S22/E01/E13.tiff",
+    "cuisines": ["Russian"],
+    "dishes": ["ukha", "cracker", "soup"],
+    "ingredients": ["fish", "arctic char", "potato", "beets", "rye"],
+    "techniques": []
+  },
+  {
+    "name": "Meen Moilee with Turbot, Beet & Crowberry Achar",
+    "slug": "S22E01E14",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Zubair",
+    "image": "/S22/E01/E14.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["moilee", "achar"],
+    "ingredients": ["fish", "turbot", "beets", "crowberry", "coconut"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Carrot Risotto with Confit Arctic Char & Pickled Beets",
+    "slug": "S22E01E15",
+    "season": 22,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": "Bailey",
+    "image": "/S22/E01/E15.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["risotto", "pickles"],
+    "ingredients": ["carrot", "fish", "arctic char", "beets"],
+    "techniques": ["confit"]
+  },
+  {
+    "name": "Twice-Cooked Potato, Caramelized Onion Sauce, Cotija Cheese & Chives",
+    "slug": "S22E02QF01",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Corwin",
+    "image": "/S22/E02/QF01.tiff",
+    "cuisines": [],
+    "dishes": ["caramelized onion"],
+    "ingredients": ["potato", "onion", "cheese", "cotija", "chives"],
+    "techniques": ["pan-fried", "caramelized"]
+  },
+  {
+    "name": "Crispy Potato, Mushroom Gravy, Smoked Soy & Cheese Curds",
+    "slug": "S22E02QF02",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Kat",
+    "image": "/S22/E02/QF02.tiff",
+    "cuisines": [],
+    "dishes": ["gravy", "poutine"],
+    "ingredients": ["potato", "mushroom", "soy sauce", "cheese", "cheese curds"],
+    "techniques": ["fried", "smoked"]
+  },
+  {
+    "name": "Soy Sauce Fondant Potato & Three Cheese Sauce",
+    "slug": "S22E02QF03",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Shuai",
+    "image": "/S22/E02/QF03.tiff",
+    "cuisines": [],
+    "dishes": ["fondant potato"],
+    "ingredients": ["potato", "soy sauce", "cheese"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Potato \"Tostone\", Fermented Soybean & Mushroom Cream, Burrata",
+    "slug": "S22E02QF04",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Katianna",
+    "image": "/S22/E02/QF04.tiff",
+    "cuisines": [],
+    "dishes": ["tostones"],
+    "ingredients": ["potato", "fermented soybean", "mushroom", "cheese", "burrata"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Sweet Potato Fries, Gumbo Gravy & Cheddar Cheese Curds",
+    "slug": "S22E02QF05",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Lana",
+    "image": "/S22/E02/QF05.tiff",
+    "cuisines": ["Southern"],
+    "dishes": ["gravy", "gumbo", "fries", "poutine"],
+    "ingredients": ["sweet potato", "cheese", "cheese curds", "cheddar"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Seco Poutine with Plantains, Sofrito & Cotija Cheese",
+    "slug": "S22E02QF06",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Paula",
+    "image": "/S22/E02/QF06.tiff",
+    "cuisines": ["Latin American"],
+    "dishes": ["poutine", "sofrito"],
+    "ingredients": ["potato", "plantain", "cheese", "cotija", "tomato"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Potato Roulade, Sauce Mornay, Beef Reduction",
+    "slug": "S22E02QF07",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Massimo",
+    "image": "/S22/E02/QF07.tiff",
+    "cuisines": ["French"],
+    "dishes": ["roulade", "mornay sauce"],
+    "ingredients": ["potato", "beef", "cheese"],
+    "techniques": ["pan-fried", "braised"]
+  },
+  {
+    "name": "Potato in Tomato Gravy, Parmesan Mousse, Lemon Oil & Basil",
+    "slug": "S22E02QF08",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Vinny",
+    "image": "/S22/E02/QF08.tiff",
+    "cuisines": [],
+    "dishes": ["gravy", "mousse"],
+    "ingredients": ["potato", "tomato", "cheese", "parmesan", "lemon", "basil"],
+    "techniques": []
+  },
+  {
+    "name": "Salchipapas with Yucca Fries, Jeera & Aji Amarillo, Paneer Cheese & Fried Kielbasa",
+    "slug": "S22E02QF09",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Tristen",
+    "image": "/S22/E02/QF09.tiff",
+    "cuisines": ["Latin American", "Indian"],
+    "dishes": ["salchipapas", "fries"],
+    "ingredients": ["yucca", "cumin", "chiles", "aji amarillo", "paneer", "cheese", "kielbasa", "sausage", "lime"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Scallion Yucca Pancake with Gruyère Cheese Sauce & Chili Oil",
+    "slug": "S22E02QF10",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Henry",
+    "image": "/S22/E02/QF10.tiff",
+    "cuisines": [],
+    "dishes": ["pancake", "cheese sauce", "chili oil"],
+    "ingredients": ["scallion", "yucca", "cheese", "gruyere", "chiles"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Poutine Chaat with Fingerling Potatoes, Mint, Serrano & Cilantro Chutney, Enoki Mushrooms",
+    "slug": "S22E02QF11",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Zubair",
+    "image": "/S22/E02/QF11.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["poutine", "chaat", "chutney"],
+    "ingredients": ["potato", "mint", "chiles", "serrano", "cilantro", "mushroom", "enoki"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Fried Fingerling Potatoes, Roasted Corn, Cilantro Mayo, Cotija Espuma & Poblano",
+    "slug": "S22E02QF12",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "César",
+    "image": "/S22/E02/QF12.tiff",
+    "cuisines": [],
+    "dishes": ["espuma"],
+    "ingredients": ["potato", "corn", "cilantro", "cheese", "cotija", "chiles", "poblano"],
+    "techniques": ["fried", "roasted"]
+  },
+  {
+    "name": "Poutine à la Stroganoff with Chanterelles, Herbs & Sour Cream",
+    "slug": "S22E02QF13",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Anya",
+    "image": "/S22/E02/QF13.tiff",
+    "cuisines": ["Russian", "French"],
+    "dishes": ["poutine", "stroganoff"],
+    "ingredients": ["potato", "mushroom", "chanterelle", "sour cream"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Korean Shrimp Arrabiata Poutine with Potatoes & Mozzarella",
+    "slug": "S22E02QF14",
+    "season": 22,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": "Bailey",
+    "image": "/S22/E02/QF14.tiff",
+    "cuisines": ["Korean", "Italian"],
+    "dishes": ["poutine", "arrabiata"],
+    "ingredients": ["shellfish", "shrimp", "tomato", "potato", "cheese", "mozzarella"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Maple Cured Salmon, Maple Vinaigrette, Meyer Lemon, Everything Bagel Spice",
+    "slug": "S22E02E01",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Lana",
+    "image": "/S22/E02/E01.tiff",
+    "cuisines": [],
+    "dishes": ["vinaigrette"],
+    "ingredients": ["fish", "salmon", "maple syrup", "lemon", "meyer lemon", "everything bagel spice"],
+    "techniques": ["cured"]
+  },
+  {
+    "name": "Toad in a Hole with Maple Togarashi-Cured Yolk, Béchamel, Miso Maple Butter & Pizza",
+    "slug": "S22E02E02",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Shuai",
+    "image": "/S22/E02/E02.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["toad in the hole", "bechamel", "pizza"],
+    "ingredients": ["bread", "egg", "maple syrup", "togarashi", "miso", "butter", "cheese"],
+    "techniques": ["pan-fried", "cured", "baked"]
+  },
+  {
+    "name": "Poached Lobster, Curry Biscuit, Maple Hollandaise",
+    "slug": "S22E02E03",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "César",
+    "image": "/S22/E02/E03.tiff",
+    "cuisines": [],
+    "dishes": ["biscuit", "hollandaise"],
+    "ingredients": ["shellfish", "lobster", "curry", "maple syrup", "butter", "egg"],
+    "techniques": ["poached", "baked"]
+  },
+  {
+    "name": "Tandoori Maple Fried Chicken, Scallion Corn Cake, Spicy Maple Butter, Sweet Maple Yogurt",
+    "slug": "S22E02E04",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Zubair",
+    "image": "/S22/E02/E04.tiff",
+    "cuisines": ["Indian", "Southern"],
+    "dishes": ["fried chicken", "corn cake"],
+    "ingredients": ["chicken", "maple syrup", "scallion", "corn", "butter", "yogurt"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Rum Maple Tamarind Glazed Pork Belly, Chawanmushi with Sesame Seeds & Scallions",
+    "slug": "S22E02E05",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Corwin",
+    "image": "/S22/E02/E05.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["chawanmushi"],
+    "ingredients": ["pork", "pork belly", "rum", "maple syrup", "tamarind", "egg", "sesame seeds", "scallion"],
+    "techniques": ["glazed", "steamed"]
+  },
+  {
+    "name": "Steak & Eggs - Maple Jerk Strip Loin, Dukkah & Maple Jus Gras, Rice Grits",
+    "slug": "S22E02E06",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Tristen",
+    "image": "/S22/E02/E06.tiff",
+    "cuisines": [],
+    "dishes": ["dukkah", "jus", "grits"],
+    "ingredients": ["beef", "strip loin", "maple syrup", "jerk", "rice", "nuts"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Maple Peach French Toast, Candy Corn Crème Anglaise & Peach Gummy Italian Meringue",
+    "slug": "S22E02E07",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Paula",
+    "image": "/S22/E02/E07.tiff",
+    "cuisines": ["Italian"],
+    "dishes": ["french toast", "creme anglaise", "meringue"],
+    "ingredients": ["bread", "maple syrup", "peach", "peach gummy", "candy corn", "egg", "cream"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Congee with Maple Bacon Chili Crisp & Soy Maple Jammy Egg",
+    "slug": "S22E02E08",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Kat",
+    "image": "/S22/E02/E08.tiff",
+    "cuisines": ["Chinese"],
+    "dishes": ["congee", "chili crisp"],
+    "ingredients": ["rice", "maple syrup", "bacon", "chiles", "soy sauce", "egg"],
+    "techniques": []
+  },
+  {
+    "name": "Maple Cured Salmon Tartare with Whipped Silken Tofu, Housemade Furikake & Daikon Maple Leaves",
+    "slug": "S22E02E09",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Katianna",
+    "image": "/S22/E02/E09.tiff",
+    "cuisines": ["Japanese"],
+    "dishes": ["tartare", "furikake"],
+    "ingredients": ["fish", "salmon", "maple syrup", "tofu", "daikon"],
+    "techniques": ["cured"]
+  },
+  {
+    "name": "Syrniki with Macerated Strawberries, Whipped Maple Syrup & Siberian Pine Cone Jam",
+    "slug": "S22E02E10",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Anya",
+    "image": "/S22/E02/E10.tiff",
+    "cuisines": ["Russian"],
+    "dishes": ["syrniki"],
+    "ingredients": ["cheese", "strawberry", "maple syrup", "cream", "pine cone jam"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Fried Chicken, Polenta, Chicken Gravy, Maple Chili Ginger Honey",
+    "slug": "S22E02E11",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Henry",
+    "image": "/S22/E02/E11.tiff",
+    "cuisines": ["Italian", "Southern"],
+    "dishes": ["fried chicken", "polenta", "gravy"],
+    "ingredients": ["chicken", "cornmeal", "maple syrup", "chiles", "ginger", "honey"],
+    "techniques": ["fried"]
+  },
+  {
+    "name": "Steak & Eggs with Wild Spinach & Maple Lasagna Bordelaise",
+    "slug": "S22E02E12",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Massimo",
+    "image": "/S22/E02/E12.tiff",
+    "cuisines": ["French"],
+    "dishes": ["bordelaise", "lasagna"],
+    "ingredients": ["beef", "egg", "spinach", "maple syrup", "pasta"],
+    "techniques": ["pan-fried"]
+  },
+  {
+    "name": "Maple & Cheddar Soufflé with Truffle Oil",
+    "slug": "S22E02E13",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Vinny",
+    "image": "/S22/E02/E13.tiff",
+    "cuisines": ["French"],
+    "dishes": ["souffle"],
+    "ingredients": ["maple syrup", "cheese", "cheddar", "egg", "truffle oil"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Maple Tart with Whipped Yogurt, Pine Nuts & Maple Brown Butter Pineapple",
+    "slug": "S22E02E14",
+    "season": 22,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": "Bailey",
+    "image": "/S22/E02/E14.tiff",
+    "cuisines": [],
+    "dishes": ["tart"],
+    "ingredients": ["maple syrup", "yogurt", "nuts", "pine nuts", "butter", "pineapple"],
+    "techniques": ["baked"]
+  },
+  {
+    "name": "Scallion Pancake Patty with Malay Style Chicken Curry, Curry Buttermilk Dressing & Togarashi",
+    "slug": "S22E03QF01",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Shuai",
+    "image": "/S22/E03/QF01.tiff",
+    "cuisines": [
+      "Chinese",
+      "Malaysian"
+    ],
+    "dishes": [
+      "scallion pancake"
+    ],
+    "ingredients": [
+      "scallion",
+      "chicken",
+      "curry",
+      "buttermilk",
+      "togarashi"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Pirozhok with Ground Beef & Ajika Spice",
+    "slug": "S22E03QF02",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Anya",
+    "image": "/S22/E03/QF02.tiff",
+    "cuisines": [
+      "Russian"
+    ],
+    "dishes": [
+      "pirozhok"
+    ],
+    "ingredients": [
+      "beef",
+      "ground beef",
+      "ajika"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Curried Shrimp & Banana Patty with Cilantro Chili Hot Sauce",
+    "slug": "S22E03QF03",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Kat",
+    "image": "/S22/E03/QF03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "hot sauce"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "banana",
+      "curry",
+      "cilantro",
+      "chiles"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Oxtail Patty with Pikliz",
+    "slug": "S22E03QF04",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Massimo",
+    "image": "/S22/E03/QF04.tiff",
+    "cuisines": [
+      "Haitian"
+    ],
+    "dishes": [
+      "patty",
+      "pikliz"
+    ],
+    "ingredients": [
+      "beef",
+      "oxtail"
+    ],
+    "techniques": [
+      "fried",
+      "pickled"
+    ]
+  },
+  {
+    "name": "Saltfish & Vadouvan Patty, Piquillo Pepper Sauce & Yellow Pepper Mayo",
+    "slug": "S22E03QF05",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Zubair",
+    "image": "/S22/E03/QF05.tiff",
+    "cuisines": [],
+    "dishes": [
+      "patty",
+      "aioli"
+    ],
+    "ingredients": [
+      "fish",
+      "salt cod",
+      "vadouvan",
+      "peppers",
+      "piquillo pepper"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Garam Masala, Jamaican Curry & Vadouvan Patty with Chickpea Chana",
+    "slug": "S22E03QF06",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Corwin",
+    "image": "/S22/E03/QF06.tiff",
+    "cuisines": [
+      "Indian",
+      "Jamaican"
+    ],
+    "dishes": [
+      "patty",
+      "chana"
+    ],
+    "ingredients": [
+      "garam masala",
+      "curry",
+      "vadouvan",
+      "chickpeas"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Fenugreek & Turmeric Patty with Char Siu & Mushroom",
+    "slug": "S22E03QF07",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Henry",
+    "image": "/S22/E03/QF07.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "patty",
+      "char siu"
+    ],
+    "ingredients": [
+      "fenugreek",
+      "turmeric",
+      "pork",
+      "char siu",
+      "mushroom"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "\"After School Beef Patty\" — Beef & Taleggio Patty with Ketchup Vinaigrette",
+    "slug": "S22E03QF08",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Tristen",
+    "image": "/S22/E03/QF08.tiff",
+    "cuisines": [],
+    "dishes": [
+      "patty",
+      "vinaigrette"
+    ],
+    "ingredients": [
+      "beef",
+      "cheese",
+      "taleggio",
+      "ketchup"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Spiced Lamb Patty with Goat Cheese & Ají Casero",
+    "slug": "S22E03QF09",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Paula",
+    "image": "/S22/E03/QF09.tiff",
+    "cuisines": [
+      "Latin American"
+    ],
+    "dishes": [
+      "patty"
+    ],
+    "ingredients": [
+      "lamb",
+      "cheese",
+      "goat cheese",
+      "chiles",
+      "ají casero"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Lamb Toaster with Jamaican Curry Strawberry Glaze & Lamb Fat Powdered Sugar",
+    "slug": "S22E03QF10",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "César",
+    "image": "/S22/E03/QF10.tiff",
+    "cuisines": [
+      "Jamaican"
+    ],
+    "dishes": [
+      "patty"
+    ],
+    "ingredients": [
+      "lamb",
+      "lamb fat",
+      "curry",
+      "strawberry"
+    ],
+    "techniques": [
+      "glazed"
+    ]
+  },
+  {
+    "name": "\"Crabby Patty\" — Cajun & Tomato Powder Patty with Crab Dip",
+    "slug": "S22E03QF11",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Lana",
+    "image": "/S22/E03/QF11.tiff",
+    "cuisines": [
+      "Cajun"
+    ],
+    "dishes": [
+      "patty"
+    ],
+    "ingredients": [
+      "shellfish",
+      "crab",
+      "tomato",
+      "cajun spice"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Toasted Nori & Sesame Patty with Sweet Potato, Roasted Kimchi & Bacon",
+    "slug": "S22E03QF12",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Katianna",
+    "image": "/S22/E03/QF12.tiff",
+    "cuisines": [
+      "Korean"
+    ],
+    "dishes": [
+      "patty"
+    ],
+    "ingredients": [
+      "seaweed",
+      "nori",
+      "sesame",
+      "sweet potato",
+      "kimchi",
+      "pork",
+      "bacon"
+    ],
+    "techniques": [
+      "roasted",
+      "fermented"
+    ]
+  },
+  {
+    "name": "Chopped Cheese Patty",
+    "slug": "S22E03QF13",
+    "season": 22,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": "Vinny",
+    "image": "/S22/E03/QF13.tiff",
+    "cuisines": [
+      "American"
+    ],
+    "dishes": [
+      "patty",
+      "chopped cheese"
+    ],
+    "ingredients": [
+      "beef",
+      "cheese"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "\"Strawberry Shortcake\" — Biscuit Infused Ice Cream, Fresh Strawberries & Strawberry Soda",
+    "slug": "S22E03E01",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Vinny",
+    "image": "/S22/E03/E01.tiff",
+    "cuisines": [],
+    "dishes": [
+      "ice cream",
+      "soda"
+    ],
+    "ingredients": [
+      "strawberry",
+      "biscuit",
+      "cream"
+    ],
+    "techniques": [
+      "frozen"
+    ]
+  },
+  {
+    "name": "Scallop & Apple Aguachile, Variations of Apples",
+    "slug": "S22E03E02",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Corwin",
+    "image": "/S22/E03/E02.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "aguachile"
+    ],
+    "ingredients": [
+      "shellfish",
+      "scallop",
+      "apple",
+      "chiles"
+    ],
+    "techniques": [
+      "cured"
+    ]
+  },
+  {
+    "name": "Banana Muffin Crémeux, Chocolate Muffin Ganache, Speculoos Meringue & Roasted Muffin Banana Ice Cream",
+    "slug": "S22E03E03",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Massimo",
+    "image": "/S22/E03/E03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "cremeux",
+      "ganache",
+      "meringue",
+      "ice cream"
+    ],
+    "ingredients": [
+      "banana",
+      "chocolate",
+      "speculoos",
+      "cream"
+    ],
+    "techniques": [
+      "frozen",
+      "roasted",
+      "baked"
+    ]
+  },
+  {
+    "name": "King Salmon Crudo with Fennel, Jalapeño Achar, Lemongrass Gel, Chaas & Muffin Crumble",
+    "slug": "S22E03E04",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Zubair",
+    "image": "/S22/E03/E04.tiff",
+    "cuisines": [
+      "Indian"
+    ],
+    "dishes": [
+      "crudo",
+      "achar",
+      "crumble"
+    ],
+    "ingredients": [
+      "fish",
+      "salmon",
+      "king salmon",
+      "fennel",
+      "chiles",
+      "jalapeño",
+      "lemongrass",
+      "chaas"
+    ],
+    "techniques": [
+      "cured",
+      "pickled"
+    ]
+  },
+  {
+    "name": "Grapefruit Leche de Tigre with Salmon, Charred Avocado & Grapefruit Sorbet",
+    "slug": "S22E03E05",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Henry",
+    "image": "/S22/E03/E05.tiff",
+    "cuisines": [
+      "Peruvian"
+    ],
+    "dishes": [
+      "leche de tigre",
+      "sorbet"
+    ],
+    "ingredients": [
+      "grapefruit",
+      "fish",
+      "salmon",
+      "avocado"
+    ],
+    "techniques": [
+      "charred",
+      "frozen"
+    ]
+  },
+  {
+    "name": "Grapefruit & Scallop Tartare with \"Paloma\" Aguachile & Grapefruit Snow",
+    "slug": "S22E03E06",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Kat",
+    "image": "/S22/E03/E06.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "tartare",
+      "aguachile"
+    ],
+    "ingredients": [
+      "grapefruit",
+      "shellfish",
+      "scallop",
+      "chiles"
+    ],
+    "techniques": [
+      "frozen"
+    ]
+  },
+  {
+    "name": "Chilled Chicken & Licorice Soba with Cucumber & Daikon",
+    "slug": "S22E03E07",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Katianna",
+    "image": "/S22/E03/E07.tiff",
+    "cuisines": [
+      "Japanese"
+    ],
+    "dishes": [
+      "soba"
+    ],
+    "ingredients": [
+      "chicken",
+      "licorice",
+      "soba",
+      "cucumber",
+      "daikon"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Chilled Shrimp Salad with Licorice Tea & Licorice Cream",
+    "slug": "S22E03E08",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "César",
+    "image": "/S22/E03/E08.tiff",
+    "cuisines": [],
+    "dishes": [
+      "salad"
+    ],
+    "ingredients": [
+      "shellfish",
+      "shrimp",
+      "licorice",
+      "cream",
+      "citrus"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Ceviche Jipijapa with Sablefish, Cucumber Tartare, Avocado Cream & Fried Quinoa",
+    "slug": "S22E03E09",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Paula",
+    "image": "/S22/E03/E09.tiff",
+    "cuisines": [
+      "Ecuadorian"
+    ],
+    "dishes": [
+      "ceviche",
+      "tartare"
+    ],
+    "ingredients": [
+      "fish",
+      "sablefish",
+      "cucumber",
+      "avocado",
+      "quinoa"
+    ],
+    "techniques": [
+      "fried",
+      "cured"
+    ]
+  },
+  {
+    "name": "Chilled Peanut Soup with Pickled Shrimp, Suya Oil & Candied Peanuts",
+    "slug": "S22E03E10",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Lana",
+    "image": "/S22/E03/E10.tiff",
+    "cuisines": [
+      "West African"
+    ],
+    "dishes": [
+      "soup"
+    ],
+    "ingredients": [
+      "nuts",
+      "peanuts",
+      "shellfish",
+      "shrimp",
+      "suya"
+    ],
+    "techniques": [
+      "pickled",
+      "candied"
+    ]
+  },
+  {
+    "name": "Beef Tartare with Garlic Toum, Shattered Benedict Aioli, Egg Yolk Jam & Shattered Deviled Egg",
+    "slug": "S22E03E11",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Tristen",
+    "image": "/S22/E03/E11.tiff",
+    "cuisines": [
+      "Middle Eastern"
+    ],
+    "dishes": [
+      "tartare",
+      "toum",
+      "aioli"
+    ],
+    "ingredients": [
+      "beef",
+      "garlic",
+      "egg"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Sweet Corn Semifreddo with Sweet Potato Mochi, Cardamom Crème Anglaise, Ginger Graham Cracker & Meringue",
+    "slug": "S22E03E12",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Shuai",
+    "image": "/S22/E03/E12.tiff",
+    "cuisines": [],
+    "dishes": [
+      "semifreddo",
+      "mochi",
+      "creme anglaise",
+      "meringue",
+      "cracker"
+    ],
+    "ingredients": [
+      "corn",
+      "sweet potato",
+      "cardamom",
+      "ginger",
+      "graham cracker"
+    ],
+    "techniques": [
+      "frozen",
+      "baked"
+    ]
+  },
+  {
+    "name": "Pine Needle Ice Cream with Sea Buckthorn Cake",
+    "slug": "S22E03E13",
+    "season": 22,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": "Anya",
+    "image": "/S22/E03/E13.tiff",
+    "cuisines": [
+      "Russian"
+    ],
+    "dishes": [
+      "ice cream",
+      "cake"
+    ],
+    "ingredients": [
+      "pine needle",
+      "sea buckthorn"
+    ],
+    "techniques": [
+      "frozen",
+      "baked"
+    ]
+  },
+  {
     "name": "Cured Snapper with Tomato Vinaigrette, Avocado, Radish & Cucumber",
     "slug": "S23E01QF01",
     "season": 23,
@@ -567,7 +1837,7 @@
     "chef": "Nana",
     "image": "/S23/E02/E10.tiff",
     "cuisines": ["Ghanaian"],
-    "dishes": ["fufu", "salsa", "light soup", "espuma"],
+    "dishes": ["fufu", "salsa", "light soup", "soup", "espuma"],
     "ingredients": ["fish", "snapper", "chiles", "shito peppers", "okra"],
     "techniques": ["pan-fried"]
   },
@@ -1166,7 +2436,7 @@
     "image": "/S23/E04/E05.tiff",
     "cuisines": ["Caribbean", "Southern"],
     "dishes": ["fritter"],
-    "ingredients": ["collard greens", "culantro", "beans", "pork", "ham"],
+    "ingredients": ["collard greens", "culantro", "beans", "pork", "ham", "kimchi"],
     "techniques": ["braised", "fried"]
   },
   {
@@ -2896,7 +4166,6 @@
     ],
     "techniques": [
       "grilled",
-      "toasted",
       "pureed"
     ]
   },
@@ -3910,7 +5179,7 @@
   "image": "/S23/E14/E12.tiff",
   "cuisines": [],
   "dishes": ["cake"],
-  "ingredients": ["cake", "peach", "white chocolate"],
+  "ingredients": ["peach", "white chocolate"],
   "techniques": ["baked", "caramelized"]
 }
 ]

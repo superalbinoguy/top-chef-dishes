@@ -25,7 +25,7 @@ export default function PhotoCard({
           padding: "12px 12px 32px",
           border: "2px solid black",
           boxShadow: "8px 8px 0 black",
-          width: "220px",
+          width: "200px",
         }}
       >
         <div
@@ -52,6 +52,7 @@ export default function PhotoCard({
             marginTop: "12px",
             textAlign: "center",
             fontWeight: 600,
+            fontSize: "14px"
           }}
         >
           {dish.name}

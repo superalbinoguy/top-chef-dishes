@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="card-body">
         <div className="logo">
-          <img src="/images/Logo.png"></img>
+          <img src="/images/logos/Logo.png"></img>
         </div>
 
         <Link
@@ -43,7 +43,7 @@ export default function RootLayout({
           }}
           className="coffeeButton"
         >
-          ☕ Keep the Kitchen Running
+          ☕ Keep the Kitchen Running!
         </Link>
 
         <SearchAndNav dishes={[]}/>

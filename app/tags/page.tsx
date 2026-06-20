@@ -1,6 +1,8 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import CountryFlag from "react-country-flag";
 import { getSortedTagCounts } from "@/lib/tag-utils";
 import { Globe, Utensils } from "lucide-react";
@@ -31,15 +33,16 @@ const cuisineFlags: Record<string, string> = {
   Filipino: "PH",
   Cuban: "CU",
   "Puerto Rican": "PR",
-  Peruvian: "PE"
+  Peruvian: "PE",
+  Russian: "RU",
 };
 
 const globeColors: Record<string, string> = {
-  "Latin American": "red",   // green
-  "West African": "purple",     // purple
-  "Middle Eastern": "gold",   // orange/gold
-  "Creole": "green",
-  "Caribbean": "teal"
+  "Latin American": "red",
+  "West African": "purple",
+  "Middle Eastern": "gold",
+  Creole: "green",
+  Caribbean: "teal",
 };
 
 function tagSlug(name: string) {
@@ -49,141 +52,205 @@ function tagSlug(name: string) {
     .replace(/^-|-$/g, "");
 }
 
-function getFlag(tag: string, category: string) {
-  if (category !== "cuisines") return null;
-  return cuisineFlags[tag] ?? null;
-}
-
-export function resolveCuisineIcon(tag: string) {
+function resolveCuisineIcon(tag: string) {
   if (cuisineFlags[tag]) {
-    return {
-      type: "flag" as const,
-      value: cuisineFlags[tag],
-    };
+    return { type: "flag" as const, value: cuisineFlags[tag] };
   }
 
   if (globeColors[tag]) {
-    return {
-      type: "globe" as const,
-      color: globeColors[tag],
-    };
+    return { type: "globe" as const, color: globeColors[tag] };
   }
 
   return { type: "generic" as const };
 }
 
+const MAX_ITEMS = 18; // ~3 rows on your grid (safe approximation)
+
 export default function TagsPage() {
+  const [expanded, setExpanded] = useState<Record<string, boolean>>({});
+
   const groups = [
-    { title: "Cuisines", category: "cuisines", data: getSortedTagCounts("cuisines") },
-    { title: "Dish Types", category: "dishes", data: getSortedTagCounts("dishes") },
-    { title: "Ingredients", category: "ingredients", data: getSortedTagCounts("ingredients") },
-    { title: "Techniques", category: "techniques", data: getSortedTagCounts("techniques") },
+    {
+      title: "Cuisines",
+      category: "cuisines",
+      data: getSortedTagCounts("cuisines"),
+    },
+    {
+      title: "Dish Types",
+      category: "dishes",
+      data: getSortedTagCounts("dishes"),
+    },
+    {
+      title: "Ingredients",
+      category: "ingredients",
+      data: getSortedTagCounts("ingredients"),
+    },
+    {
+      title: "Techniques",
+      category: "techniques",
+      data: getSortedTagCounts("techniques"),
+    },
   ] as const;
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1 style={{ marginBottom: "2rem" }}>Tags</h1>
+    <div>
+      {/* Header */}
+      <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
+        <span>The</span>
+        <Image
+          src="/images/logos/Tags.png"
+          alt="Tags"
+          width={800}
+          height={100}
+          className="h-18 w-auto"
+          priority
+        />
+      </div>
 
-      {groups.map((group) => (
-        <section key={group.category} style={{ marginBottom: "2.5rem" }}>
-          <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
+      {/* Groups */}
+      <div className="season-wrapper">
+        {groups.map((group) => {
+          const isExpanded = expanded[group.category];
+          const visibleData = isExpanded
+            ? group.data
+            : group.data.slice(0, MAX_ITEMS);
 
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(160px, 1fr))",
-              gap: "12px",
-            }}
-          >
-            {group.data.map(([tag, count]) => {
-              const code = getFlag(tag, group.category);
-              const icon = group.category === "cuisines"
-                ? resolveCuisineIcon(tag)
-                : { type: "generic" as const };
-              return (
-                <Link
-                  key={`${group.category}-${tag}`}
-                  href={`/tags/${group.category}/${tagSlug(tag)}`}
-                  style={{ textDecoration: "none" }}
-                >
-                  <div
-                    style={{
-                      border: "2px solid black",
-                      borderRadius: "12px",
-                      padding: "12px",
-                      background: "white",
-                      boxShadow: "4px 4px 0 black",
-                      cursor: "pointer",
-                      display: "flex",
-                      flexDirection: "column",
-                      gap: "10px",
-                      height: "100%",
-                      transition: "transform 0.15s ease",
-                    }}
-                    onMouseEnter={(e) =>
-                      (e.currentTarget.style.transform = "translateY(-2px)")
-                    }
-                    onMouseLeave={(e) =>
-                      (e.currentTarget.style.transform = "translateY(0px)")
-                    }
-                  >
-                    {/* icon row */}
-                    <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+          return (
+            <section key={group.category} style={{ marginBottom: "2.5rem" }}>
+              <div className="episode-header">
+                <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
+              </div>
+
+              <div
+                style={{
+                  display: "grid",
+                  gridTemplateColumns:
+                    "repeat(auto-fill, minmax(160px, 1fr))",
+                  gap: "12px",
+                }}
+              >
+                {visibleData.map(([tag, count]) => {
+                  const icon =
+                    group.category === "cuisines"
+                      ? resolveCuisineIcon(tag)
+                      : { type: "generic" as const };
+
+                  return (
+                    <Link
+                      key={`${group.category}-${tag}`}
+                      href={`/tags/${group.category}/${tagSlug(tag)}`}
+                      style={{ textDecoration: "none" }}
+                    >
                       <div
                         style={{
-                          width: "34px",
-                          height: "34px",
-                          borderRadius: "50%",
-                          border: "1px solid #ddd",
+                          border: "2px solid black",
+                          borderRadius: "12px",
+                          padding: "12px",
+                          background: "white",
+                          boxShadow: "4px 4px 0 black",
+                          cursor: "pointer",
                           display: "flex",
-                          alignItems: "center",
-                          justifyContent: "center",
-                          background: "#f5f5f5",
-                          overflow: "hidden",
+                          flexDirection: "column",
+                          gap: "10px",
+                          height: "100%",
+                          transition: "transform 0.15s ease",
                         }}
+                        onMouseEnter={(e) =>
+                          (e.currentTarget.style.transform =
+                            "translateY(-2px)")
+                        }
+                        onMouseLeave={(e) =>
+                          (e.currentTarget.style.transform =
+                            "translateY(0px)")
+                        }
                       >
-                        {icon.type === "flag" && (
-                          <CountryFlag
-                            countryCode={icon.value}
-                            svg
+                        {/* icon row */}
+                        <div
+                          style={{
+                            display: "flex",
+                            alignItems: "center",
+                            gap: "10px",
+                          }}
+                        >
+                          <div
                             style={{
-                              width: "100%",
-                              height: "100%",
-                              objectFit: "cover",
-                              display: "block",
+                              width: "34px",
+                              height: "34px",
+                              borderRadius: "50%",
+                              border: "1px solid #ddd",
+                              display: "flex",
+                              alignItems: "center",
+                              justifyContent: "center",
+                              background: "#f5f5f5",
+                              overflow: "hidden",
                             }}
-                          />
-                        )}
+                          >
+                            {icon.type === "flag" && (
+                              <CountryFlag
+                                countryCode={icon.value}
+                                svg
+                                style={{
+                                  width: "100%",
+                                  height: "100%",
+                                  objectFit: "cover",
+                                  display: "block",
+                                }}
+                              />
+                            )}
 
-                        {icon.type === "globe" && (
-                          <Globe
-                            size={18}
-                            strokeWidth={2}
-                            style={{
-                              color: icon.color,
-                            }}
-                          />
-                        )}
+                            {icon.type === "globe" && (
+                              <Globe
+                                size={18}
+                                strokeWidth={2}
+                                style={{ color: icon.color }}
+                              />
+                            )}
 
-                        {icon.type === "generic" && (
-                          <Utensils size={18} strokeWidth={2} opacity={0.6} />
-                        )}
+                            {icon.type === "generic" && (
+                              <Utensils
+                                size={18}
+                                strokeWidth={2}
+                                opacity={0.6}
+                              />
+                            )}
+                          </div>
+
+                          <div style={{ fontWeight: 600 }}>{tag}</div>
+                        </div>
+
+                        {/* count */}
+                        <div style={{ fontSize: "0.9rem", opacity: 0.7 }}>
+                          {count} entries
+                        </div>
                       </div>
+                    </Link>
+                  );
+                })}
+              </div>
 
-                      <div style={{ fontWeight: 600 }}>{tag}</div>
-                    </div>
-
-                    {/* count */}
-                    <div style={{ fontSize: "0.9rem", opacity: 0.7 }}>
-                      {count} entries
-                    </div>
-                  </div>
-                </Link>
-              );
-            })}
-          </div>
-        </section>
-      ))}
+              {/* show more / less */}
+              {group.data.length > MAX_ITEMS && (
+                <button
+                  onClick={() =>
+                    setExpanded((prev) => ({
+                      ...prev,
+                      [group.category]: !prev[group.category],
+                    }))
+                  }
+                  style={{
+                    marginTop: "1rem",
+                    fontSize: "0.9rem",
+                    opacity: 0.8,
+                    cursor: "pointer",
+                  }}
+                >
+                  {isExpanded ? "Show less" : "Show more"}
+                </button>
+              )}
+            </section>
+          );
+        })}
+      </div>
     </div>
   );
 }

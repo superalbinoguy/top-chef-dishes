@@ -1,5 +1,7 @@
 import Link from "next/link";
+import Image from "next/image"
 import dishes from "@/lib/dishes.json";
+import ChefCard from "@/components/ChefCard";
 
 export default function ChefsPage() {
   const chefsBySeason = dishes.reduce<Record<number, Set<string>>>(
@@ -22,38 +24,42 @@ export default function ChefsPage() {
     .sort((a, b) => b - a);
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>Chefs</h1>
-
-      {seasons.map((season) => (
+    <div>
+      <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
+          <span>The</span>
+          <Image
+            src="/images/logos/Chefs.png"
+            alt="Dishes"
+            width={800}
+            height={100}
+            className="h-18 w-auto"
+            priority
+          />
+      </div>
+      <div className="season-wrapper">
+        {seasons.map((season) => (
         <section key={season}>
-          <h2>Season {season}</h2>
-
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem", marginTop: "1.5rem" }}>
-            {[...chefsBySeason[season]]
+          <div className="season-header">
+            <h2>Season {season}</h2>
+          </div>
+          <div style={{        
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "1.5rem",
+            marginBottom: "3rem",
+          }}>
+            {Array.from(chefsBySeason[season])
               .sort()
               .map((chef) => (
-                <Link key={chefSlug(chef)} href={`/chefs/${chefSlug(chef)}`}>
-                  <button
-                    style={{
-                      width: "100%",
-                      textAlign: "left",
-                      padding: "0.75rem 1rem",
-                      borderRadius: "8px",
-                      border: "1px solid #ddd",
-                      background: "white",
-                      cursor: "pointer",
-                      fontSize: "1rem",
-                      color: "black"
-                    }}
-                  >
-                    {chef}
-                  </button>
-                </Link>
+                <ChefCard
+                        key={chefSlug(chef)}
+                        chef={chef}
+                      />
               ))}
           </div>
         </section>
       ))}
+      </div>
     </div>
   );
 }

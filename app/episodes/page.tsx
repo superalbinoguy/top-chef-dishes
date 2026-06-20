@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import Image from "next/image";
 import dishes from "@/lib/dishes.json";
 
 export default function EpisodesPage() {
@@ -7,9 +10,7 @@ export default function EpisodesPage() {
       if (!acc[dish.season]) {
         acc[dish.season] = new Set();
       }
-
       acc[dish.season].add(dish.episode);
-
       return acc;
     },
     {}
@@ -20,48 +21,75 @@ export default function EpisodesPage() {
     .sort((a, b) => b - a);
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>Episodes</h1>
+    <div>
+      {/* Header */}
+      <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
+        <span>The</span>
+        <Image
+          src="/images/logos/Episodes.png"
+          alt="Episodes"
+          width={800}
+          height={100}
+          className="h-18 w-auto"
+          priority
+        />
+      </div>
 
-      {seasons.map((season) => (
-        <section key={season}>
-          <h2>Season {season}</h2>
-
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              gap: "0.75rem",
-              marginTop: "1.5rem",
-            }}
-          >
-            {[...episodesBySeason[season]]
-              .sort((a, b) => a - b)
-              .map((episode) => (
-                <Link
-                  key={`s${season}e${episode}`}
-                  href={`/episodes/${episodeSlug(season, episode)}`}
-                >
-                  <button
-                    style={{
-                      width: "100%",
-                      textAlign: "left",
-                      padding: "0.75rem 1rem",
-                      borderRadius: "8px",
-                      border: "1px solid #ddd",
-                      background: "white",
-                      cursor: "pointer",
-                      fontSize: "1rem",
-                      color: "black",
-                    }}
+      <div className="season-wrapper">
+        {seasons.map((season) => (
+          <section key={season} style={{ marginBottom: "2.5rem" }}>
+            <div className="season-header">
+              <h2 style={{ marginBottom: "1rem" }}>Season {season}</h2>
+            </div>
+            <div
+              style={{
+                display: "grid",
+                gridTemplateColumns:
+                  "repeat(auto-fill, minmax(160px, 1fr))",
+                gap: "12px",
+              }}
+            >
+              {[...episodesBySeason[season]]
+                .sort((a, b) => a - b)
+                .map((episode) => (
+                  <Link
+                    key={`s${season}e${episode}`}
+                    href={`/episodes/${episodeSlug(season, episode)}`}
+                    style={{ textDecoration: "none" }}
                   >
-                    Episode {episode}
-                  </button>
-                </Link>
-              ))}
-          </div>
-        </section>
-      ))}
+                    <div
+                      style={{
+                        border: "2px solid black",
+                        borderRadius: "12px",
+                        padding: "14px",
+                        background: "white",
+                        boxShadow: "4px 4px 0 black",
+                        cursor: "pointer",
+                        transition: "transform 0.15s ease",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        minHeight: "70px",
+                        fontWeight: 600,
+                        fontSize: "1rem",
+                        color: "black",
+                      }}
+                      onMouseEnter={(e) =>
+                        (e.currentTarget.style.transform =
+                          "translateY(-2px)")
+                      }
+                      onMouseLeave={(e) =>
+                        (e.currentTarget.style.transform = "translateY(0px)")
+                      }
+                    >
+                      Episode {episode}
+                    </div>
+                  </Link>
+                ))}
+            </div>
+          </section>
+        ))}
+      </div>
     </div>
   );
 }
