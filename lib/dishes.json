@@ -664,8 +664,7 @@
     ],
     "ingredients": [
       "beef",
-      "ground beef",
-      "ajika"
+      "ajika spice"
     ],
     "techniques": [
       "fried"
@@ -679,9 +678,9 @@
     "competition": "Quickfire",
     "chef": "Kat",
     "image": "/S22/E03/QF03.tiff",
-    "cuisines": [],
+    "cuisines": [
+    ],
     "dishes": [
-      "hot sauce"
     ],
     "ingredients": [
       "shellfish",
@@ -707,7 +706,6 @@
       "Haitian"
     ],
     "dishes": [
-      "patty",
       "pikliz"
     ],
     "ingredients": [
@@ -729,7 +727,6 @@
     "image": "/S22/E03/QF05.tiff",
     "cuisines": [],
     "dishes": [
-      "patty",
       "aioli"
     ],
     "ingredients": [
@@ -756,8 +753,8 @@
       "Jamaican"
     ],
     "dishes": [
-      "patty",
-      "chana"
+      "jamaican curry",
+      "chana masala"
     ],
     "ingredients": [
       "garam masala",
@@ -778,10 +775,8 @@
     "chef": "Henry",
     "image": "/S22/E03/QF07.tiff",
     "cuisines": [
-      "Chinese"
     ],
     "dishes": [
-      "patty",
       "char siu"
     ],
     "ingredients": [
@@ -805,7 +800,6 @@
     "image": "/S22/E03/QF08.tiff",
     "cuisines": [],
     "dishes": [
-      "patty",
       "vinaigrette"
     ],
     "ingredients": [
@@ -830,14 +824,13 @@
       "Latin American"
     ],
     "dishes": [
-      "patty"
+      "ají casero"
     ],
     "ingredients": [
       "lamb",
       "cheese",
       "goat cheese",
-      "chiles",
-      "ají casero"
+      "chiles"
     ],
     "techniques": [
       "baked"
@@ -855,11 +848,10 @@
       "Jamaican"
     ],
     "dishes": [
-      "patty"
+      "jamaican curry"
     ],
     "ingredients": [
       "lamb",
-      "lamb fat",
       "curry",
       "strawberry"
     ],
@@ -876,10 +868,8 @@
     "chef": "Lana",
     "image": "/S22/E03/QF11.tiff",
     "cuisines": [
-      "Cajun"
     ],
     "dishes": [
-      "patty"
     ],
     "ingredients": [
       "shellfish",
@@ -900,10 +890,8 @@
     "chef": "Katianna",
     "image": "/S22/E03/QF12.tiff",
     "cuisines": [
-      "Korean"
     ],
     "dishes": [
-      "patty"
     ],
     "ingredients": [
       "seaweed",
@@ -916,7 +904,7 @@
     ],
     "techniques": [
       "roasted",
-      "fermented"
+      "baked"
     ]
   },
   {
@@ -928,10 +916,9 @@
     "chef": "Vinny",
     "image": "/S22/E03/QF13.tiff",
     "cuisines": [
-      "American"
+      "Northeast American"
     ],
     "dishes": [
-      "patty",
       "chopped cheese"
     ],
     "ingredients": [
@@ -939,7 +926,7 @@
       "cheese"
     ],
     "techniques": [
-      "pan-fried"
+      "fried"
     ]
   },
   {
@@ -953,12 +940,12 @@
     "cuisines": [],
     "dishes": [
       "ice cream",
-      "soda"
+      "biscuit"
     ],
     "ingredients": [
       "strawberry",
-      "biscuit",
-      "cream"
+      "cream",
+      "soda"
     ],
     "techniques": [
       "frozen"
@@ -985,7 +972,6 @@
       "chiles"
     ],
     "techniques": [
-      "cured"
     ]
   },
   {
@@ -1005,7 +991,9 @@
     ],
     "ingredients": [
       "banana",
+      "muffin",
       "chocolate",
+      "cookies",
       "speculoos",
       "cream"
     ],
@@ -1029,12 +1017,12 @@
     "dishes": [
       "crudo",
       "achar",
-      "crumble"
+      "crumble",
+      "chaas"
     ],
     "ingredients": [
       "fish",
       "salmon",
-      "king salmon",
       "fennel",
       "chiles",
       "jalapeño",
@@ -1042,7 +1030,6 @@
       "chaas"
     ],
     "techniques": [
-      "cured",
       "pickled"
     ]
   },
@@ -1055,7 +1042,7 @@
     "chef": "Henry",
     "image": "/S22/E03/E05.tiff",
     "cuisines": [
-      "Peruvian"
+      "Latin American"
     ],
     "dishes": [
       "leche de tigre",
@@ -1084,6 +1071,7 @@
       "Mexican"
     ],
     "dishes": [
+      "paloma",
       "tartare",
       "aguachile"
     ],
@@ -1091,7 +1079,8 @@
       "grapefruit",
       "shellfish",
       "scallop",
-      "chiles"
+      "chiles",
+      "mezcal"
     ],
     "techniques": [
       "frozen"
@@ -1114,7 +1103,7 @@
     "ingredients": [
       "chicken",
       "licorice",
-      "soba",
+      "soba noodles",
       "cucumber",
       "daikon"
     ],
@@ -1137,7 +1126,8 @@
       "shrimp",
       "licorice",
       "cream",
-      "citrus"
+      "orange",
+      "cucumber"
     ],
     "techniques": []
   },
@@ -1154,18 +1144,19 @@
     ],
     "dishes": [
       "ceviche",
+      "jipijapa",
       "tartare"
     ],
     "ingredients": [
       "fish",
       "sablefish",
+      "peanuts",
       "cucumber",
       "avocado",
       "quinoa"
     ],
     "techniques": [
-      "fried",
-      "cured"
+      "fried"
     ]
   },
   {
@@ -1187,7 +1178,7 @@
       "peanuts",
       "shellfish",
       "shrimp",
-      "suya"
+      "suya spice"
     ],
     "techniques": [
       "pickled",
@@ -1208,14 +1199,17 @@
     "dishes": [
       "tartare",
       "toum",
-      "aioli"
+      "aioli",
+      "deviled egg"
     ],
     "ingredients": [
       "beef",
       "garlic",
       "egg"
     ],
-    "techniques": []
+    "techniques": [
+      "frozen"
+    ]
   },
   {
     "name": "Sweet Corn Semifreddo with Sweet Potato Mochi, Cardamom Crème Anglaise, Ginger Graham Cracker & Meringue",
@@ -1237,6 +1231,7 @@
       "corn",
       "sweet potato",
       "cardamom",
+      "cream",
       "ginger",
       "graham cracker"
     ],
@@ -1254,14 +1249,13 @@
     "chef": "Anya",
     "image": "/S22/E03/E13.tiff",
     "cuisines": [
-      "Russian"
     ],
     "dishes": [
       "ice cream",
       "cake"
     ],
     "ingredients": [
-      "pine needle",
+      "pine needles",
       "sea buckthorn"
     ],
     "techniques": [

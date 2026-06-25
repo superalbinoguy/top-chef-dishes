@@ -35,6 +35,9 @@ const cuisineFlags: Record<string, string> = {
   "Puerto Rican": "PR",
   Peruvian: "PE",
   Russian: "RU",
+  Jamaican: "JM",
+  Malaysian: "MY",
+  Ecuadorian: "EC"
 };
 
 const globeColors: Record<string, string> = {
@@ -43,6 +46,7 @@ const globeColors: Record<string, string> = {
   "Middle Eastern": "gold",
   Creole: "green",
   Caribbean: "teal",
+  "Northeast American": "darkblue",
 };
 
 function tagSlug(name: string) {
