@@ -279,7 +279,7 @@
     "competition": "Quickfire",
     "chef": "Kat",
     "image": "/S22/E02/QF02.tiff",
-    "cuisines": [],
+    "cuisines": ["Canadian"],
     "dishes": ["gravy", "poutine"],
     "ingredients": ["potato", "mushroom", "soy sauce", "cheese", "cheese curds"],
     "techniques": ["fried", "smoked"]
@@ -318,7 +318,7 @@
     "competition": "Quickfire",
     "chef": "Lana",
     "image": "/S22/E02/QF05.tiff",
-    "cuisines": ["Southern"],
+    "cuisines": ["Southern", "Canadian"],
     "dishes": ["gravy", "gumbo", "fries", "poutine"],
     "ingredients": ["sweet potato", "cheese", "cheese curds", "cheddar"],
     "techniques": ["fried"]
@@ -331,7 +331,7 @@
     "competition": "Quickfire",
     "chef": "Paula",
     "image": "/S22/E02/QF06.tiff",
-    "cuisines": ["Latin American"],
+    "cuisines": ["Latin American", "Canadian"],
     "dishes": ["poutine", "sofrito"],
     "ingredients": ["potato", "plantain", "cheese", "cotija", "tomato"],
     "techniques": ["fried"]
@@ -396,7 +396,7 @@
     "competition": "Quickfire",
     "chef": "Zubair",
     "image": "/S22/E02/QF11.tiff",
-    "cuisines": ["Indian"],
+    "cuisines": ["Indian", "Canadian"],
     "dishes": ["poutine", "chaat", "chutney"],
     "ingredients": ["potato", "mint", "chiles", "serrano", "cilantro", "mushroom", "enoki"],
     "techniques": ["fried"]
@@ -422,7 +422,7 @@
     "competition": "Quickfire",
     "chef": "Anya",
     "image": "/S22/E02/QF13.tiff",
-    "cuisines": ["Russian", "French"],
+    "cuisines": ["Russian", "French", "Canadian"],
     "dishes": ["poutine", "stroganoff"],
     "ingredients": ["potato", "mushroom", "chanterelle", "sour cream"],
     "techniques": ["fried"]
@@ -435,7 +435,7 @@
     "competition": "Quickfire",
     "chef": "Bailey",
     "image": "/S22/E02/QF14.tiff",
-    "cuisines": ["Korean", "Italian"],
+    "cuisines": ["Korean", "Italian", "Canadian"],
     "dishes": ["poutine", "arrabiata"],
     "ingredients": ["shellfish", "shrimp", "tomato", "potato", "cheese", "mozzarella"],
     "techniques": ["fried"]
@@ -1261,6 +1261,626 @@
     "techniques": [
       "frozen",
       "baked"
+    ]
+  },
+  {
+    "name": "Nectarine Salad with Napa Cabbage, Radish, Jalapeño, Shiso & Coconut Nước Chấm",
+    "slug": "S22E04QF01",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Shuai",
+    "image": "/S22/E04/QF01.tiff",
+    "cuisines": [
+      "Vietnamese"
+    ],
+    "dishes": [
+      "salad",
+      "nuoc cham"
+    ],
+    "ingredients": [
+      "nectarine",
+      "napa cabbage",
+      "radish",
+      "chiles",
+      "jalapeño",
+      "shiso",
+      "coconut",
+      "fish sauce"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Seared Scallop with Chili Crisp & Ginger Beurre Blanc, Shrimp Paste, Yuzu & Shiso",
+    "slug": "S22E04QF02",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Corwin",
+    "image": "/S22/E04/QF02.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "beurre blanc"
+    ],
+    "ingredients": [
+      "shellfish",
+      "scallop",
+      "shrimp",
+      "chiles",
+      "chili crisp",
+      "ginger",
+      "shrimp paste",
+      "yuzu",
+      "shiso"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Seared Scallop with Chili Crisp Panko, Roasted Eggplant & Nectarine",
+    "slug": "S22E04QF03",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "César",
+    "image": "/S22/E04/QF03.tiff",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": [
+      "shellfish",
+      "scallop",
+      "chiles",
+      "chili crisp",
+      "panko",
+      "eggplant",
+      "nectarine"
+    ],
+    "techniques": [
+      "pan-fried",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Scallop Crudo with Raw Sliced Nectarines, Jalapeño, Shiso & Pistachios",
+    "slug": "S22E04QF04",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Vinny",
+    "image": "/S22/E04/QF04.tiff",
+    "cuisines": [],
+    "dishes": [
+      "crudo"
+    ],
+    "ingredients": [
+      "shellfish",
+      "scallop",
+      "nectarine",
+      "chiles",
+      "jalapeño",
+      "shiso",
+      "nuts",
+      "pistachios"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Pan Seared Toro with Red Curry Chimichurri, Warm Fennel Salad with Ponzu & Tamari",
+    "slug": "S22E04QF05",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Paula",
+    "image": "/S22/E04/QF05.tiff",
+    "cuisines": [
+      "Japanese",
+      "Latin American"
+    ],
+    "dishes": [
+      "chimichurri",
+      "salad",
+      "ponzu"
+    ],
+    "ingredients": [
+      "fish",
+      "tuna",
+      "curry",
+      "fennel",
+      "tamari"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Seared Toro with Yellow Tomato & Fennel Broth, Pretzel Crumbs",
+    "slug": "S22E04QF06",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Massimo",
+    "image": "/S22/E04/QF06.tiff",
+    "cuisines": [],
+    "dishes": [
+      "broth"
+    ],
+    "ingredients": [
+      "fish",
+      "tuna",
+      "tomato",
+      "fennel",
+      "pretzel"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Toro Crudo with Green Curry Emulsion, Fennel Togarashi, Toasted Pretzel Dust & Fennel Fronds",
+    "slug": "S22E04QF07",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Zubair",
+    "image": "/S22/E04/QF07.tiff",
+    "cuisines": [],
+    "dishes": [
+      "crudo"
+    ],
+    "ingredients": [
+      "fish",
+      "tuna",
+      "curry",
+      "fennel",
+      "togarashi",
+      "pretzel"
+    ],
+    "techniques": [
+    ]
+  },
+  {
+    "name": "Tuna Tartare with Curry Vinaigrette, Fennel Fronds & Crushed Pretzels",
+    "slug": "S22E04QF08",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Lana",
+    "image": "/S22/E04/QF08.tiff",
+    "cuisines": [],
+    "dishes": [
+      "tartare",
+      "vinaigrette"
+    ],
+    "ingredients": [
+      "fish",
+      "tuna",
+      "curry",
+      "fennel",
+      "pretzel"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Banana & Nutella Fried Sandwich with Raspberry Cognac Sauce",
+    "slug": "S22E04QF09",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Kat",
+    "image": "/S22/E04/QF09.tiff",
+    "cuisines": [],
+    "dishes": [
+      "sandwich"
+    ],
+    "ingredients": [
+      "banana",
+      "nutella",
+      "raspberry",
+      "cognac"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "\"Po' Boy\" with Tempura-Battered Zucchini, Turmeric Rice Wine Slaw & Grilled Bread",
+    "slug": "S22E04QF10",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Henry",
+    "image": "/S22/E04/QF10.tiff",
+    "cuisines": [
+      "Creole",
+      "Japanese"
+    ],
+    "dishes": [
+      "po' boy",
+      "sandwich",
+      "slaw",
+      "tempura"
+    ],
+    "ingredients": [
+      "zucchini",
+      "turmeric",
+      "rice wine",
+      "cabbage",
+      "bread"
+    ],
+    "techniques": [
+      "fried",
+      "grilled"
+    ]
+  },
+  {
+    "name": "Open-Faced Crab Salad Sandwich with Curry Batter Crispies",
+    "slug": "S22E04QF11",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Katianna",
+    "image": "/S22/E04/QF11.tiff",
+    "cuisines": [],
+    "dishes": [
+      "sandwich",
+      "salad"
+    ],
+    "ingredients": [
+      "shellfish",
+      "crab",
+      "curry",
+      "bread"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Mozzarella in Carrozza with Mustard Emulsion, Scallions & Honey",
+    "slug": "S22E04QF12",
+    "season": 22,
+    "episode": 4,
+    "competition": "Quickfire",
+    "chef": "Tristen",
+    "image": "/S22/E04/QF12.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "mozzarella in carrozza"
+    ],
+    "ingredients": [
+      "cheese",
+      "mozzarella",
+      "bread",
+      "mustard",
+      "scallion",
+      "honey"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Nanaimo Duck Breast with Mustard Custard, Duck Skin & Walnut Nanaimo Crumble & Soy Cacao Ganache",
+    "slug": "S22E04E01",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Kat",
+    "image": "/S22/E04/E01.tiff",
+    "cuisines": [
+      "Canadian"
+    ],
+    "dishes": [
+      "ganache",
+      "crumble",
+      "custard"
+    ],
+    "ingredients": [
+      "duck",
+      "duck breast",
+      "mustard",
+      "nuts",
+      "walnut",
+      "chocolate",
+      "soy sauce"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Cacao-Rubbed Braised Pork Belly with Coconut Vanilla Vinaigrette, Roasted Beets & Chocolate Graham Cracker",
+    "slug": "S22E04E02",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Paula",
+    "image": "/S22/E04/E02.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "vinaigrette",
+      "cracker"
+    ],
+    "ingredients": [
+      "pork",
+      "pork belly",
+      "chocolate",
+      "coconut",
+      "vanilla",
+      "beet",
+      "graham cracker"
+    ],
+    "techniques": [
+      "braised",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Roasted Yukon Potatoes with Chocolate Miso Glaze & Caviar Vin Blanc",
+    "slug": "S22E04E03",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Vinny",
+    "image": "/S22/E04/E03.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "vin blanc"
+    ],
+    "ingredients": [
+      "potato",
+      "chocolate",
+      "miso",
+      "caviar",
+      "white wine"
+    ],
+    "techniques": [
+      "roasted",
+      "glazed"
+    ]
+  },
+  {
+    "name": "Cacao Gnocchi with Cacao-Braised Lamb & Pickled Shallots",
+    "slug": "S22E04E04",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Lana",
+    "image": "/S22/E04/E04.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "gnocchi",
+      "pickles"
+    ],
+    "ingredients": [
+      "chocolate",
+      "lamb",
+      "shallot",
+      "potato"
+    ],
+    "techniques": [
+      "braised"
+    ]
+  },
+  {
+    "name": "Lamb Tartare with Ras El Hanout Crisp, Date Jam, Harissa & Ras El Hanout Yogurt",
+    "slug": "S22E04E05",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Massimo",
+    "image": "/S22/E04/E05.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "tartare",
+      "jam"
+    ],
+    "ingredients": [
+      "lamb",
+      "ras el hanout",
+      "dates",
+      "harissa",
+      "yogurt"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Lamb Tartare with Date & Shallot Purée, Roasted Carrot Purée & Buñuelo",
+    "slug": "S22E04E06",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "César",
+    "image": "/S22/E04/E06.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "tartare",
+      "buñuelos",
+      "puree"
+    ],
+    "ingredients": [
+      "lamb",
+      "dates",
+      "shallot",
+      "carrot"
+    ],
+    "techniques": [
+      "fried",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Jerk Marinated Fried Chicken with Miso Raisin BBQ Sauce & Cabbage Slaw",
+    "slug": "S22E04E07",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Corwin",
+    "image": "/S22/E04/E07.tiff",
+    "cuisines": [
+      "Southern",
+      "Caribbean"
+    ],
+    "dishes": [
+      "fried chicken",
+      "slaw",
+      "jerk",
+      "BBQ sauce"
+    ],
+    "ingredients": [
+      "chicken",
+      "miso",
+      "raisin",
+      "cabbage"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Pepperpot with Braised Lamb, Lamb Fat Madeleine & Pickled Grapes",
+    "slug": "S22E04E08",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Tristen",
+    "image": "/S22/E04/E08.tiff",
+    "cuisines": [
+      "Guyanese",
+      "French"
+    ],
+    "dishes": [
+      "pepperpot",
+      "madeleine",
+      "pickles"
+    ],
+    "ingredients": [
+      "lamb",
+      "grape",
+      "cassareep"
+    ],
+    "techniques": [
+      "braised",
+      "baked"
+    ]
+  },
+  {
+    "name": "Rye Porridge with Molasses Glazed Mushrooms, Raspberry & Bacon Confit",
+    "slug": "S22E04E09",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Katianna",
+    "image": "/S22/E04/E09.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "porridge"
+    ],
+    "ingredients": [
+      "rye",
+      "mushroom",
+      "molasses",
+      "raspberry",
+      "pork",
+      "bacon"
+    ],
+    "techniques": [
+      "glazed",
+      "confit"
+    ]
+  },
+  {
+    "name": "Tsukune with Raspberry Pepper Jelly, Tare, Chilled Napa & Hot Mustard",
+    "slug": "S22E04E10",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Shuai",
+    "image": "/S22/E04/E10.tiff",
+    "cuisines": [
+      "Japanese"
+    ],
+    "dishes": [
+      "tsukune",
+      "tare"
+    ],
+    "ingredients": [
+      "chicken",
+      "raspberry",
+      "chiles",
+      "napa cabbage",
+      "mustard"
+    ],
+    "techniques": [
+      "grilled",
+      "glazed"
+    ]
+  },
+  {
+    "name": "Seared Duck Breast with Brown Sugar Corn Syrup Glaze, Mushroom Crumb, Jus & Parsnip Purée",
+    "slug": "S22E04E11",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Henry",
+    "image": "/S22/E04/E11.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "jus"
+    ],
+    "ingredients": [
+      "duck",
+      "duck breast",
+      "brown sugar",
+      "corn syrup",
+      "mushroom",
+      "parsnip"
+    ],
+    "techniques": [
+      "pan-fried",
+      "glazed"
+    ]
+  },
+  {
+    "name": "Seared Duck Breast with Sheermal, Pecan & Cashew Korma",
+    "slug": "S22E04E12",
+    "season": 22,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": "Zubair",
+    "image": "/S22/E04/E12.tiff",
+    "cuisines": [
+      "Indian"
+    ],
+    "dishes": [
+      "korma",
+      "sheermal"
+    ],
+    "ingredients": [
+      "duck",
+      "duck breast",
+      "nuts",
+      "pecan",
+      "cashew",
+      "sheermal"
+    ],
+    "techniques": [
+      "pan-fried"
     ]
   },
   {
@@ -2455,7 +3075,7 @@
     "chef": "Duyen",
     "image": "/S23/E04/E07.tiff",
     "cuisines": ["Southern"],
-    "dishes": ["grits", "pickles", "confit"],
+    "dishes": ["grits", "pickles"],
     "ingredients": ["cabbage", "cornmeal", "tomato", "corn"],
     "techniques": ["charred", "confit"]
   },
