@@ -60,6 +60,7 @@
     "chef": "Team",
     "image": "/S22/E01/QF05.tiff",
     "cuisines": [],
+    "dishes": ["chowder"],
     "ingredients": ["corn", "shellfish", "clams", "andouille", "apple", "chives", "mushrooms"],
     "techniques": ["roasted"]
   },
