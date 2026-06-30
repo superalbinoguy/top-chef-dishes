@@ -135,7 +135,19 @@ body.card-body {
   padding-bottom: 12px;
 }
 
+.competition-header {
+  font-family: "Fraunces";
+  font-size: 24px;
+  padding-top: 16px;
+  padding-bottom: 0px;
+  opacity: 0.5;
+}
+
 .season-wrapper {
   padding: 2rem;
   background: #fffdf6;
+}
+
+.italic {
+  font-style: italic;
 }

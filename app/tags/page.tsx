@@ -39,7 +39,9 @@ const cuisineFlags: Record<string, string> = {
   Malaysian: "MY",
   Ecuadorian: "EC",
   Canadian: "CA",
-  Guyanese: "GY"
+  Guyanese: "GY",
+  Portuguese: "PT",
+  Greek: "GR"
 };
 
 const globeColors: Record<string, string> = {

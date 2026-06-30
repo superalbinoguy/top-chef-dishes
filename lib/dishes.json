@@ -593,8 +593,8 @@
     "chef": "Massimo",
     "image": "/S22/E02/E12.tiff",
     "cuisines": ["French"],
-    "dishes": ["bordelaise", "lasagna"],
-    "ingredients": ["beef", "egg", "spinach", "maple syrup", "pasta"],
+    "dishes": ["pasta", "bordelaise", "lasagna"],
+    "ingredients": ["beef", "egg", "spinach", "maple syrup"],
     "techniques": ["pan-fried"]
   },
   {
@@ -1842,7 +1842,8 @@
     "cuisines": [
     ],
     "dishes": [
-      "jus"
+      "jus",
+      "puree"
     ],
     "ingredients": [
       "duck",
@@ -1882,6 +1883,524 @@
     ],
     "techniques": [
       "pan-fried"
+    ]
+  },
+  {
+    "name": "Queso Fundido Quesadilla, Avocado Sour Cream Mousse & Chipotle Queso Salsa",
+    "slug": "S22E06QF01",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Henry",
+    "image": "/S22/E06/QF01.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "quesadilla",
+      "salsa",
+      "queso fundido",
+      "mousse"
+    ],
+    "ingredients": [
+      "cheese",
+      "avocado",
+      "sour cream",
+      "chiles",
+      "jalapeno",
+      "chipotle",
+      "masa"
+    ],
+    "techniques": [
+      "pan-fried"
+    ]
+  },
+  {
+    "name": "Grilled Chicken Thigh, Avocado, Grilled Tomatoes & Cilantro Purée",
+    "slug": "S22E06QF02",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Massimo",
+    "image": "/S22/E06/QF02.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "puree"
+    ],
+    "ingredients": [
+      "chicken",
+      "chicken thigh",
+      "avocado",
+      "tomato",
+      "cilantro"
+    ],
+    "techniques": [
+      "grilled"
+    ]
+  },
+  {
+    "name": "Grilled Romaine, Crema, Roasted Chipotle & Juniper Salsa & Torched Avocado",
+    "slug": "S22E06QF03",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "César",
+    "image": "/S22/E06/QF03.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "salsa"
+    ],
+    "ingredients": [
+      "lettuce",
+      "crema",
+      "chipotle",
+      "juniper",
+      "avocado"
+    ],
+    "techniques": [
+      "grilled",
+      "roasted",
+      "charred"
+    ]
+  },
+  {
+    "name": "Marinated Pork Shoulder, Avocado Cream, Corn Succotash & Crispy Tortilla",
+    "slug": "S22E06QF04",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Lana",
+    "image": "/S22/E06/QF04.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "succotash"
+    ],
+    "ingredients": [
+      "pork",
+      "pork shoulder",
+      "avocado",
+      "corn",
+      "masa"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Pork Shoulder Tostada, Avocado Cream, Corn & Serrano Salsa",
+    "slug": "S22E06QF05",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Paula",
+    "image": "/S22/E06/QF05.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "tostada",
+      "salsa"
+    ],
+    "ingredients": [
+      "pork",
+      "pork shoulder",
+      "avocado",
+      "corn",
+      "chiles",
+      "serrano",
+      "masa"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Steak Tartare, Obe Ata Sofrito, Green Harissa, Crema, Lime-Cured Corn",
+    "slug": "S22E06QF06",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Tristen",
+    "image": "/S22/E06/QF06.tiff",
+    "cuisines": [
+      "West African"
+    ],
+    "dishes": [
+      "tartare",
+      "green harissa",
+      "obe ata"
+    ],
+    "ingredients": [
+      "beef",
+      "obe ata",
+      "corn",
+      "lime",
+      "chiles",
+      "jalapeno",
+      "parsley",
+      "cilantro"
+    ],
+    "techniques": [
+      "cured"
+    ]
+  },
+  {
+    "name": "Grilled Pork & Roasted Tomato Chilaquiles",
+    "slug": "S22E06QF07",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Vinny",
+    "image": "/S22/E06/QF07.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "chilaquiles"
+    ],
+    "ingredients": [
+      "pork",
+      "tomato",
+      "masa"
+    ],
+    "techniques": [
+      "grilled",
+      "roasted"
+    ]
+  },
+  {
+    "name": "Grilled Lettuce, Chicken & Sofritas",
+    "slug": "S22E06QF08",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Katianna",
+    "image": "/S22/E06/QF08.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "sofritas"
+    ],
+    "ingredients": [
+      "lettuce",
+      "chicken"
+    ],
+    "techniques": [
+      "grilled"
+    ]
+  },
+  {
+    "name": "Tortilla Soup, Strip Steak, Romaine, Tomatillo & Cilantro Salad",
+    "slug": "S22E06QF09",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Shuai",
+    "image": "/S22/E06/QF09.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "tortilla soup",
+      "salad"
+    ],
+    "ingredients": [
+      "beef",
+      "strip steak",
+      "romaine",
+      "tomatillo",
+      "cilantro",
+      "masa"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Grilled Steak & Sweet Corn Succotash",
+    "slug": "S22E06QF10",
+    "season": 22,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": "Bailey",
+    "image": "/S22/E06/QF10.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "succotash"
+    ],
+    "ingredients": [
+      "beef",
+      "corn"
+    ],
+    "techniques": [
+      "grilled"
+    ]
+  },
+  {
+    "name": "Fried Pickled Cannolo with L'Express Steak Tartare",
+    "slug": "S22E06E01",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Massimo",
+    "image": "/S22/E06/E01.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "cannoli",
+      "tartare",
+      "pickles"
+    ],
+    "ingredients": [
+      "beef",
+      "cornichon"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Fried Pickled Mushroom, Steak Tartare & Dijonnaise",
+    "slug": "S22E06E02",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Shuai",
+    "image": "/S22/E06/E02.tiff",
+    "cuisines": [],
+    "dishes": [
+      "tartare",
+      "pickles"
+    ],
+    "ingredients": [
+      "mushroom",
+      "beef",
+      "cornichon",
+      "mustard"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Pickle Brined Salmon Rillettes, Pickling Spice Gnocco Fritto, Pickled Ginger, Cucumber & Shallot",
+    "slug": "S22E06E03",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Vinny",
+    "image": "/S22/E06/E03.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "rillettes",
+      "gnocco fritto",
+      "pickles"
+    ],
+    "ingredients": [
+      "fish",
+      "salmon",
+      "ginger",
+      "cucumber",
+      "shallot"
+    ],
+    "techniques": [
+      "fried"
+    ]
+  },
+  {
+    "name": "Charred Mackerel, Celery Root Vichyssoise, Cucumber & Celeriac Pickle Jus Lié, Burnt Pickles",
+    "slug": "S22E06E04",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Tristen",
+    "image": "/S22/E06/E04.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "vichyssoise",
+      "jus lié",
+      "pickles"
+    ],
+    "ingredients": [
+      "fish",
+      "mackerel",
+      "celery root",
+      "celeriac",
+      "cucumber"
+    ],
+    "techniques": [
+      "charred"
+    ]
+  },
+  {
+    "name": "Dill Pickle Seared Scallop, Grilled Pickle Relish, Dill Pickle Beurre Blanc & Fried Capers",
+    "slug": "S22E06E05",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Lana",
+    "image": "/S22/E06/E05.tiff",
+    "cuisines": [
+      "French"
+    ],
+    "dishes": [
+      "beurre blanc",
+      "relish",
+      "pickles"
+    ],
+    "ingredients": [
+      "shellfish",
+      "scallop",
+      "dill",
+      "capers"
+    ],
+    "techniques": [
+      "pan-fried",
+      "grilled",
+      "fried"
+    ]
+  },
+  {
+    "name": "Roasted Dilly Cucumbers, Dill Pickle & Clam Vinaigrette, Pickle Brined Poached Potatoes & Cucumber Seed Porridge",
+    "slug": "S22E06E06",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Katianna",
+    "image": "/S22/E06/E06.tiff",
+    "cuisines": [],
+    "dishes": [
+      "vinaigrette",
+      "porridge",
+      "pickles"
+    ],
+    "ingredients": [
+      "cucumber",
+      "dill",
+      "shellfish",
+      "clam",
+      "potato"
+    ],
+    "techniques": [
+      "roasted",
+      "poached"
+    ]
+  },
+  {
+    "name": "Grilled Octopus, Spicy Pickle Chimichurri, Braised Pickled Beets & Serrano Peppers",
+    "slug": "S22E06E07",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Paula",
+    "image": "/S22/E06/E07.tiff",
+    "cuisines": [
+    ],
+    "dishes": [
+      "chimichurri",
+      "pickles"
+    ],
+    "ingredients": [
+      "shellfish",
+      "octopus",
+      "beet",
+      "chiles",
+      "serrano"
+    ],
+    "techniques": [
+      "grilled",
+      "braised"
+    ]
+  },
+  {
+    "name": "Bulgogi Braised Short Rib, Fermented Collard Greens & Spicy Pickle Foam",
+    "slug": "S22E06E08",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Henry",
+    "image": "/S22/E06/E08.tiff",
+    "cuisines": [
+      "Korean"
+    ],
+    "dishes": [
+      "bulgogi",
+      "pickles"
+    ],
+    "ingredients": [
+      "beef",
+      "short rib",
+      "collard greens"
+    ],
+    "techniques": [
+      "braised",
+      "fermented"
+    ]
+  },
+  {
+    "name": "Ricotta Filled Pasta with Pickle Red Wine Beef Ragù, B&B Giardiniera, Parmesan Fonduta",
+    "slug": "S22E06E09",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "Bailey",
+    "image": "/S22/E06/E09.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "pasta",
+      "ragu",
+      "giardiniera",
+      "fonduta",
+      "pickles"
+    ],
+    "ingredients": [
+      "ricotta",
+      "beef",
+      "cheese",
+      "parmesan",
+      "red wine"
+    ],
+    "techniques": [
+      "braised"
+    ]
+  },
+  {
+    "name": "B&B Pickle Curd Tart & Dill Ice Cream with B&B Pickle Gastrique",
+    "slug": "S22E06E10",
+    "season": 22,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": "César",
+    "image": "/S22/E06/E10.tiff",
+    "cuisines": [],
+    "dishes": [
+      "tart",
+      "ice cream",
+      "gastrique",
+      "pickles",
+      "curd"
+    ],
+    "ingredients": [
+      "dill",
+      "cream"
+    ],
+    "techniques": [
+      "baked",
+      "frozen"
     ]
   },
   {
@@ -2440,7 +2959,7 @@
     "image": "/S23/E02/E09.tiff",
     "cuisines": ["Caribbean", "West African", "Southern"],
     "dishes": ["hoe cake", "maafe", "jerk", "pikliz", "pickles"],
-    "ingredients": ["lamb", "chiles", "jalapeo", "scotch bonnet", "carrot", "carolina reaper"],
+    "ingredients": ["lamb", "chiles", "jalapeno", "scotch bonnet", "carrot", "carolina reaper"],
     "techniques": ["grilled", "pan-fried"]
   },
   {
@@ -2673,8 +3192,8 @@
     "chef": "Brandon",
     "image": "/S23/E03/E01.tiff",
     "cuisines": ["Italian"],
-    "dishes": ["lasagna", "bolognese"],
-    "ingredients": ["pasta", "beef", "cheese", "ricotta"],
+    "dishes": ["pasta", "lasagna", "bolognese"],
+    "ingredients": ["beef", "cheese", "ricotta"],
     "techniques": []
   },
   {
@@ -3146,6 +3665,84 @@
     "techniques": ["pan-fried", "steamed"]
   },
   {
+    "name": "Braised Short Rib with Grilled Flatbread, Escabèche with Sweet Plantain Vinegar",
+    "slug": "S22E05E01",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Paula & Massimo",
+    "image": "/S22/E05/E01.tiff",
+    "cuisines": ["Latin American"],
+    "dishes": ["escabeche", "flatbread"],
+    "ingredients": ["beef", "short rib", "plantain", "vinegar"],
+    "techniques": ["braised", "grilled"]
+  },
+  {
+    "name": "Cod & Shrimp Bomba with Saffron Aioli, Smoked Roe, Piri Piri & Pickles",
+    "slug": "S22E05E02",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Kat & Corwin",
+    "image": "/S22/E05/E02.tiff",
+    "cuisines": ["Portuguese"],
+    "dishes": ["bomba", "aioli", "pickles", "piri piri"],
+    "ingredients": ["fish", "cod", "shellfish", "shrimp", "roe", "saffron"],
+    "techniques": ["smoked", "fried"]
+  },
+  {
+    "name": "Pad Thai Glazed Tenderloin, Pickled Mushrooms & Butterfly Pea Flower Pickles",
+    "slug": "S22E05E03",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Katianna & César",
+    "image": "/S22/E05/E03.tiff",
+    "cuisines": ["Thai"],
+    "dishes": ["pad thai", "pickles"],
+    "ingredients": ["beef", "tenderloin", "mushroom", "butterfly pea flower"],
+    "techniques": ["glazed"]
+  },
+  {
+    "name": "Chicken Kamasutra with Curry Hollandaise, Chicken Skin & Flatbread",
+    "slug": "S22E05E04",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Lana & Vinny",
+    "image": "/S22/E05/E04.tiff",
+    "cuisines": ["Indian"],
+    "dishes": ["hollandaise", "flatbread"],
+    "ingredients": ["chicken", "curry", "eggs", "butter"],
+    "techniques": ["braised"]
+  },
+  {
+    "name": "Arroz Caldo with Roasted Pork Kare-Kare, Fermented Pickles & Bagoong XO Sauce",
+    "slug": "S22E05E05",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Henry & Shuai",
+    "image": "/S22/E05/E05.tiff",
+    "cuisines": ["Filipino"],
+    "dishes": ["arroz caldo", "kare-kare", "xo sauce", "pickles"],
+    "ingredients": ["pork", "rice", "bagoong", "peanuts", "peanut butter"],
+    "techniques": ["roasted", "fermented"]
+  },
+  {
+    "name": "Grilled Octopus with Kalamata Caramel Glaze & Charred Green Olive Honey Relish",
+    "slug": "S22E05E06",
+    "season": 22,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": "Bailey & Tristen",
+    "image": "/S22/E05/E06.tiff",
+    "cuisines": ["Greek"],
+    "dishes": ["relish"],
+    "ingredients": ["shellfish", "octopus", "olive", "honey"],
+    "techniques": ["grilled", "charred", "glazed"]
+  },
+  {
     "name": "Colorado Vanilla Ice Cream with Nutella, Corn Nut Crunch & Maple Syrup",
     "slug": "S23E05QF01",
     "season": 23,
@@ -3596,8 +4193,8 @@
     "chef": "Brandon",
     "image": "/S23/E06/E06.tiff",
     "cuisines": ["Southern"],
-    "dishes": ["mac and cheese"],
-    "ingredients": ["pork", "pork belly", "pasta", "cheese", "collard greens", "onion", "mustard"],
+    "dishes": ["mac and cheese", "pasta"],
+    "ingredients": ["pork", "pork belly", "cheese", "collard greens", "onion", "mustard"],
     "techniques": ["smoked", "baked", "braised"]
   },
   {
@@ -4780,8 +5377,7 @@
       "bread"
     ],
     "techniques": [
-      "grilled",
-      "pureed"
+      "grilled"
     ]
   },
   {

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Link from "next/link";
 import SearchAndNav from "@/components/SearchAndNav";
+import dishes from "@/lib/dishes.json";
 
 export const metadata: Metadata = {
   title: "Top Chef Dishes",
@@ -22,7 +23,7 @@ export default function RootLayout({
         </div>
 
         <Link
-          href="/support"
+          href="https://buymeacoffee.com/kurtlosereit"
           style={{
             display: "inline-flex",
             alignItems: "center",
@@ -46,7 +47,7 @@ export default function RootLayout({
           ☕ Keep the Kitchen Running!
         </Link>
 
-        <SearchAndNav dishes={[]}/>
+        <SearchAndNav dishes={dishes}/>
 
         <main>
           <div className="card-content p-4">{children}</div>
