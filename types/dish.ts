@@ -4,7 +4,7 @@ type Dish = {
   season: number;
   episode: number;
   competition: string;
-  chef: string;
+  chef: string[];
   image: string;
   cuisines: string[];
   dishes: string[];

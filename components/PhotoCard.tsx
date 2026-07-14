@@ -5,7 +5,6 @@ function getImagePath(slug: string) {
 }
 
 export default function PhotoCard({
-  key,
   dish
 }: {
   key: string;

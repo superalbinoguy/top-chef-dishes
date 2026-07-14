@@ -1,11 +1,11 @@
 import Link from "next/link";
+import { chefSlug } from "@/lib/tag-utils";
 
 function getImagePath(slug: string) {
   return `/images/chefs/${slug}.webp`;
 }
 
 export default function ChefCard({
-  key,
   chef,
 }: {
   key: string;
@@ -13,7 +13,7 @@ export default function ChefCard({
 }) {
   return (
     <Link
-      href={`/chefs/${chef}`}
+      href={`/chefs/${chefSlug(chef)}`}
       style={{
         textDecoration: "none",
         color: "inherit",
@@ -42,7 +42,6 @@ export default function ChefCard({
               width: "100%",
               height: "100%",
               objectFit: "cover",
-              transform: "scale(1.65)"
             }}
           />
         </div>

@@ -50,7 +50,11 @@ export default function RootLayout({
         <SearchAndNav dishes={dishes}/>
 
         <main>
-          <div className="card-content p-4">{children}</div>
+          <div>
+            <div className="card-content p-4">
+              {children}
+            </div>
+          </div>
         </main>
       </body>
     </html>

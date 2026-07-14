@@ -12,3 +12,10 @@ export function getSortedTagCounts(
       }, {})
   ).sort(([, a], [, b]) => b - a);
 }
+
+export function chefSlug(name: string) {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}

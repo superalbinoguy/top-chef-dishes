@@ -1,13 +1,7 @@
 import dishes from "@/lib/dishes.json";
-import Link from "next/link";
 import { notFound } from "next/navigation";
-
-function chefSlug(name: string) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
+import PhotoCard from "@/components/PhotoCard";
+import { chefSlug } from "@/lib/tag-utils";
 
 export default async function ChefPage({
   params,
@@ -16,40 +10,45 @@ export default async function ChefPage({
 }) {
   const { slug } = await params;
 
-  const chef = dishes
-    .map((d) => d.chef)
-    .filter((c) => c !== "Team")
-    .find((c) => chefSlug(c) === slug);
+  // Build all chefs from dishes
+  const allChefs = [
+    ...new Set(dishes.flatMap((dish) => dish.chef)),
+  ].filter((chef) => !chef.includes("Team"));
+
+  // Resolve slug -> actual chef name
+  const chef = allChefs.find((c) => chefSlug(c) === slug);
 
   if (!chef) return notFound();
 
-  const chefDishes = dishes.filter(
-    (d) => d.chef === chef
+  // Find dishes containing this chef
+  const chefDishes = dishes.filter((dish) =>
+    dish.chef.includes(chef)
   );
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>{chef}</h1>
+    <div className="season-wrapper">
+      {/* HEADER */}
+      <div className="season-header">
+        <div style={{ display: "flex", gap: "0.5rem", alignItems: "baseline" }}>
+          <h1 style={{ opacity: 0.3, marginRight: "4px",}}>Dishes by</h1>
+          <h1>{chef}</h1>
+        </div>
+        <p style={{ opacity: 0.6, marginTop: "0.25rem" }}>
+          {chefDishes.length} dishes
+        </p>
+      </div>
 
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem", marginTop: "1.5rem" }}>
-        {dishes.map((dish) => (
-          <Link key={dish.slug} href={`/dishes/${dish.slug}`}>
-            <button
-              style={{
-                width: "100%",
-                textAlign: "left",
-                padding: "0.75rem 1rem",
-                borderRadius: "8px",
-                border: "1px solid #ddd",
-                background: "white",
-                cursor: "pointer",
-                fontSize: "1rem",
-                color: "black"
-              }}
-            >
-              {dish.name}
-            </button>
-          </Link>
+      {/* GRID */}
+      <div
+        style={{
+          display: "flex",
+          flexWrap: "wrap",
+          gap: "2rem",
+          marginTop: "1.5rem",
+        }}
+      >
+        {chefDishes.map((dish) => (
+          <PhotoCard key={dish.slug} dish={dish} />
         ))}
       </div>
     </div>

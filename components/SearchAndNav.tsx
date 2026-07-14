@@ -41,13 +41,15 @@ function buildIndex(dishes: Dish[]): SearchResult[] {
       href: `/dishes/${d.slug}`,
     });
 
-    if (d.chef && !chefs.has(d.chef)) {
-      chefs.add(d.chef);
-      results.push({
-        type: "chef",
-        label: d.chef,
-        href: `/chefs/${slugify(d.chef)}`,
-      });
+    for (const c of d.chef ?? []) {
+      if (!chefs.has(c)) {
+        chefs.add(c);
+        results.push({
+          type: "chef",
+          label: c,
+          href: `/chefs/${slugify(c)}`,
+        });
+      }
     }
 
     for (const c of d.cuisines ?? []) {

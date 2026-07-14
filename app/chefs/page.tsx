@@ -2,17 +2,20 @@ import Link from "next/link";
 import Image from "next/image"
 import dishes from "@/lib/dishes.json";
 import ChefCard from "@/components/ChefCard";
+import { chefSlug } from "@/lib/tag-utils";
 
 export default function ChefsPage() {
   const chefsBySeason = dishes.reduce<Record<number, Set<string>>>(
     (acc, dish) => {
-      if (dish.chef === "Team") return acc;
+      if (dish.chef.includes("Team")) return acc;
 
       if (!acc[dish.season]) {
         acc[dish.season] = new Set();
       }
 
-      acc[dish.season].add(dish.chef);
+      dish.chef.forEach((chef) => {
+        acc[dish.season].add(chef);
+      })
 
       return acc;
     },
@@ -62,11 +65,4 @@ export default function ChefsPage() {
       </div>
     </div>
   );
-}
-
-function chefSlug(name: string) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
 }
