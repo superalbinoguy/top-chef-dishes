@@ -5,7 +5,7 @@
     "season": 22,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Shuai", "Tristen", "Massimo"],
     "image": "/S22/E01/QF01.tiff",
     "cuisines": [],
     "dishes": ["nage"],
@@ -18,7 +18,7 @@
     "season": 22,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Bailey", "Zubair", "Anya"],
     "image": "/S22/E01/QF02.tiff",
     "cuisines": ["Italian"],
     "dishes": ["acqua pazza"],
@@ -31,7 +31,7 @@
     "season": 22,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Katianna", "Mimi", "César"],
     "image": "/S22/E01/QF03.tiff",
     "cuisines": [],
     "dishes": ["soup", "relish"],
@@ -44,7 +44,7 @@
     "season": 22,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Corwin", "Henry", "Kat"],
     "image": "/S22/E01/QF04.tiff",
     "cuisines": [],
     "dishes": ["sofrito", "pickles"],
@@ -57,7 +57,7 @@
     "season": 22,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Vinny", "Lana", "Paula"],
     "image": "/S22/E01/QF05.tiff",
     "cuisines": [],
     "dishes": ["chowder"],
@@ -2404,12 +2404,516 @@
     ]
   },
   {
+    "name": "Gnocchi alla Sorrentina",
+    "slug": "S22E07QF01",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Massimo"
+    ],
+    "image": "/S22/E07/QF01.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "gnocchi"
+    ],
+    "ingredients": [
+      "potato",
+      "tomato",
+      "mozzarella",
+      "cheese",
+      "basil"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Butternut Squash Lasagna with Cashew Ricotta & Mushroom Tomato Sauce",
+    "slug": "S22E07QF02",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Paula"
+    ],
+    "image": "/S22/E07/QF02.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "lasagna"
+    ],
+    "ingredients": [
+      "butternut squash",
+      "cashew",
+      "ricotta",
+      "mushroom",
+      "tomato"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Trumpet Mushroom, Celery & Avocado Salad with Agave Cumin Vinaigrette & Rye Crackers",
+    "slug": "S22E07QF03",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Bailey"
+    ],
+    "image": "/S22/E07/QF03.tiff",
+    "cuisines": [],
+    "dishes": [
+      "salad",
+      "vinaigrette",
+      "cracker"
+    ],
+    "ingredients": [
+      "mushroom",
+      "trumpet mushroom",
+      "celery",
+      "avocado",
+      "agave",
+      "cumin",
+      "rye"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Cheese Rice Cakes with Bechamel",
+    "slug": "S22E07QF04",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Shuai"
+    ],
+    "image": "/S22/E07/QF04.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "bechamel"
+    ],
+    "ingredients": [
+      "rice cakes",
+      "cheese",
+      "butter"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Eggs Benedict with Carbonara Hollandaise, Arugula & Egg Yolk Vinaigrette",
+    "slug": "S22E07QF05",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Vinny"
+    ],
+    "image": "/S22/E07/QF05.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "eggs benedict",
+      "hollandaise",
+      "vinaigrette"
+    ],
+    "ingredients": [
+      "egg",
+      "prosciutto",
+      "arugula",
+      "parmesan",
+      "butter",
+      "bread"
+    ],
+    "techniques": [
+      "poached"
+    ]
+  },
+  {
+    "name": "Glutinous Rice Balls Filled with Maple Butter, Toasted Oats & Oatmeal Broth",
+    "slug": "S22E07QF06",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Henry"
+    ],
+    "image": "/S22/E07/QF06.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "rice ball",
+      "broth"
+    ],
+    "ingredients": [
+      "rice",
+      "maple syrup",
+      "butter",
+      "oats"
+    ],
+    "techniques": []
+  },
+  {
+    "name": "Golden Jollof Rice with Clams, Peas & Charred Shishito",
+    "slug": "S22E07QF07",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Tristen"
+    ],
+    "image": "/S22/E07/QF07.tiff",
+    "cuisines": [
+      "Nigerian"
+    ],
+    "dishes": [
+      "jollof rice"
+    ],
+    "ingredients": [
+      "rice",
+      "shellfish",
+      "clams",
+      "peas",
+      "shishito"
+    ],
+    "techniques": [
+      "charred"
+    ]
+  },
+  {
+    "name": "Meat Sauce Eggs in Purgatory with Italian Sausage & Grilled Garlic Bread",
+    "slug": "S22E07QF08",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "Lana"
+    ],
+    "image": "/S22/E07/QF08.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "eggs in purgatory"
+    ],
+    "ingredients": [
+      "tomato",
+      "egg",
+      "sausage",
+      "bread",
+      "garlic"
+    ],
+    "techniques": [
+      "grilled"
+    ]
+  },
+  {
+    "name": "Salmon Cappuccino with Cured Salmon, Coffee Pickled Celery Root, Coffee Mustard & Coffee Crumble",
+    "slug": "S22E07QF09",
+    "season": 22,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": [
+      "César"
+    ],
+    "image": "/S22/E07/QF09.tiff",
+    "cuisines": [],
+    "dishes": [
+      "crumble",
+      "pickles"
+    ],
+    "ingredients": [
+      "salmon",
+      "fish",
+      "coffee",
+      "celery root",
+      "mustard"
+    ],
+    "techniques": [
+      "cured"
+    ]
+  },
+  {
+    "name": "Scallion Pancake Pizza with Cumin Szechuan Lamb, Mozzarella & Tiger Salad",
+    "slug": "S22E07E01",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Shuai"
+    ],
+    "image": "/S22/E07/E01.tiff",
+    "cuisines": [
+      "Chinese"
+    ],
+    "dishes": [
+      "scallion pancake",
+      "pizza",
+      "salad"
+    ],
+    "ingredients": [
+      "scallion",
+      "lamb",
+      "cumin",
+      "mozzarella",
+      "cheese",
+      "cilantro",
+      "celery"
+    ],
+    "techniques": [
+      "pan-fried",
+      "baked"
+    ]
+  },
+  {
+    "name": "Lahmajun Pizza with Lamb, Anchovy Ranch & Pickled Grapes",
+    "slug": "S22E07E02",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Tristen"
+    ],
+    "image": "/S22/E07/E02.tiff",
+    "cuisines": [
+      "Middle Eastern"
+    ],
+    "dishes": [
+      "pizza",
+      "lahjmajun",
+      "ranch",
+      "pickles"
+    ],
+    "ingredients": [
+      "lamb",
+      "anchovy",
+      "grapes",
+      "mayo"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Honeynut Squash Sauce Pizza with Tamarind BBQ Oxtails, Buttermilk Dressing & Plantain Chips",
+    "slug": "S22E07E03",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Lana"
+    ],
+    "image": "/S22/E07/E03.tiff",
+    "cuisines": [
+      "Caribbean"
+    ],
+    "dishes": [
+      "pizza",
+      "BBQ sauce"
+    ],
+    "ingredients": [
+      "squash",
+      "oxtail",
+      "tamarind",
+      "buttermilk",
+      "plantain"
+    ],
+    "techniques": [
+      "braised",
+      "fried",
+      "baked"
+    ]
+  },
+  {
+    "name": "Pho Rice Pizza with Pho Marinated Brisket, Herb Pesto & Hoisin Sriracha Aioli",
+    "slug": "S22E07E04",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Henry"
+    ],
+    "image": "/S22/E07/E04.tiff",
+    "cuisines": [
+      "Vietnamese"
+    ],
+    "dishes": [
+      "pizza",
+      "pesto",
+      "aioli"
+    ],
+    "ingredients": [
+      "rice",
+      "beef",
+      "brisket",
+      "hoisin",
+      "sriracha"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Mole Negro Pizza with Chicken Thighs, Black Bean Salsa & Crispy Chicken Skin",
+    "slug": "S22E07E05",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "César"
+    ],
+    "image": "/S22/E07/E05.tiff",
+    "cuisines": [
+      "Mexican"
+    ],
+    "dishes": [
+      "pizza",
+      "mole",
+      "salsa"
+    ],
+    "ingredients": [
+      "chicken",
+      "chicken thigh",
+      "beans",
+      "chiles"
+    ],
+    "techniques": [
+      "fried",
+      "baked"
+    ]
+  },
+  {
+    "name": "Chicken Parmesan Pizza with Tigelle Bread, Chicken Thigh Sausage, Provolone, Parmesan & Pecorino",
+    "slug": "S22E07E06",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Bailey"
+    ],
+    "image": "/S22/E07/E06.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "chicken parmesan",
+      "pizza",
+      "tigelle bread"
+    ],
+    "ingredients": [
+      "chicken",
+      "chicken thigh",
+      "sausage",
+      "provolone",
+      "parmesan",
+      "pecorino"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
+    "name": "Napoletana Style Pizza with Fermented Parsley Paste, Potatoes, Mussels & Clams",
+    "slug": "S22E07E07",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Massimo"
+    ],
+    "image": "/S22/E07/E07.tiff",
+    "cuisines": [
+      "Italian"
+    ],
+    "dishes": [
+      "pizza"
+    ],
+    "ingredients": [
+      "parsley",
+      "potato",
+      "shellfish",
+      "mussels",
+      "clams"
+    ],
+    "techniques": [
+      "fermented",
+      "baked"
+    ]
+  },
+  {
+    "name": "Pineapple-Braised Pork Pizza with Caramelized Onions, Chimichurri & Mornay Sauce",
+    "slug": "S22E07E08",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Paula"
+    ],
+    "image": "/S22/E07/E08.tiff",
+    "cuisines": [],
+    "dishes": [
+      "pizza",
+      "chimichurri",
+      "mornay sauce"
+    ],
+    "ingredients": [
+      "pineapple",
+      "pork",
+      "onion"
+    ],
+    "techniques": [
+      "braised",
+      "caramelized",
+      "baked"
+    ]
+  },
+  {
+    "name": "Reuben Pizza with Pickle, Sauerkraut, Thousand Island Whipped Ricotta & Gruyere Cheese",
+    "slug": "S22E07E09",
+    "season": 22,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": [
+      "Vinny"
+    ],
+    "image": "/S22/E07/E09.tiff",
+    "cuisines": [
+      "Northeast American"
+    ],
+    "dishes": [
+      "pizza",
+      "thousand island dressing"
+    ],
+    "ingredients": [
+      "corned beef",
+      "pickles",
+      "sauerkraut",
+      "ricotta",
+      "gruyere",
+      "cheese"
+    ],
+    "techniques": [
+      "baked"
+    ]
+  },
+  {
     "name": "Cured Snapper with Tomato Vinaigrette, Avocado, Radish & Cucumber",
     "slug": "S23E01QF01",
     "season": 23,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Anthony", "Brandon", "Sieger"],
     "image": "/S23/E01/QF01.tiff",
     "cuisines": [],
     "dishes": ["cured fish", "vinaigrette"],
@@ -2422,7 +2926,7 @@
     "season": 23,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Justin", "Jassi", "Brittany"],
     "image": "/S23/E01/QF02.tiff",
     "cuisines": ["Indian"],
     "dishes": ["salad", "moilee"],
@@ -2435,7 +2939,7 @@
     "season": 23,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Day", "Nana", "Duyen"],
     "image": "/S23/E01/QF03.tiff",
     "cuisines": [],
     "dishes": ["pickles"],
@@ -2448,7 +2952,7 @@
     "season": 23,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Rhoda", "Sherry", "Oscar"],
     "image": "/S23/E01/QF04.tiff",
     "cuisines": ["Latin American", "Mexican"],
     "dishes": ["ceviche", "aguachile", "salad"],
@@ -2461,7 +2965,7 @@
     "season": 23,
     "episode": 1,
     "competition": "Quickfire",
-    "chef": ["Team"],
+    "chef": ["Laurence", "Jennifer", "Jonathan"],
     "image": "/S23/E01/QF05.tiff",
     "cuisines": ["Southern"],
     "dishes": ["hushpuppy", "aioli", "salad"],

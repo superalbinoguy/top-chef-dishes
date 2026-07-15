@@ -8,6 +8,7 @@ type SearchResult =
   | { type: "dish"; label: string; href: string }
   | { type: "chef"; label: string; href: string }
   | { type: "cuisine"; label: string; href: string }
+  | { type: "dishType"; label: string; href: string }
   | { type: "ingredient"; label: string; href: string }
   | { type: "technique"; label: string; href: string };
 
@@ -15,6 +16,7 @@ const typeLabels: Record<SearchResult["type"], string> = {
   dish: "Dishes",
   chef: "Chefs",
   cuisine: "Cuisines",
+  dishType: "Dish Types",
   ingredient: "Ingredients",
   technique: "Techniques",
 };
@@ -29,6 +31,7 @@ function slugify(s: string) {
 function buildIndex(dishes: Dish[]): SearchResult[] {
   const chefs = new Set<string>();
   const cuisines = new Set<string>();
+  const dishTypes = new Set<string>();
   const ingredients = new Set<string>();
   const techniques = new Set<string>();
 
@@ -59,6 +62,17 @@ function buildIndex(dishes: Dish[]): SearchResult[] {
           type: "cuisine",
           label: c,
           href: `/tags/cuisines/${slugify(c)}`,
+        });
+      }
+    }
+
+    for (const di of d.dishes ?? []) {
+      if (!dishTypes.has(di)) {
+        dishTypes.add(di);
+        results.push({
+          type: "dishType",
+          label: di,
+          href: `/tags/dishes/${slugify(di)}`,
         });
       }
     }
@@ -115,6 +129,7 @@ export default function SearchAndNav({ dishes }: { dishes: Dish[] }) {
       dish: [],
       chef: [],
       cuisine: [],
+      dishType: [],
       ingredient: [],
       technique: [],
     };

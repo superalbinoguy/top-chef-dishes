@@ -8,9 +8,7 @@ export default function Home() {
   ).size;
 
   const chefs = new Set(
-    dishes
-      .map((d) => d.chef)
-      .filter((chef) => chef !== "Team")
+    dishes.flatMap((dish) => dish.chef)
   ).size;
 
   const totalDishes = dishes.length;
