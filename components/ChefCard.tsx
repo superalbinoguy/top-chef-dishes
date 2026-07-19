@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { chefSlug } from "@/lib/tag-utils";
+import { chefSlug, chefDisplayName } from "@/lib/tag-utils";
 
 function getImagePath(slug: string) {
   return `/images/chefs/${slug}.webp`;
@@ -13,7 +13,7 @@ export default function ChefCard({
 }) {
   return (
     <Link
-      href={`/chefs/${chefSlug(chef)}`}
+      href={`/chefs/${chefSlug(chefDisplayName(chef, "first"))}`}
       style={{
         textDecoration: "none",
         color: "inherit",
@@ -36,7 +36,7 @@ export default function ChefCard({
           }}
         >
           <img
-            src={getImagePath(chef)}
+            src={getImagePath(chefDisplayName(chef, "first"))}
             alt={chef}
             style={{
               width: "100%",
@@ -54,7 +54,7 @@ export default function ChefCard({
             fontSize: "18px"
           }}
         >
-          {chef}
+          {chefDisplayName(chef, "first")}
         </div>
       </div>
     </Link>

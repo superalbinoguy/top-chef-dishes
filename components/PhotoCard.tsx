@@ -1,7 +1,14 @@
+import { join } from "path";
 import Link from "next/link";
 
 function getImagePath(slug: string) {
-  return `/images/${slug.slice(0, 3)}/${slug.slice(3, 6)}/${slug.slice(6)}.webp`;
+  return `/images/${slug.slice(0, 3)}/${slug.slice(3, 6)}/${slug.slice(6)}`;
+}
+
+function tryImage(slug: string): string {
+  const basePath = getImagePath(slug);
+
+  return `${basePath}x.webp`;
 }
 
 export default function PhotoCard({
@@ -35,13 +42,12 @@ export default function PhotoCard({
           }}
         >
           <img
-            src={getImagePath(dish.slug)}
+            src={tryImage(dish.slug)}
             alt={dish.name}
             style={{
               width: "100%",
               height: "100%",
               objectFit: "cover",
-              transform: "scale(1.65)"
             }}
           />
         </div>

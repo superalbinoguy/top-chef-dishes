@@ -1,7 +1,7 @@
 import dishes from "@/lib/dishes.json";
 import { notFound } from "next/navigation";
 import PhotoCard from "@/components/PhotoCard";
-import { chefSlug } from "@/lib/tag-utils";
+import { chefSlug, chefDisplayName } from "@/lib/tag-utils";
 
 export default async function ChefPage({
   params,
@@ -16,7 +16,7 @@ export default async function ChefPage({
   ].filter((chef) => !chef.includes("Team"));
 
   // Resolve slug -> actual chef name
-  const chef = allChefs.find((c) => chefSlug(c) === slug);
+  const chef = allChefs.find((c) => chefSlug(chefDisplayName(c, "first")) === slug);
 
   if (!chef) return notFound();
 

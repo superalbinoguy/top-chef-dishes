@@ -6,6 +6,8 @@ import Image from "next/image";
 import CountryFlag from "react-country-flag";
 import { getSortedTagCounts } from "@/lib/tag-utils";
 import { Globe, Utensils } from "lucide-react";
+import SeasonFilter from "@/components/SeasonFilter";
+import dishes from "@/lib/dishes.json";
 
 const cuisineFlags: Record<string, string> = {
   French: "FR",
@@ -41,7 +43,9 @@ const cuisineFlags: Record<string, string> = {
   Canadian: "CA",
   Guyanese: "GY",
   Portuguese: "PT",
-  Greek: "GR"
+  Greek: "GR",
+  Ethiopian: "ET",
+  Cameroonian: "CM"
 };
 
 const globeColors: Record<string, string> = {
@@ -75,45 +79,78 @@ function resolveCuisineIcon(tag: string) {
 const MAX_ITEMS = 18; // ~3 rows on your grid (safe approximation)
 
 export default function TagsPage() {
+  const grouped = dishes.reduce<
+      Record<number, Record<number, typeof dishes>>
+    >((acc, dish) => {
+      if (!acc[dish.season]) {
+        acc[dish.season] = {};
+      }
+
+      if (!acc[dish.season][dish.episode]) {
+        acc[dish.season][dish.episode] = [];
+      }
+
+      acc[dish.season][dish.episode].push(dish);
+
+      return acc;
+    }, {});
+
+  const seasons = Object.keys(grouped)
+      .map(Number)
+      .sort((a, b) => b - a);
+
+  const [selectedSeason, setSelectedSeason] =
+      useState<number | null>(null);
+
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
 
   const groups = [
     {
       title: "Cuisines",
       category: "cuisines",
-      data: getSortedTagCounts("cuisines"),
+      data: getSortedTagCounts("cuisines", selectedSeason),
     },
     {
       title: "Dish Types",
       category: "dishes",
-      data: getSortedTagCounts("dishes"),
+      data: getSortedTagCounts("dishes", selectedSeason),
     },
     {
       title: "Ingredients",
       category: "ingredients",
-      data: getSortedTagCounts("ingredients"),
+      data: getSortedTagCounts("ingredients", selectedSeason),
     },
     {
       title: "Techniques",
       category: "techniques",
-      data: getSortedTagCounts("techniques"),
+      data: getSortedTagCounts("techniques", selectedSeason),
     },
   ] as const;
 
   return (
     <div>
       {/* Header */}
-      <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
-        <span>The</span>
-        <Image
-          src="/images/logos/Tags.png"
-          alt="Tags"
-          width={800}
-          height={100}
-          className="h-18 w-auto"
-          priority
-        />
-      </div>
+      <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
+              <div className="flex items-center gap-2">
+                <span>The</span>
+                <Image
+                  src="/images/logos/Tags.png"
+                  alt="Tags"
+                  width={800}
+                  height={100}
+                  className="h-18 w-auto"
+                  priority
+                />
+              </div>
+      
+              <div className="absolute right-0">
+                <SeasonFilter
+                  seasons={seasons}
+                  value={selectedSeason}
+                  onChange={setSelectedSeason}
+                />
+              </div>
+            </div>
 
       {/* Groups */}
       <div className="season-wrapper">

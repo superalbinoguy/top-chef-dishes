@@ -1,10 +1,12 @@
 import dishes from "@/lib/dishes.json";
 
 export function getSortedTagCounts(
-  key: "cuisines" | "dishes" | "ingredients" | "techniques"
+  key: "cuisines" | "dishes" | "ingredients" | "techniques",
+  season: Number | null
 ) {
   return Object.entries(
     dishes
+      .filter((d) => season === null || d.season === season)
       .flatMap((d) => d[key])
       .reduce<Record<string, number>>((acc, tag) => {
         acc[tag] = (acc[tag] ?? 0) + 1;
@@ -13,9 +15,23 @@ export function getSortedTagCounts(
   ).sort(([, a], [, b]) => b - a);
 }
 
-export function chefSlug(name: string) {
-  return name
+export function slugify(value: string) {
+  return value
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
+}
+
+export function chefSlug(name: string) {
+  return slugify(name);
+}
+
+export function tagSlug(tag: string) {
+  return slugify(tag);
+}
+
+export function chefDisplayName(fullName: string, mode: "full" | "first") {
+  if (mode === "full") return fullName;
+
+  return fullName.split(" ")[0];
 }
