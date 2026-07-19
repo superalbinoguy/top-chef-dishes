@@ -153,15 +153,21 @@ body.card-body {
 }
 
 .season-filter {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+
+  display: inline-flex;
+  align-items: center;
+
   background: white;
   border: 2px solid black;
   border-radius: 12px;
   box-shadow: 4px 4px 0 black;
-  padding: 0.6rem 0.8rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  min-width: 145px;
+
+  padding: 0.75rem 1rem;
+
+  width: fit-content;
 }
 
 .season-filter label {
@@ -179,16 +185,18 @@ body.card-body {
 
   border: none;
   background: transparent;
+
   font: inherit;
   font-weight: 600;
-  color: black;
+
   cursor: pointer;
   outline: none;
+
+  padding-right: 1.5rem;
 
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='black' d='M6 8L0 0h12z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right center;
-  padding-right: 1.25rem;
 }
 
 .dish-page {
@@ -344,4 +352,33 @@ body.card-body {
     grid-template-columns: 1fr;
   }
 
+}
+
+.tag-filter {
+  position: absolute;
+  right: 12px;
+  font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+
+  background: white;
+  border: 2px solid black;
+  border-radius: 12px;
+  box-shadow: 4px 4px 0 black;
+
+  padding: 0.75rem 1rem;
+
+  width: fit-content;
+}
+
+.tag-filter-wrapper {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.tag-filter-wrapper .season-filter {
+  position: static;
+  width: fit-content;
 }

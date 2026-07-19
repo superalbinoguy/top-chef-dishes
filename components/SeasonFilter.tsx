@@ -1,23 +1,20 @@
 "use client";
 
-type SeasonFilterProps = {
-  seasons: number[];
-  value: number | null;
-  onChange: (season: number | null) => void;
-};
+import dishes from "@/lib/dishes.json";
+import { useSeason } from "@/components/SeasonContext";
 
-export default function SeasonFilter({
-  seasons,
-  value,
-  onChange,
-}: SeasonFilterProps) {
+export default function SeasonFilter() {
+  const { selectedSeason, setSelectedSeason } = useSeason();
+
+  const seasons = [...new Set(dishes.map((d) => d.season))]
+    .sort((a, b) => b - a);
+
   return (
     <div className="season-filter">
       <select
-        id="season-select"
-        value={value ?? ""}
+        value={selectedSeason ?? ""}
         onChange={(e) =>
-          onChange(
+          setSelectedSeason(
             e.target.value === ""
               ? null
               : Number(e.target.value)

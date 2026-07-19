@@ -4,10 +4,10 @@ import Image from "next/image"
 import dishes from "@/lib/dishes.json";
 import ChefCard from "@/components/ChefCard";
 import { chefSlug } from "@/lib/tag-utils";
-import SeasonFilter from "@/components/SeasonFilter";
-import { useState } from "react";
+import { useSeason } from "@/components/SeasonContext";
 
 export default function ChefsPage() {
+  const { selectedSeason } = useSeason();
   const chefsBySeason = dishes.reduce<Record<number, Set<string>>>(
     (acc, dish) => {
       if (dish.chef.includes("Team")) return acc;
@@ -29,9 +29,6 @@ export default function ChefsPage() {
     .map(Number)
     .sort((a, b) => b - a);
 
-  const [selectedSeason, setSelectedSeason] =
-      useState<number | null>(null);
-
   return (
     <div>
       <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
@@ -46,14 +43,6 @@ export default function ChefsPage() {
                 className="h-18 w-auto"
                 priority
               />
-      
-              <div className="absolute right-0">
-                <SeasonFilter
-                  seasons={seasons}
-                  value={selectedSeason}
-                  onChange={setSelectedSeason}
-                />
-              </div>
             </div>
       <div className="season-wrapper">
         {(selectedSeason ? [selectedSeason] : seasons).map((season) => (

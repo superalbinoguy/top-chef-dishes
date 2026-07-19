@@ -3,27 +3,25 @@
 import Image from "next/image"
 import dishes from "@/lib/dishes.json";
 import PhotoCard from "@/components/PhotoCard";
-import SeasonFilter from "@/components/SeasonFilter";
+import { useSeason } from "@/components/SeasonContext";
 import { useState } from "react";
-
-const grouped = dishes.reduce<
-  Record<number, Record<number, typeof dishes>>
->((acc, dish) => {
-  if (!acc[dish.season]) {
-    acc[dish.season] = {};
-  }
-
-  if (!acc[dish.season][dish.episode]) {
-    acc[dish.season][dish.episode] = [];
-  }
-
-  acc[dish.season][dish.episode].push(dish);
-
-  return acc;
-}, {});
+import { dishFilters } from "@/lib/filter-utils";
+import TagFilter from "@/components/TagFilter";
 
 export default function DishHomepage() {
-  const grouped = dishes.reduce<
+  const { selectedSeason } = useSeason();
+  const [selectedFilter, setSelectedFilter] = useState<string | null>(null);
+
+  const filteredDishes =
+  selectedFilter
+    ? dishes.filter((dish) =>
+        dishFilters
+          .find((f) => f.id === selectedFilter)
+          ?.test(dish)
+      )
+    : dishes;
+
+  const grouped = filteredDishes.reduce<
     Record<number, Record<number, typeof dishes>>
   >((acc, dish) => {
     if (!acc[dish.season]) {
@@ -43,9 +41,6 @@ export default function DishHomepage() {
     .map(Number)
     .sort((a, b) => b - a);
 
-  const [selectedSeason, setSelectedSeason] =
-    useState<number | null>(null);
-
   return (
     <div>
       <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
@@ -61,14 +56,14 @@ export default function DishHomepage() {
           />
         </div>
 
-        <div className="absolute right-0">
-          <SeasonFilter
-            seasons={seasons}
-            value={selectedSeason}
-            onChange={setSelectedSeason}
-          />
+        <div className="tag-filter-wrapper">
+                    <TagFilter
+                      filters={dishFilters}
+                      selected={selectedFilter}
+                      onChange={setSelectedFilter}
+                    />
+                  </div>
         </div>
-      </div>
       <div className="season-wrapper">
         {(selectedSeason ? [selectedSeason] : seasons).map((season) => (
           <section key={season}>

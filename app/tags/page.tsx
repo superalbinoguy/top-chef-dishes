@@ -6,7 +6,9 @@ import Image from "next/image";
 import CountryFlag from "react-country-flag";
 import { getSortedTagCounts } from "@/lib/tag-utils";
 import { Globe, Utensils } from "lucide-react";
-import SeasonFilter from "@/components/SeasonFilter";
+import TagFilter from "@/components/TagFilter";
+import { useSeason } from "@/components/SeasonContext";
+import { dishFilters } from "@/lib/filter-utils";
 import dishes from "@/lib/dishes.json";
 
 const cuisineFlags: Record<string, string> = {
@@ -57,6 +59,7 @@ const globeColors: Record<string, string> = {
   "Northeast American": "darkblue",
 };
 
+
 function tagSlug(name: string) {
   return name
     .toLowerCase()
@@ -79,51 +82,40 @@ function resolveCuisineIcon(tag: string) {
 const MAX_ITEMS = 18; // ~3 rows on your grid (safe approximation)
 
 export default function TagsPage() {
-  const grouped = dishes.reduce<
-      Record<number, Record<number, typeof dishes>>
-    >((acc, dish) => {
-      if (!acc[dish.season]) {
-        acc[dish.season] = {};
-      }
-
-      if (!acc[dish.season][dish.episode]) {
-        acc[dish.season][dish.episode] = [];
-      }
-
-      acc[dish.season][dish.episode].push(dish);
-
-      return acc;
-    }, {});
-
-  const seasons = Object.keys(grouped)
-      .map(Number)
-      .sort((a, b) => b - a);
-
-  const [selectedSeason, setSelectedSeason] =
-      useState<number | null>(null);
-
+  const { selectedSeason } = useSeason();
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
+  const [selectedTagCategory, setSelectedTagCategory] = useState<string | null>(null);
+  const [selectedFilter, setSelectedFilter] = useState<string | null>(null);
+
+  const filteredDishes =
+  selectedFilter
+    ? dishes.filter((dish) =>
+        dishFilters
+          .find((f) => f.id === selectedFilter)
+          ?.test(dish)
+      )
+    : dishes;
 
   const groups = [
     {
       title: "Cuisines",
       category: "cuisines",
-      data: getSortedTagCounts("cuisines", selectedSeason),
+      data: getSortedTagCounts("cuisines", selectedSeason, filteredDishes),
     },
     {
       title: "Dish Types",
       category: "dishes",
-      data: getSortedTagCounts("dishes", selectedSeason),
+      data: getSortedTagCounts("dishes", selectedSeason, filteredDishes),
     },
     {
       title: "Ingredients",
       category: "ingredients",
-      data: getSortedTagCounts("ingredients", selectedSeason),
+      data: getSortedTagCounts("ingredients", selectedSeason, filteredDishes),
     },
     {
       title: "Techniques",
       category: "techniques",
-      data: getSortedTagCounts("techniques", selectedSeason),
+      data: getSortedTagCounts("techniques", selectedSeason, filteredDishes),
     },
   ] as const;
 
@@ -131,30 +123,36 @@ export default function TagsPage() {
     <div>
       {/* Header */}
       <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
-              <div className="flex items-center gap-2">
-                <span>The</span>
-                <Image
-                  src="/images/logos/Tags.png"
-                  alt="Tags"
-                  width={800}
-                  height={100}
-                  className="h-18 w-auto"
-                  priority
-                />
-              </div>
-      
-              <div className="absolute right-0">
-                <SeasonFilter
-                  seasons={seasons}
-                  value={selectedSeason}
-                  onChange={setSelectedSeason}
-                />
-              </div>
-            </div>
+        <div className="flex items-center gap-2">
+          <span>The</span>
+          <Image
+            src="/images/logos/Tags.png"
+            alt="Tags"
+            width={800}
+            height={100}
+            className="h-18 w-auto"
+            priority
+          />
+        </div>
 
+        <div className="tag-filter-wrapper">
+          <TagFilter
+            filters={dishFilters}
+            selected={selectedFilter}
+            onChange={setSelectedFilter}
+          />
+        </div>
+      </div>
       {/* Groups */}
       <div className="season-wrapper">
-        {groups.map((group) => {
+        {groups
+          .filter(
+            (group) =>
+              selectedTagCategory === null ||
+              group.category === selectedTagCategory
+          )
+          .map((group) => {
+
           const isExpanded = expanded[group.category];
           const visibleData = isExpanded
             ? group.data

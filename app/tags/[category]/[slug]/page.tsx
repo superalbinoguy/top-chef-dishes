@@ -1,7 +1,10 @@
+"use client";
+
+import { use } from "react";
+import { useSeason } from "@/components/SeasonContext";
 import dishes from "@/lib/dishes.json";
 import { notFound } from "next/navigation";
 import PhotoCard from "@/components/PhotoCard";
-import { Italic } from "lucide-react";
 
 const validCategories = [
   "cuisines",
@@ -32,12 +35,14 @@ function getTagTitle(category: string) {
   }
 }
 
-export default async function TagPage({
+export default function TagPage({
   params,
 }: {
   params: Promise<{ category: string; slug: string }>;
 }) {
-  const { category, slug } = await params;
+  const { category, slug } = use(params);
+
+  const { selectedSeason } = useSeason();
 
   // 1. Validate category
   if (!validCategories.includes(category as Category)) {
@@ -55,9 +60,13 @@ export default async function TagPage({
   if (!tag) return notFound();
 
   // 4. Filter dishes
-  const matchingDishes = dishes.filter((dish) =>
-    dish[typedCategory].includes(tag)
-  );
+  const matchingDishes = dishes.filter((dish) => {
+    const matchesTag = dish[typedCategory].includes(tag);
+    const matchesSeason =
+      selectedSeason === null || dish.season === selectedSeason;
+
+    return matchesTag && matchesSeason;
+  });
 
   return (
     <div className="season-wrapper">

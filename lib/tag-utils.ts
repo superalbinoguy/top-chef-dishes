@@ -2,11 +2,16 @@ import dishes from "@/lib/dishes.json";
 
 export function getSortedTagCounts(
   key: "cuisines" | "dishes" | "ingredients" | "techniques",
-  season: Number | null
+  season: number | null,
+  source = dishes
 ) {
   return Object.entries(
-    dishes
-      .filter((d) => season === null || d.season === season)
+    source
+      .filter(
+        (dish) =>
+          season === null ||
+          dish.season === season
+      )
       .flatMap((d) => d[key])
       .reduce<Record<string, number>>((acc, tag) => {
         acc[tag] = (acc[tag] ?? 0) + 1;

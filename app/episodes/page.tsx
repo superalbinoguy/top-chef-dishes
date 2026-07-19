@@ -4,8 +4,10 @@ import Link from "next/link";
 import Image from "next/image";
 import dishes from "@/lib/dishes.json";
 import episodes from "@/lib/episodes.json";
+import { useSeason } from "@/components/SeasonContext";
 
 export default function EpisodesPage() {
+  const { selectedSeason } = useSeason();
   const episodesBySeason = dishes.reduce<Record<number, Set<number>>>(
     (acc, dish) => {
       if (!acc[dish.season]) {
@@ -47,7 +49,7 @@ export default function EpisodesPage() {
       </div>
 
       <div className="season-wrapper">
-        {seasons.map((season) => (
+        {(selectedSeason ? [selectedSeason] : seasons).map((season) => (
           <section key={season} style={{ marginBottom: "2.5rem" }}>
             <div className="season-header">
               <h2 style={{ marginBottom: "1rem" }}>
