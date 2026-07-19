@@ -28,7 +28,21 @@ export const dishFilters: DishFilter[] = [
         "cream",
         "lamb",
         "sour cream",
-        "livermush"
+        "livermush",
+        "yogurt",
+        "creme fraiche",
+        "sweetened condensed milk",
+        "marshmallow",
+        "dulce de leche",
+        "crema",
+        "rabbit",
+        "duck",
+        "caviar",
+        "roe",
+        "fish sauce",
+        "foie gras",
+        "labneh",
+        "ants"
       ];
 
       return !dish.ingredients.some((ingredient) =>
@@ -60,5 +74,13 @@ export const dishFilters: DishFilter[] = [
     label: "Finale Dishes",
     test: (dish) =>
       dish.competition.toLowerCase().includes("finale"),
+  },
+
+  {
+    id: "dessert",
+    label: "Desserts",
+    description: "Dishes that are or have desserts",
+    test: (dish) =>
+      dish.miscellaneous.includes("dessert"),
   },
 ];
