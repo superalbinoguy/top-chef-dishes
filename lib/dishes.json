@@ -144,7 +144,7 @@
       "andouille",
       "apple",
       "chives",
-      "mushrooms"
+      "mushroom"
     ],
     "techniques": [
       "roasted"
@@ -1170,13 +1170,13 @@
     "dishes": [
       "dukkah",
       "jus",
-      "grits"
+      "grits",
+      "jerk"
     ],
     "ingredients": [
       "beef",
       "strip loin",
       "maple syrup",
-      "jerk",
       "rice",
       "nuts"
     ],
@@ -2825,8 +2825,7 @@
       "duck breast",
       "nuts",
       "pecan",
-      "cashew",
-      "sheermal"
+      "cashew"
     ],
     "techniques": [
       "pan-fried"
@@ -9425,7 +9424,6 @@
       "beef",
       "new york strip",
       "mushroom",
-      "citrus",
       "leeks"
     ],
     "techniques": [
@@ -12595,7 +12593,16 @@
       "rice noodles",
       "sesame seeds",
       "scallion",
-      "sweet potato"
+      "sweet potato",
+      "fermented soybean",
+      "shellfish",
+      "lobster",
+      "pork",
+      "lap cheong",
+      "mushroom",
+      "shiitake",
+      "sorghum",
+      "sweetened condensed milk"
     ],
     "techniques": [
       "steamed"

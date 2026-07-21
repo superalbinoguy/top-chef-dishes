@@ -52,8 +52,8 @@ export const dishFilters: DishFilter[] = [
   },
 
   {
-    id: "never-repeated",
-    label: "Never Repeated Ingredient",
+    id: "rare-ingredient",
+    label: "Rare Ingredient",
     description: "Ingredients appearing in only one dish",
     test: (dish) => {
       const ingredientCounts = dishes
@@ -65,6 +65,24 @@ export const dishFilters: DishFilter[] = [
 
       return dish.ingredients.some(
         (ingredient) => ingredientCounts[ingredient] === 1
+      );
+    },
+  },
+
+  {
+    id: "never-repeated-dish",
+    label: "Never Repeated Dish",
+    description: "Dish types that have only been done once",
+    test: (dish) => {
+      const dishTypeCounts = dishes
+        .flatMap((d) => d.dishes)
+        .reduce<Record<string, number>>((acc, dishType) => {
+          acc[dishType] = (acc[dishType] ?? 0) + 1;
+          return acc;
+        }, {});
+
+      return dish.dishes.some(
+        (dishType) => dishTypeCounts[dishType] === 1
       );
     },
   },

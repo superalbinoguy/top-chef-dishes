@@ -159,7 +159,9 @@ export default function TagsPage() {
             : group.data.slice(0, MAX_ITEMS);
 
           return (
-            <section key={group.category} style={{ marginBottom: "2.5rem" }}>
+            <section key={group.category} style={{ 
+                marginBottom: "2.5rem",
+              }}>
               <div className="episode-header">
                 <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
               </div>
@@ -272,24 +274,30 @@ export default function TagsPage() {
               </div>
 
               {/* show more / less */}
-              {group.data.length > MAX_ITEMS && (
-                <button
-                  onClick={() =>
-                    setExpanded((prev) => ({
-                      ...prev,
-                      [group.category]: !prev[group.category],
-                    }))
-                  }
-                  style={{
-                    marginTop: "1rem",
-                    fontSize: "0.9rem",
-                    opacity: 0.8,
-                    cursor: "pointer",
-                  }}
-                >
-                  {isExpanded ? "Show less" : "Show more"}
-                </button>
-              )}
+              <div style={{
+                display: "flex",
+                justifyContent: "center",
+                marginTop: "1rem",
+              }}>
+                {group.data.length > MAX_ITEMS && (
+                  <button className="show-more-btn"
+                    onClick={() =>
+                      setExpanded((prev) => ({
+                        ...prev,
+                        [group.category]: !prev[group.category],
+                      }))
+                    }
+                    style={{
+                      marginTop: "1rem",
+                      fontSize: "0.9rem",
+                      opacity: 0.8,
+                      cursor: "pointer",
+                    }}
+                  >
+                    {isExpanded ? "Show less" : "Show more"}
+                  </button>
+                )}
+              </div>
             </section>
           );
         })}

@@ -382,3 +382,18 @@ body.card-body {
   position: static;
   width: fit-content;
 }
+
+.show-more-btn {
+  margin-top: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .45rem .9rem;
+  border-radius: 999px;
+  border: 2px solid black;
+  background: #fffdf6;
+  box-shadow: 3px 3px 0 black;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform .15s ease;
+}
