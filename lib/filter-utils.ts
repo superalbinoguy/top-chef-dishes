@@ -101,4 +101,20 @@ export const dishFilters: DishFilter[] = [
     test: (dish) =>
       dish.miscellaneous.includes("dessert"),
   },
+
+  {
+    id: "winning",
+    label: "Winning Dishes",
+    description: "Dishes have won an episode",
+    test: (dish) =>
+      dish.miscellaneous.includes("winning"),
+  },
+
+  {
+    id: "losing",
+    label: "Losing Dishes",
+    description: "Dishes have lost an episode",
+    test: (dish) =>
+      dish.miscellaneous.includes("losing"),
+  },
 ];

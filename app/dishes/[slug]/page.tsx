@@ -179,8 +179,12 @@ export default async function DishPage({
               <div>
                 <dt>Miscellaneous</dt>
                 <dd>
-                  {/* Future metadata */}
-                  —
+                  {dish.miscellaneous.map((tag, index) => (
+                    <span key={tag}>
+                      {index > 0 && ", "}
+                      {tag}
+                    </span>
+                  ))}
                 </dd>
               </div>
 

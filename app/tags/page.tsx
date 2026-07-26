@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import CountryFlag from "react-country-flag";
@@ -79,9 +79,28 @@ function resolveCuisineIcon(tag: string) {
   return { type: "generic" as const };
 }
 
-const MAX_ITEMS = 18; // ~3 rows on your grid (safe approximation)
+const MAX_ITEMS_DESKTOP = 18; // ~3 rows on your grid (safe approximation)
+const MAX_ITEMS_MOBILE = 6; // ~3 rows on a single-column mobile grid
+
+function useIsMobile(breakpointPx = 640) {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const query = window.matchMedia(`(max-width: ${breakpointPx}px)`);
+    const update = () => setIsMobile(query.matches);
+
+    update();
+    query.addEventListener("change", update);
+    return () => query.removeEventListener("change", update);
+  }, [breakpointPx]);
+
+  return isMobile;
+}
 
 export default function TagsPage() {
+  const isMobile = useIsMobile();
+  const MAX_ITEMS = isMobile ? MAX_ITEMS_MOBILE : MAX_ITEMS_DESKTOP;
+
   const { selectedSeason } = useSeason();
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
   const [selectedTagCategory, setSelectedTagCategory] = useState<string | null>(null);
@@ -122,8 +141,8 @@ export default function TagsPage() {
   return (
     <div>
       {/* Header */}
-      <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
-        <div className="flex items-center gap-2">
+      <div className="tags-page-header relative flex items-center justify-center text-3xl font-semibold mb-4">
+        <div className="tags-page-title flex items-center gap-2">
           <span>The</span>
           <Image
             src="/images/logos/Tags.png"
@@ -166,14 +185,7 @@ export default function TagsPage() {
                 <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
               </div>
 
-              <div
-                style={{
-                  display: "grid",
-                  gridTemplateColumns:
-                    "repeat(auto-fill, minmax(160px, 1fr))",
-                  gap: "12px",
-                }}
-              >
+              <div className="tag-card">
                 {visibleData.map(([tag, count]) => {
                   const icon =
                     group.category === "cuisines"

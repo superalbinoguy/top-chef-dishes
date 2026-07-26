@@ -102,7 +102,7 @@ body.card-body {
   padding: 12px 12px 32px;
   border: 2px solid black;
   box-shadow: 8px 8px 0 black;
-  width: 220px;
+  width: 200px;
   border-radius: 4px;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -396,4 +396,182 @@ body.card-body {
   font-weight: 600;
   cursor: pointer;
   transition: transform .15s ease;
+}
+
+.tag-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 12px;
+}
+
+/* ===================================================================
+   MOBILE RESPONSIVE STYLES
+   =================================================================== */
+
+@media (max-width: 640px) {
+
+  /* ---- Page shell / spacing ---- */
+  body.card-body {
+    padding: 1rem;
+  }
+
+  .card-content {
+    padding: 1.25rem;
+    box-shadow: 5px 5px 0 #000;
+  }
+
+  /* ---- Top header cluster: season filter, logo, coffee button ----
+     These three are siblings rendered in this DOM order inside <body>.
+     Below 640px we stop absolutely positioning the filter + coffee
+     button (which is what caused them to overlap the logo) and let
+     them stack in normal flow instead, in their natural DOM order:
+     filter -> logo -> coffee button -> search/nav. */
+  body.card-body {
+    display: flex;
+    flex-direction: column;
+    /* intentionally no align-items: center here — the default
+       (stretch) lets <main>/.card-content keep the full viewport
+       width. Individual header items opt out of stretching below
+       via their own align-self. */
+  }
+
+  .season-filter {
+    position: static;
+    align-self: flex-start;
+    margin-bottom: 0.75rem;
+    padding: 0.6rem 0.85rem;
+    font-size: 0.85rem;
+  }
+
+  .season-filter label {
+    font-size: 0.65rem;
+  }
+
+  .logo {
+    width: 130px;
+    align-self: center;
+    margin: 0 auto 0.75rem;
+  }
+
+  /* .coffeeButton is set via inline style in layout.tsx (including
+     position: absolute), so it needs !important here to win. */
+  .coffeeButton {
+    position: static !important;
+    align-self: center !important;
+    margin-bottom: 1rem !important;
+    font-size: 12px !important;
+    padding: 0.6rem 0.9rem !important;
+  }
+
+  /* ---- Tabs: force a single scrollable row instead of wrapping ---- */
+  .tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+
+  .tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .card-tab {
+    flex: 0 0 auto;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+
+  /* ---- Tags page header: title + filter no longer overlap ---- */
+  .tags-page-header {
+    flex-direction: column;
+    gap: 0.75rem;
+    font-size: 1.4rem;
+  }
+
+  .tags-page-title img {
+    height: 2.75rem !important;
+  }
+
+  .tag-filter-wrapper {
+    position: static;
+    transform: none;
+  }
+
+  .season-filter,
+  .tag-filter {
+    font-size: 0.85rem;
+  }
+
+  /* ---- Cards: shrink so grids actually wrap to multiple columns ---- */
+  .photo-card {
+    width: 100%;
+    max-width: 260px;
+    padding: 10px 10px 22px;
+    box-shadow: 5px 5px 0 black;
+  }
+
+  /* ---- Section headers: scale down oversized display type ---- */
+  .page-header {
+    font-size: 1.9rem;
+  }
+
+  .season-header {
+    font-size: 1.6rem;
+  }
+
+  .episode-header {
+    font-size: 1.3rem;
+  }
+
+  .competition-header {
+    font-size: 1rem;
+  }
+
+  .season-wrapper {
+    padding: 1rem;
+  }
+
+  /* ---- Recipe layout: single column, tighter spacing ---- */
+  .recipe-card {
+    padding: 1.25rem;
+    box-shadow: 6px 6px 0 black;
+  }
+
+  .recipe-title {
+    font-size: 1.6rem;
+  }
+
+  .recipe-images {
+    grid-template-columns: 1fr;
+  }
+
+  .tag-card {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 12px;
+  }
+}
+
+@media (max-width: 420px) {
+  /* Extra-narrow phones: squeeze the top cluster a bit further */
+  .season-filter {
+    padding: 0.5rem 0.7rem;
+    font-size: 0.75rem;
+  }
+
+  .coffeeButton {
+    font-size: 11px !important;
+    padding: 0.5rem 0.75rem !important;
+    gap: 0.3rem !important;
+  }
+
+  .logo {
+    width: 110px;
+  }
+
+  .photo-card {
+    max-width: 150px;
+  }
 }

@@ -87,7 +87,9 @@
       "chorizo"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Butter Poached Clams with Charred Corn Sauce & Corn Sofrito, Pickled Fresno Chile & Potato Sticks",
@@ -209,7 +211,9 @@
     "techniques": [
       "confit"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Grilled Lamb with Mushroom Mole, Hazelnut Pipián & Plum Salsa Macha",
@@ -266,7 +270,9 @@
       "pan-fried",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Ribeye Tartare with Toasted Lentil Aioli, Sour Cherry Chimichurri, Cumin & Lentil Cracker & Egg Yolk Custard",
@@ -296,7 +302,9 @@
       "egg"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Grilled Ribeye, Red Lentil Purée with Tomatoes & Sour Cherries",
@@ -349,7 +357,9 @@
       "poached",
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Grilled Pork Loin & Potato Purée with Corn Beurre Monté & Peach Relish",
@@ -380,7 +390,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Pork Loin Katsu with Miso, Corn & Pea Shoot Gravy & Kimchi Peaches",
@@ -477,7 +489,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cod \"En Écailles\" with Beurre Blanc & Smoked Dulse",
@@ -535,7 +549,9 @@
       "rye"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Meen Moilee with Turbot, Beet & Crowberry Achar",
@@ -673,7 +689,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Potato \"Tostone\", Fermented Soybean & Mushroom Cream, Burrata",
@@ -1028,7 +1046,9 @@
     "techniques": [
       "cured"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Toad in a Hole with Maple Togarashi-Cured Yolk, Béchamel, Miso Maple Butter & Pizza",
@@ -1062,7 +1082,9 @@
       "cured",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Poached Lobster, Curry Biscuit, Maple Hollandaise",
@@ -1091,7 +1113,9 @@
       "poached",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Tandoori Maple Fried Chicken, Scallion Corn Cake, Spicy Maple Butter, Sweet Maple Yogurt",
@@ -1122,7 +1146,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Rum Maple Tamarind Glazed Pork Belly, Chawanmushi with Sesame Seeds & Scallions",
@@ -1183,7 +1209,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Maple Peach French Toast, Candy Corn Crème Anglaise & Peach Gummy Italian Meringue",
@@ -1216,7 +1244,8 @@
       "pan-fried"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -1337,7 +1366,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Steak & Eggs with Wild Spinach & Maple Lasagna Bordelaise",
@@ -1422,7 +1453,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "losing"
     ]
   },
   {
@@ -1737,7 +1769,9 @@
       "roasted",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Chopped Cheese Patty",
@@ -1814,7 +1848,9 @@
       "chiles"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Banana Muffin Crémeux, Chocolate Muffin Ganache, Speculoos Meringue & Roasted Muffin Banana Ice Cream",
@@ -1848,7 +1884,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -1967,7 +2004,9 @@
       "daikon"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Chilled Shrimp Salad with Licorice Tea & Licorice Cream",
@@ -2023,7 +2062,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Chilled Peanut Soup with Pickled Shrimp, Suya Oil & Candied Peanuts",
@@ -2081,7 +2122,9 @@
     "techniques": [
       "frozen"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Sweet Corn Semifreddo with Sweet Potato Mochi, Cardamom Crème Anglaise, Ginger Graham Cracker & Meringue",
@@ -2143,7 +2186,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "losing"
     ]
   },
   {
@@ -2206,7 +2250,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Seared Scallop with Chili Crisp Panko, Roasted Eggplant & Nectarine",
@@ -2513,7 +2559,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cacao-Rubbed Braised Pork Belly with Coconut Vanilla Vinaigrette, Roasted Beets & Chocolate Graham Cracker",
@@ -2684,7 +2732,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Pepperpot with Braised Lamb, Lamb Fat Madeleine & Pickled Grapes",
@@ -2714,7 +2764,9 @@
       "braised",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Rye Porridge with Molasses Glazed Mushrooms, Raspberry & Bacon Confit",
@@ -2772,7 +2824,9 @@
       "grilled",
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Seared Duck Breast with Brown Sugar Corn Syrup Glaze, Mushroom Crumb, Jus & Parsnip Purée",
@@ -2801,7 +2855,9 @@
       "pan-fried",
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Seared Duck Breast with Sheermal, Pecan & Cashew Korma",
@@ -2830,7 +2886,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Braised Short Rib with Grilled Flatbread, Escabèche with Sweet Plantain Vinegar",
@@ -2894,7 +2952,9 @@
       "smoked",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Pad Thai Glazed Tenderloin, Pickled Mushrooms & Butterfly Pea Flower Pickles",
@@ -2923,7 +2983,9 @@
     "techniques": [
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Chicken Kamasutra with Curry Hollandaise, Chicken Skin & Flatbread",
@@ -2952,7 +3014,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Arroz Caldo with Roasted Pork Kare-Kare, Fermented Pickles & Bagoong XO Sauce",
@@ -3015,7 +3079,9 @@
       "charred",
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Queso Fundido Quesadilla, Avocado Sour Cream Mousse & Chipotle Queso Salsa",
@@ -3198,7 +3264,9 @@
     "techniques": [
       "cured"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Grilled Pork & Roasted Tomato Chilaquiles",
@@ -3330,7 +3398,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Fried Pickled Mushroom, Steak Tartare & Dijonnaise",
@@ -3356,7 +3426,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Pickle Brined Salmon Rillettes, Pickling Spice Gnocco Fritto, Pickled Ginger, Cucumber & Shallot",
@@ -3416,7 +3488,9 @@
     "techniques": [
       "charred"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Dill Pickle Seared Scallop, Grilled Pickle Relish, Dill Pickle Beurre Blanc & Fried Capers",
@@ -3447,7 +3521,9 @@
       "grilled",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Roasted Dilly Cucumbers, Dill Pickle & Clam Vinaigrette, Pickle Brined Poached Potatoes & Cucumber Seed Porridge",
@@ -3476,7 +3552,9 @@
       "roasted",
       "poached"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Grilled Octopus, Spicy Pickle Chimichurri, Braised Pickled Beets & Serrano Peppers",
@@ -3504,7 +3582,9 @@
       "grilled",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Bulgogi Braised Short Rib, Fermented Collard Greens & Spicy Pickle Foam",
@@ -3532,7 +3612,9 @@
       "braised",
       "fermented"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Ricotta Filled Pasta with Pickle Red Wine Beef Ragù, B&B Giardiniera, Parmesan Fonduta",
@@ -3593,7 +3675,8 @@
       "frozen"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -3761,7 +3844,9 @@
       "oats"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Golden Jollof Rice with Clams, Peas & Charred Shishito",
@@ -3878,7 +3963,9 @@
       "pan-fried",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Lahmajun Pizza with Lamb, Anchovy Ranch & Pickled Grapes",
@@ -3908,7 +3995,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Honeynut Squash Sauce Pizza with Tamarind BBQ Oxtails, Buttermilk Dressing & Plantain Chips",
@@ -3970,7 +4059,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Mole Negro Pizza with Chicken Thighs, Black Bean Salsa & Crispy Chicken Skin",
@@ -4000,7 +4091,9 @@
       "fried",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Chicken Parmesan Pizza with Tigelle Bread, Chicken Thigh Sausage, Provolone, Parmesan & Pecorino",
@@ -4088,7 +4181,9 @@
       "caramelized",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Reuben Pizza with Pickle, Sauerkraut, Thousand Island Whipped Ricotta & Gruyere Cheese",
@@ -4118,7 +4213,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Chipotle Chorizo Arancini with Tonnato Aioli",
@@ -4183,7 +4280,9 @@
     "techniques": [
       "cured"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Ancho Braised Short Rib with Polenta, Ricotta Salata & Roasted Apples",
@@ -4245,7 +4344,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Torta di Noci with Tres Leches",
@@ -4275,7 +4376,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -4305,7 +4407,8 @@
       "fried"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -4334,7 +4437,9 @@
       "cured",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Grilled Mushroom Escovitch with Canadian Bay Scallop, Ajo Blanco & Dawadawa",
@@ -4365,7 +4470,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Potato, Celery Root & Truffle Pithivier with Lamb Jus",
@@ -4393,7 +4500,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Butternut Squash Confit with Grilled Pork & XO Sauce",
@@ -4419,7 +4528,9 @@
       "confit",
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Corn Crémeux with Corn Ice Cream, Grilled Blueberry Condiment & Blueberry Crisp",
@@ -4449,7 +4560,8 @@
       "frozen"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -4475,7 +4587,8 @@
       "caramelized"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ]
   },
   {
@@ -4638,7 +4751,9 @@
       "bread"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Smoked Mussel Sandwich with Tomato Emulsion & Zucchini Blossoms",
@@ -4694,7 +4809,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "“Fried Fish Basket” Torchon of Fish with Cornmeal Crumble, Cocktail & Hot Sauce with Tartar Hollandaise",
@@ -4723,7 +4840,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "“Tiramisu Fugazi” Crespelle alla Norcina",
@@ -4750,7 +4869,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Arctic Char Tartare, Turmeric Custard, Fish Tuile & Romaine Lettuce Jam",
@@ -4777,7 +4898,9 @@
       "romaine"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Beef Tartare with Variations of Beets, Whipped Foie Gras & Harissa",
@@ -4802,7 +4925,9 @@
       "harissa"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Turducken with Potatoes & Leek, Buttered Peas & Carrots, Gravy",
@@ -4862,7 +4987,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cheddar & Goat Cheese Popcorn Grits with Apple, Bacon & Celery Leaf Condiment",
@@ -4891,7 +5018,9 @@
       "celery"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Bacon Roasted Hot Dogs in Yaka Mein Broth with Celery, Sauerkraut, Peanuts & Croissant Croutons",
@@ -5086,7 +5215,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "“Last Bowl of Hot Pot” with Squash, Sweet Potato Dumplings, Fried Enoki Mushrooms & Mushroom Dashi",
@@ -5114,7 +5245,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Roasted & Charred Caraflex Cabbage with Spring Potatoes, Smoked Lake Fish & Roasted Cabbage Purée",
@@ -5140,7 +5273,9 @@
       "charred",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Lamb Dumplings with Morel Mushroom Consommé, Enoki Mushrooms & English Peas",
@@ -5165,7 +5300,9 @@
       "peas"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Corn Gazpacho, Smoked Cherry Tomatoes Filled with Pistachio Cream & Poached Lobster",
@@ -5223,7 +5360,9 @@
       "pan-fried",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Butternut Squash Spätzle, Sautéed Kielbasa & Sauerkraut Juice Compressed Apples",
@@ -5252,7 +5391,9 @@
       "compressed",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Cornmeal Pancake with Scrambled Eggs, Lap Cheong, Cheddar & Chili Crisp Avocado Aioli",
@@ -5283,7 +5424,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Buttermilk Pancake with Plum Sauce, Bacon Marmalade & Peach Purée",
@@ -5464,7 +5607,9 @@
       "grilled",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Tenderloin with Umeboshi, Pickled Elderberry Sauce, Smoked Kohlrabi & Elderberry Soup Purée",
@@ -5491,7 +5636,9 @@
     "techniques": [
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Saskatoon Braised Beef Cheek, Creamy Polenta, Brûléed Blue Cheese & Roasted Walnut",
@@ -5519,7 +5666,9 @@
       "roasted",
       "bruleed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Alberta Flat Iron with Kohlrabi, Gooseberries & Bone Marrow Pemmican",
@@ -5547,7 +5696,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Grilled Ribeye, Chokeberry Reduction, Rutabaga Cream & Bone Marrow Cornbread",
@@ -5576,7 +5727,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Mama Wang’s Stuffed Cabbage with Braised Short Rib, Wild Rice Congee & Black Currant Black Pepper Sauce",
@@ -5606,7 +5759,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "“OG Jerk” Pork, Plantain Miso Glaze, Quarry Lake Callaloo & Coal Roasted Roots",
@@ -5636,7 +5791,9 @@
       "glazed",
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Mushroom Trompo, Mushroom Pibil Broth & Toasted Ants",
@@ -5662,7 +5819,9 @@
     "techniques": [
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Lamb Spiedino with Grilled Dandelion Salad, “Cowtown” Cowpeas & Thistle Root Purée",
@@ -5691,7 +5850,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Roasted Cabbage with Rose Hip-Glazed Pork Belly, Sour Cabbage Broth, Lovage & Thatching Ant Togarashi",
@@ -5721,7 +5882,9 @@
       "roasted",
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Grilled Trout with Mustard Sauce, Smoked Potato Purée & Bannock with Wildflowers",
@@ -5751,7 +5914,9 @@
       "grilled",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Celery Root Risotto with Chicken Jus & White Truffle",
@@ -5900,7 +6065,9 @@
       "braised",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Polenta Cake with Black Walnut Ice Cream & Candied Prosciutto",
@@ -5934,7 +6101,8 @@
       "candied"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "losing"
     ]
   },
   {
@@ -6087,7 +6255,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Porcini & Robiola Anolini Alpini with Cabbage, Pecan & Brodo",
@@ -6179,7 +6349,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Blackened Orata with Calabrian Chili Crunch, Whipped Tahini, Brussels Sprouts & Beets",
@@ -6272,7 +6444,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Torta di Pizzelle with Zucca, Mascarpone Cream & Espresso Stracciatella Gelato",
@@ -6372,7 +6546,8 @@
       "frozen"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ]
   },
   {
@@ -6530,7 +6705,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Carolina Ruby Moqueca with Green Papaya Chow Chow",
@@ -6587,7 +6764,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Roasted Carolina Ruby with Herbes de Provence, Sos Kreyol & Roasted Snapper",
@@ -6614,7 +6793,9 @@
     "techniques": [
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Seared Scallop with Murasaki Accra, Murasaki Fondant & Jus",
@@ -6643,7 +6824,9 @@
       "pan-fried",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Murasaki Mpotompoto with Collard Greens & Smoked Ham",
@@ -6670,7 +6853,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Murasaki & Pork Stuffed Collard Green Sarma with Tomato & Yogurt",
@@ -6786,7 +6971,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -6868,7 +7054,9 @@
       "glazed",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Norton Sweet Potato & Pandan Mochi with Ginger Syrup & Coconut Cream",
@@ -6896,7 +7084,8 @@
       "steamed"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -7094,7 +7283,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Crispy Artichoke with Pipian Sauce, Candied Apricot & Pistachio",
@@ -7362,7 +7553,9 @@
     "techniques": [
       "frozen"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Tuna Tartare, Tomato Jalapeno Jelly, Avocado Mousse & Puffed Wild Rice",
@@ -7421,7 +7614,9 @@
       "grilled",
       "charred"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Chilled Seafood Chowder with Lemongrass, Fresno Chilies & Fresno Lime Granita",
@@ -7474,7 +7669,9 @@
       "chiles"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Pork Laab Salad with Jalapenos & Rice Crackers",
@@ -7530,7 +7727,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Carolina-Style Yuxiang Eggplant Three Ways with Rice",
@@ -7595,7 +7794,9 @@
       "grilled",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Shito Marinated Red Snapper with Fish Light Soup, Fufu Espuma & Okra Salsa",
@@ -7627,7 +7828,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Blue Corn Masa Huarache with Al Pastor, Salsa Diabla, Salsa Criolla & Pickled Pineapple",
@@ -7658,7 +7861,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Shrimp Stuffed Chicken Wings with Greens Dressed in Habanero Chili Oil & Yogurt Ranch",
@@ -7689,7 +7894,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Pepper Braised Short Rib, Chili Pickled Pearl Onions & Blistered Cayenne",
@@ -7717,7 +7924,9 @@
       "braised",
       "charred"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Braised Lamb Vindaloo with Flaky Paratha, Potato Mash, Yogurt & Lime Shot",
@@ -7746,7 +7955,9 @@
       "braised",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Livermush & Grilled Chicken Banh Mi with Pickled Carrots",
@@ -7825,7 +8036,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Cornmeal Fried Livermush with Brown Butter Hollandaise & Roasted Grapes",
@@ -8089,7 +8302,9 @@
       "ricotta"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Chicken Galantine & Yassa Onion Puree",
@@ -8118,7 +8333,9 @@
     "techniques": [
       "poached"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Pickled Shrimp Bun with Red Eye Gravy",
@@ -8148,7 +8365,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Mole Negro, Mole Rojo & Mole Verde with Chicken",
@@ -8172,7 +8391,9 @@
       "chocolate"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Bao Flight: Yellow Chili Pork, Green Curry Beef & Strawberry Matcha",
@@ -8202,7 +8423,9 @@
       "steamed",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Pan Seared Scallops, Broccoli & Chlorophyll Puree, Daikon, Carrot & Saffron Broth",
@@ -8231,7 +8454,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Lamb & Clams with Dyed Vegetables",
@@ -8254,7 +8479,9 @@
       "roasted",
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Charcoal-Brined Pork with Rainbow Spatzle, Red Cabbage, Kumquat & Sourdough Vinaigrette",
@@ -8283,7 +8510,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Cochinita Pibil, Jalapeno Cilantro Crema, Turmeric Rice, Hibiscus Pickled Onion, Habanero Salad & Guajillo Oil",
@@ -8321,7 +8550,9 @@
       "braised",
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Vadouvan Poached Scallop, Braised Calamari with Squid Ink & Onion Soubise",
@@ -8351,7 +8582,9 @@
       "poached",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Tricolor Red Snapper, Corn Nuts & Leche de Tigre",
@@ -8376,7 +8609,9 @@
       "lime"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Mussels in Escabeche with Marbled Potatoes, Mojo Rojo & Mojo Verde",
@@ -8403,7 +8638,9 @@
     "techniques": [
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Brioche-Stuffed Roasted Chicken, Preserved Lemon Tagine & Charcoal Parsnip Puree",
@@ -8433,7 +8670,9 @@
     "techniques": [
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Arepa with Parmesan, Creme Fraiche & Caviar",
@@ -8482,7 +8721,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Sourdough Crusted Grouper with Dried Fruits & Nuts",
@@ -8614,7 +8855,9 @@
       "braised",
       "poached"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Soft Scrambled Eggs with Roasted Grape Verjus & Croutons",
@@ -8641,7 +8884,9 @@
       "roasted",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Poached Peaches with Sabayon",
@@ -8667,7 +8912,8 @@
       "poached"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ]
   },
   {
@@ -8774,7 +9020,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Yukon Filled with Potato Salad, Scallion Cream & Potato Chip",
@@ -8866,7 +9114,9 @@
       "steamed",
       "cured"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Braised Collards, Chadon Beni & Kimchi with Black Bean & Tasso Ham Fritter",
@@ -8897,7 +9147,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Collard Wrapped Pork & Fennel Sausage with Smoked Tomato Butter Sauce",
@@ -9042,7 +9294,9 @@
       "baked",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Braised Okra & Pork Belly with Seeded Tempura",
@@ -9070,7 +9324,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Red Curry Rice & Fried Egg",
@@ -9122,7 +9378,8 @@
       "frozen"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ]
   },
   {
@@ -9402,7 +9659,9 @@
       "cured",
       "dehydrated"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Grilled New York Strip with XO Sauce, Marinated Dehydrated Mushrooms, Citrus, Fried Leeks & Fried Beef",
@@ -9499,7 +9758,9 @@
       "dehydrated",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Brassica Salad with Trail Mix, Creamy Sesame Dressing & Pomegranate Glass",
@@ -9523,7 +9784,9 @@
     "techniques": [
       "dehydrated"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Smoked Swordfish with Dehydrated Strawberries, Jicama & Mandarin Salsa, Mizuna Leaves & Lime Meringue Sticks",
@@ -9585,7 +9848,9 @@
       "dehydrated",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Spinach Wrapped Poached Chicken & Morel Quenelle with Consomme",
@@ -9643,7 +9908,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Smoked Catfish Dip with Dehydrated Herbs, Focaccia with Sesame Seeds, Poppy Seeds & Dehydrated Lemon",
@@ -9705,7 +9972,9 @@
       "dehydrated",
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cookie S'more Sandwich",
@@ -9948,7 +10217,9 @@
       "smoked",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "\"South of the Border\" Bossam, Eastern Style Vinaigrette, Cabbage Chow Chow & Fresh Herb Salad",
@@ -9979,7 +10250,9 @@
     "techniques": [
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Pork Loin, Crispy Ear Terrine & Mustard-Based Carrot BBQ Sauce",
@@ -10008,7 +10281,9 @@
       "pan-fried",
       "smoked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Smoked Pork Loin, Pork Floss, Rice & \"East Meets East\" Sauce",
@@ -10035,7 +10310,9 @@
       "smoked",
       "dehydrated"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Pork Belly, Chicharron, Succotash & Pimento Cheese",
@@ -10065,7 +10342,9 @@
       "smoked",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Smoked BBQ Pork Belly, Mac N' Cheese, Collard Greens & Mustard Onions",
@@ -10097,7 +10376,9 @@
       "baked",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Ham Steak, Black-Eyed Pea Puree, Hushpuppies, Smoked Grapes & Pickled Collard Green Stems",
@@ -10160,7 +10441,9 @@
       "smoked",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Pig Face Stuffed Tamale, Curtido & Salsa Ahogada BBQ Sauce",
@@ -10221,7 +10504,9 @@
       "smoked",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Pan de Elote with Berries, Maple & Piloncillo",
@@ -10278,7 +10563,9 @@
       "poached",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "New York Strip Corn Beef Hash, Mustard Sabayon Sauce, Hash Browns",
@@ -10368,7 +10655,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Crab & Shrimp Bisque with Hoecake",
@@ -10451,7 +10740,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Cornmeal Battered Fried Oysters with Lemon Pepper & Creamed Corn",
@@ -10505,7 +10796,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ]
   },
   {
@@ -10566,7 +10858,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -10596,7 +10889,8 @@
       "steamed"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -10655,7 +10949,8 @@
       "roasted"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "losing"
     ]
   },
   {
@@ -10687,7 +10982,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "top"
     ]
   },
   {
@@ -10717,7 +11013,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -10777,7 +11074,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cheese Puff with Country Ham, Comte & Sauce Mornay",
@@ -10808,7 +11107,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Red Rice with Smoked Oysters, Pickled Okra, Crab Roe & Bearnaise",
@@ -10966,7 +11267,9 @@
       "fried",
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Snapper Aguachile with Plantain Chip",
@@ -11109,7 +11412,8 @@
     ],
     "techniques": [],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "losing"
     ]
   },
   {
@@ -11165,7 +11469,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Twice Baked Potato, Aioli, Steak Tartare & Crispy Potato",
@@ -11355,7 +11661,8 @@
       "baguette"
     ],
     "techniques": [
-      "fried"
+      "fried",
+      "top"
     ],
     "miscellaneous": []
   },
@@ -11411,7 +11718,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Stuffed Peppers with Lobster Mousseline, Corn Ragu & Salsa Verde",
@@ -11530,7 +11839,9 @@
       "braised",
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Eton Mess with Whipped Creme Fraiche, Berries & Lemon Pith",
@@ -11562,7 +11873,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "low"
     ]
   },
   {
@@ -11592,7 +11904,9 @@
       "cucumber"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Corn, Pecan & Shrimp Chow Mein with Scuppernong Pickles",
@@ -11711,7 +12025,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Seared Spotted Bass, Fennel Puree, Artichoke Barigoule with Mussel & Clam Sauce Meuniere",
@@ -11745,7 +12061,9 @@
       "pan-fried",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Baked Spotted Bass with Braised Lentils, Pepper Sofrito, Dates & Cardamom Vinaigrette",
@@ -11774,7 +12092,9 @@
       "baked",
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Cantonese Steamed Fish with Ginger, Scallions, Fried Leeks, Rice & Bok Choy",
@@ -11803,7 +12123,9 @@
       "steamed",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Spotted Bass with Poblano Egusi Sauce & Yassa",
@@ -11834,7 +12156,9 @@
     "techniques": [
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Spotted Bass with Green Curry & Papaya Salad",
@@ -11898,7 +12222,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Crostini with Peach & Raisin Relish, Pickled Peaches, Arugula & Yogurt Sauce",
@@ -11986,7 +12312,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Gochujang Marinated Peach Crostini with Burrata, Marinated Tomatoes & Fresh Basil Pesto",
@@ -12101,7 +12429,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Jerk Braised Rabbit with Yuca & Plantain Mofongo & Avocado Crema",
@@ -12133,7 +12463,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Rabbit Siu Mai",
@@ -12187,7 +12519,9 @@
       "fried",
       "roasted"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Roasted Rabbit Loin with Rabbit Sausage & Pea Stew",
@@ -12241,7 +12575,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Mountain Trout & Crab Cake with Sour Corn & Peach Relish, Sage & Apple Aioli",
@@ -12275,7 +12611,9 @@
       "fried",
       "fermented"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "October Bean Acarajé with Vatapá, Pico de Gallo Chow Chow & Garlicky Shrimp",
@@ -12307,7 +12645,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Catfish Sandwich with Leather Britches Bun, Sourwood Honey Mayo & Pickled Slaw",
@@ -12341,7 +12681,9 @@
       "fried",
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "\"Filipino Egg Roll\" Stuffed Cabbage with Paw Paw Ponzu, Apple Butter Mostarda & Buckwheat Chili Crisp",
@@ -12376,7 +12718,9 @@
       "chiles"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Chicken Liver Pâté with Rye Cracker, Pickled Watermelon Rind & Greasy Beans",
@@ -12403,7 +12747,9 @@
       "beans"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Cod Poached in Shellfish Broth with Sautéed Spinach, Ají Dulces & Lemon Zest",
@@ -12429,7 +12775,8 @@
     "techniques": [
       "poached"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+    ]
   },
   {
     "name": "Poached Cod with Mussels Steamed in White Wine & Paprika",
@@ -12455,7 +12802,9 @@
       "poached",
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Poached Cod with Mussels Meunière Sauce, Asparagus, Leeks & Roasted Red Pepper",
@@ -12541,7 +12890,9 @@
     "techniques": [
       "baked"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "losing"
+    ]
   },
   {
     "name": "Grilled Ribeye with Beet Soil, Baby Carrots & Turnips, Burnt Leek Purée & Pickled Seaweed",
@@ -12571,7 +12922,9 @@
       "grilled",
       "pickled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "top"
+    ]
   },
   {
     "name": "Cheung Fun Four Ways",
@@ -12607,7 +12960,9 @@
     "techniques": [
       "steamed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "low"
+    ]
   },
   {
     "name": "Gochujang Braised Short Rib with Pear Kimchi, Rice & Banchan",
@@ -12639,7 +12994,9 @@
       "braised",
       "fermented"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Roasted Sweet Potato with Miso Butter, Fresh Uni & Charred Sweet Potato Leaves",
@@ -12667,7 +13024,9 @@
       "roasted",
       "charred"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Moqueca with Frog Legs & Langoustine, Chayote, Zucchini & Shiitake Mushrooms",
@@ -12757,7 +13116,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Potato Dumplings with Pig Ear Broth, Matsutake & Pickled Hon-Shimeji Mushrooms",
@@ -12851,7 +13212,9 @@
       "grilled",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Tournedos Rossini with Braised Beef Tongue, Carolina Reaper Leche de Tigre & Seared Foie Gras",
@@ -12942,7 +13305,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "winning"
+    ]
   },
   {
     "name": "Hominy Porridge with Corn Husk Ice Cream, Toasted Brazil Nuts, Candied Peanuts & Candied Ginger",

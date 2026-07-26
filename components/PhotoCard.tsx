@@ -1,4 +1,3 @@
-import { join } from "path";
 import Link from "next/link";
 
 function getImagePath(slug: string) {
@@ -25,15 +24,7 @@ export default function PhotoCard({
         color: "inherit",
       }}
     >
-      <div className="photo-card"
-        style={{
-          background: "#fff",
-          padding: "12px 12px 32px",
-          border: "2px solid black",
-          boxShadow: "8px 8px 0 black",
-          width: "200px",
-        }}
-      >
+      <div className="photo-card">
         <div
           style={{
             aspectRatio: "1 / 1",
