@@ -16,7 +16,7 @@ export default async function ChefPage({
   ].filter((chef) => !chef.includes("Team"));
 
   // Resolve slug -> actual chef name
-  const chef = allChefs.find((c) => chefSlug(chefDisplayName(c, "first")) === slug);
+  const chef = allChefs.find((c) => chefSlug(chefDisplayName(c, "full")) === slug);
 
   if (!chef) return notFound();
 

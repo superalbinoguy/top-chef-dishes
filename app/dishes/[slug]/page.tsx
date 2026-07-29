@@ -154,12 +154,7 @@ export default async function DishPage({
               <div>
                 <dt>Season</dt>
                 <dd>
-                  <Link
-                    href={`/seasons/${dish.season}`}
-                    className="recipe-link"
-                  >
-                    Season {dish.season}
-                  </Link>
+                  Season {dish.season}
                 </dd>
               </div>
 
@@ -168,7 +163,7 @@ export default async function DishPage({
                 <dt>Episode</dt>
                 <dd>
                   <Link
-                    href={`/episodes/${dish.season}-${dish.episode}`}
+                    href={`/episodes/s${String(dish.season).padStart(2, "0")}e${String(dish.episode).padStart(2, "0")}`}
                     className="recipe-link"
                   >
                     Episode {dish.episode}

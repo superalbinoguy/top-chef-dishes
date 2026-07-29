@@ -13,7 +13,7 @@ export default function ChefCard({
 }) {
   return (
     <Link
-      href={`/chefs/${chefSlug(chefDisplayName(chef, "first"))}`}
+      href={`/chefs/${chefSlug(chefDisplayName(chef, "full"))}`}
       style={{
         textDecoration: "none",
         color: "inherit",
