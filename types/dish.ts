@@ -10,4 +10,5 @@ type Dish = {
   dishes: string[];
   ingredients: string[];
   techniques: string[];
+  miscellaneous: string[];
 };

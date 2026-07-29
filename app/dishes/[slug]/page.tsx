@@ -1,8 +1,8 @@
-import Image from "next/image";
 import Link from "next/link";
 import dishes from "@/lib/dishes.json";
 import { notFound } from "next/navigation";
 import { chefSlug, tagSlug } from "@/lib/tag-utils";
+import ZoomableImage from "@/components/ZoomableImage";
 
 function getImagePath(slug: string) {
   const season = slug.slice(0, 3);
@@ -73,7 +73,7 @@ export default async function DishPage({
             <div className="recipe-images">
 
               <div className="recipe-photo">
-                <Image
+                <ZoomableImage
                   src={getImagePath(dish.slug)}
                   alt={dish.name}
                   width={1920}
