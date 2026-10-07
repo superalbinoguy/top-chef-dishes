@@ -42,7 +42,36 @@ export const dishFilters: DishFilter[] = [
         "fish sauce",
         "foie gras",
         "labneh",
-        "ants"
+        "ants",
+        "turkey"
+      ];
+
+      return !dish.ingredients.some((ingredient) =>
+        banned.includes(ingredient.toLowerCase())
+      );
+    },
+  },
+
+  {
+    id: "vegetarian",
+    label: "Vegetarian",
+    description: "Dishes that are vegetarian",
+    test: (dish) => {
+      const banned = [
+        "beef",
+        "pork",
+        "chicken",
+        "fish",
+        "shellfish",
+        "lamb",
+        "livermush",
+        "marshmallow",
+        "rabbit",
+        "duck",
+        "fish sauce",
+        "foie gras",
+        "ants",
+        "turkey"
       ];
 
       return !dish.ingredients.some((ingredient) =>

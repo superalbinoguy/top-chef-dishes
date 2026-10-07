@@ -3809,6 +3809,7 @@
     ],
     "ingredients": [
       "egg",
+      "pork",
       "prosciutto",
       "arugula",
       "parmesan",
@@ -4203,6 +4204,7 @@
       "thousand island dressing"
     ],
     "ingredients": [
+      "beef",
       "corned beef",
       "pickles",
       "sauerkraut",
@@ -4800,6 +4802,7 @@
       "fondue"
     ],
     "ingredients": [
+      "fish",
       "trout",
       "tomato",
       "saffron",
@@ -5383,6 +5386,8 @@
     "ingredients": [
       "butternut squash",
       "egg",
+      "pork",
+      "sausage",
       "kielbasa",
       "sauerkraut",
       "apple"
@@ -13018,6 +13023,7 @@
       "sweet potato",
       "miso",
       "butter",
+      "shellfish",
       "uni"
     ],
     "techniques": [

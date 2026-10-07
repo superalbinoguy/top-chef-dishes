@@ -68,9 +68,19 @@ export default function TagPage({
     return matchesTag && matchesSeason;
   });
 
+  const dishesBySeason = matchingDishes.reduce<
+    Record<number, typeof matchingDishes>
+  >((acc, dish) => {
+    (acc[dish.season] ??= []).push(dish);
+    return acc;
+  }, {});
+
+  const sortedSeasons = Object.keys(dishesBySeason)
+    .map(Number)
+    .sort((a, b) => b - a);
+
   return (
     <div className="season-wrapper">
-      {/* HEADER */}
       <div className="season-header">
         <div style={{ display: "flex", gap: "0.5rem", alignItems: "baseline" }}>
           <h1 style={{ opacity: 0.3, marginRight: "4px",}}>{getTagTitle(typedCategory)}</h1>
@@ -81,19 +91,27 @@ export default function TagPage({
         </p>
       </div>
 
-      {/* GRID */}
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "2rem",
-          marginTop: "1.5rem",
-        }}
-      >
-        {matchingDishes.map((dish) => (
-          <PhotoCard key={dish.slug} dish={dish} />
-        ))}
-      </div>
+      {sortedSeasons.map((season) => (
+        <div key={season}>
+          <div className="competition-header">
+            <h1>Season {season}</h1>
+          </div>
+
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              gap: "2rem",
+              marginTop: "1.5rem",
+              marginBottom: "1.5rem",
+            }}
+          >
+            {dishesBySeason[season].map((dish) => (
+              <PhotoCard key={dish.slug} dish={dish} />
+            ))}
+          </div>
+        </div>
+      ))}
     </div>
   );
 }

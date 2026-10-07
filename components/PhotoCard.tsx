@@ -16,25 +16,33 @@ const stampImages: Record<string, string> = {
   lost: "/images/logos/loser.png",
   top: "/images/logos/top.png",
   bottom: "/images/logos/bottom.png",
+  qfwon: "/images/logos/qf-winner.png",
 };
 
 const stampKeywords: Record<keyof typeof stampImages, string[]> = {
   won: ["winning"],
   lost: ["losing"],
   top: ["top"],
-  bottom: ["bottom"],
+  bottom: ["bottom"]
 };
 
-function getStampKey(misc: string[] | undefined): keyof typeof stampImages | undefined {
+function getStampKey(dish: Dish | undefined): keyof typeof stampImages | undefined {
+  const misc = dish?.miscellaneous;
   if (!misc || misc.length === 0) return undefined;
 
   const lowerTags = misc.map((tag) => tag.toLowerCase());
 
-  for (const key of Object.keys(stampKeywords) as (keyof typeof stampImages)[]) {
+  for (const key of Object.keys(stampKeywords) as (keyof typeof stampKeywords)[]) {
     const keywords = stampKeywords[key];
-    if (lowerTags.some((tag) => keywords.some((kw) => tag.includes(kw)))) {
-      return key;
+    const matches = lowerTags.some((tag) => keywords.some((kw) => tag.includes(kw)));
+
+    if (!matches) continue;
+
+    if (key === "won" && dish?.competition === "Quickfire") {
+      return "qfwon";
     }
+
+    return key;
   }
 
   return undefined;
@@ -46,7 +54,7 @@ export default function PhotoCard({
   key: string;
   dish: Dish;
 }) {
-  const stampKey = getStampKey(dish.miscellaneous);
+  const stampKey = getStampKey(dish);
   const stampSrc = stampKey ? stampImages[stampKey] : undefined;
 
   return (

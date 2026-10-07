@@ -9,7 +9,7 @@ function getImagePath(slug: string) {
   const episode = slug.slice(3, 6);
   const file = slug.slice(6);
 
-  return `/images/${season}/${episode}/${file}.webp`;
+  return `/images/${season}/${episode}/${file}`;
 }
 
 function TagSection({
@@ -74,7 +74,7 @@ export default async function DishPage({
 
               <div className="recipe-photo">
                 <ZoomableImage
-                  src={getImagePath(dish.slug)}
+                  src={getImagePath(dish.slug).concat(`.webp`)}
                   alt={dish.name}
                   width={1920}
                   height={1080}
@@ -82,9 +82,12 @@ export default async function DishPage({
               </div>
 
               <div className="recipe-photo">
-                <div className="recipe-placeholder">
-                  Second Image
-                </div>
+                <ZoomableImage
+                  src={getImagePath(dish.slug).concat(`b.webp`)}
+                  alt={dish.name}
+                  width={1920}
+                  height={1080}
+                />
               </div>
 
             </div>

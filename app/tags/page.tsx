@@ -83,6 +83,9 @@ const MAX_ITEMS_DESKTOP = 18; // ~3 rows on your grid (safe approximation)
 const MAX_ITEMS_MOBILE = 6; // ~3 rows on a single-column mobile grid
 
 function useIsMobile(breakpointPx = 640) {
+  // Defaults to false (desktop) so server-rendered markup matches the
+  // initial client render; it flips to true right after mount if the
+  // viewport is narrow, then stays in sync if the window is resized.
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
@@ -104,16 +107,19 @@ export default function TagsPage() {
   const { selectedSeason } = useSeason();
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
   const [selectedTagCategory, setSelectedTagCategory] = useState<string | null>(null);
-  const [selectedFilter, setSelectedFilter] = useState<string | null>(null);
+
+  // Multiple filters can be active at once now; a dish must satisfy
+  // every selected filter (AND), not just one of them.
+  const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
 
   const filteredDishes =
-  selectedFilter
-    ? dishes.filter((dish) =>
-        dishFilters
-          .find((f) => f.id === selectedFilter)
-          ?.test(dish)
-      )
-    : dishes;
+    selectedFilters.length > 0
+      ? dishes.filter((dish) =>
+          selectedFilters.every((id) =>
+            dishFilters.find((f) => f.id === id)?.test(dish) ?? true
+          )
+        )
+      : dishes;
 
   const groups = [
     {
@@ -157,8 +163,8 @@ export default function TagsPage() {
         <div className="tag-filter-wrapper">
           <TagFilter
             filters={dishFilters}
-            selected={selectedFilter}
-            onChange={setSelectedFilter}
+            selected={selectedFilters}
+            onChange={setSelectedFilters}
           />
         </div>
       </div>
@@ -185,7 +191,14 @@ export default function TagsPage() {
                 <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
               </div>
 
-              <div className="tag-card">
+              <div
+                style={{
+                  display: "grid",
+                  gridTemplateColumns:
+                    "repeat(auto-fill, minmax(160px, 1fr))",
+                  gap: "12px",
+                }}
+              >
                 {visibleData.map(([tag, count]) => {
                   const icon =
                     group.category === "cuisines"

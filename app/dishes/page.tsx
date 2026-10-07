@@ -10,16 +10,17 @@ import TagFilter from "@/components/TagFilter";
 
 export default function DishHomepage() {
   const { selectedSeason } = useSeason();
-  const [selectedFilter, setSelectedFilter] = useState<string | null>(null);
+
+  const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
 
   const filteredDishes =
-  selectedFilter
-    ? dishes.filter((dish) =>
-        dishFilters
-          .find((f) => f.id === selectedFilter)
-          ?.test(dish)
-      )
-    : dishes;
+    selectedFilters.length > 0
+      ? dishes.filter((dish) =>
+          selectedFilters.every((id) =>
+            dishFilters.find((f) => f.id === id)?.test(dish) ?? true
+          )
+        )
+      : dishes;
 
   const grouped = filteredDishes.reduce<
     Record<number, Record<number, typeof dishes>>
@@ -59,8 +60,8 @@ export default function DishHomepage() {
         <div className="tag-filter-wrapper">
                     <TagFilter
                       filters={dishFilters}
-                      selected={selectedFilter}
-                      onChange={setSelectedFilter}
+                      selected={selectedFilters}
+                      onChange={setSelectedFilters}
                     />
                   </div>
         </div>
