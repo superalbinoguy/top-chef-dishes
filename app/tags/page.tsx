@@ -100,6 +100,7 @@ function useIsMobile(breakpointPx = 640) {
   return isMobile;
 }
 
+
 export default function TagsPage() {
   const isMobile = useIsMobile();
   const MAX_ITEMS = isMobile ? MAX_ITEMS_MOBILE : MAX_ITEMS_DESKTOP;
@@ -107,6 +108,11 @@ export default function TagsPage() {
   const { selectedSeason } = useSeason();
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
   const [selectedTagCategory, setSelectedTagCategory] = useState<string | null>(null);
+
+  const RARE_FILTER_BY_CATEGORY: Partial<Record<string, string>> = {
+    dishes: "never-repeated-dish",
+    ingredients: "rare-ingredient",
+  };
 
   // Multiple filters can be active at once now; a dish must satisfy
   // every selected filter (AND), not just one of them.
@@ -121,6 +127,24 @@ export default function TagsPage() {
         )
       : dishes;
 
+  type Category = Parameters<typeof getSortedTagCounts>[0];
+
+  function applyRareFilter(
+    category: Category,
+    data: ReturnType<typeof getSortedTagCounts>
+  ) {
+    const rareFilterId = RARE_FILTER_BY_CATEGORY[category];
+    if (!rareFilterId || !selectedFilters.includes(rareFilterId)) return data;
+
+    const rareTags = new Set(
+      getSortedTagCounts(category, selectedSeason, dishes)
+        .filter(([, count]) => count === 1)
+        .map(([tag]) => tag)
+    );
+
+    return data.filter(([tag]) => rareTags.has(tag));
+  }
+
   const groups = [
     {
       title: "Cuisines",
@@ -128,15 +152,21 @@ export default function TagsPage() {
       data: getSortedTagCounts("cuisines", selectedSeason, filteredDishes),
     },
     {
-      title: "Dish Types",
-      category: "dishes",
-      data: getSortedTagCounts("dishes", selectedSeason, filteredDishes),
-    },
-    {
-      title: "Ingredients",
-      category: "ingredients",
-      data: getSortedTagCounts("ingredients", selectedSeason, filteredDishes),
-    },
+    title: "Dish Types",
+    category: "dishes",
+    data: applyRareFilter(
+      "dishes",
+      getSortedTagCounts("dishes", selectedSeason, filteredDishes)
+    ),
+  },
+  {
+    title: "Ingredients",
+    category: "ingredients",
+    data: applyRareFilter(
+      "ingredients",
+      getSortedTagCounts("ingredients", selectedSeason, filteredDishes)
+    ),
+  },
     {
       title: "Techniques",
       category: "techniques",

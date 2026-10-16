@@ -1,5 +1,215 @@
 [
   {
+    "name": "Squid Ink Raviolo Stuffed with Lobster & Shrimp, Bisque & Fennel Purée",
+    "slug": "S21E01E01",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E01/E01.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["raviolo", "pasta", "bisque", "puree"],
+    "ingredients": ["squid ink", "shellfish", "lobster", "shrimp", "fennel"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Mushroom Stuffed Gnocchi with Speck & Chicken Liver Gravy, Mascarpone & Calabrian Chili",
+    "slug": "S21E01E02",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["David Murphy"],
+    "image": "/S21/E01/E02.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["gnocchi", "gravy"],
+    "ingredients": ["potato", "mushroom", "pork", "ham", "chicken", "chicken liver", "cheese", "mascarpone", "chiles", "calabrian chile"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Keema Stuffed Kozhukattai with Kurma",
+    "slug": "S21E01E03",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E01/E03.webp",
+    "cuisines": ["Indian"],
+    "dishes": ["kozhukattai", "dumpling", "korma", "keema"],
+    "ingredients": ["beef", "potato", "carrot", "beans", "shallot"],
+    "techniques": ["steamed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Ricotta Gnocchi Stuffed with Mushroom Béchamel, Truffle Goat Cheese & Preserved Lemon",
+    "slug": "S21E01E04",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E01/E04.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["gnocchi", "bechamel"],
+    "ingredients": ["cheese", "ricotta", "mushroom", "truffle", "goat cheese", "preserved lemon", "sage"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Ricotta & Lobster Stuffed Pasta with Charred Corn Sauce & Chorizo",
+    "slug": "S21E01E05",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E01/E05.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["pasta"],
+    "ingredients": ["cheese", "ricotta", "shellfish", "lobster", "corn", "chorizo"],
+    "techniques": ["charred"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Corn & Ham Soup with Pickled Shrimp",
+    "slug": "S21E01E06",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E01/E06.webp",
+    "cuisines": [],
+    "dishes": ["soup", "pickles"],
+    "ingredients": ["corn", "ham", "shellfish", "shrimp"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Green Pozole with Chicken & Charred Salsa Verde",
+    "slug": "S21E01E07",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E01/E07.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["pozole", "soup", "salsa verde"],
+    "ingredients": ["chicken", "hominy", "tomatillo", "radish", "red cabbage"],
+    "techniques": ["charred"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Tomato & Fennel Broth with Seafood",
+    "slug": "S21E01E08",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E01/E08.webp",
+    "cuisines": [],
+    "dishes": ["broth"],
+    "ingredients": ["tomato", "fennel", "shellfish"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Yuvalama Mint Yogurt Soup with Bulgur Meatballs, Morel & Maitake Mushrooms",
+    "slug": "S21E01E09",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E01/E09.webp",
+    "cuisines": ["Turkish"],
+    "dishes": ["yuvalama", "soup", "meatballs"],
+    "ingredients": ["yogurt", "mint", "bulgur", "mushroom", "morel", "maitake", "lamb"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Chicken & Dumplings with Citrus Gremolata",
+    "slug": "S21E01E10",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E01/E10.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["dumpling", "gremolata", "chicken and dumplings"],
+    "ingredients": ["chicken", "carrot", "chives"],
+    "techniques": [],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Pho Butter Roasted Chicken with Coconut Carrot Mashed Potatoes",
+    "slug": "S21E01E11",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Kenny Nguyen"],
+    "image": "/S21/E01/E11.webp",
+    "cuisines": ["Vietnamese"],
+    "dishes": ["compound butter", "pho"],
+    "ingredients": ["chicken", "butter", "coconut", "carrot", "potato"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Roasted Chicken with Spiced Curry, Corn, Shiitake & Lobster Mushrooms",
+    "slug": "S21E01E12",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E01/E12.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["chicken", "curry", "corn", "mushroom", "shiitake", "lobster mushroom", "onion"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Fines Herbes Roasted Chicken, Brown Butter Sherry Vinaigrette & Carrot Miso Purée",
+    "slug": "S21E01E13",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E01/E13.webp",
+    "cuisines": [],
+    "dishes": ["vinaigrette", "puree"],
+    "ingredients": ["chicken", "herbs", "butter", "vinegar", "sherry vinegar", "carrot", "miso"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Roasted Chicken with Avgolemono Sauce, Chicken Skin Gremolata & Potato Purée",
+    "slug": "S21E01E14",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E01/E14.webp",
+    "cuisines": ["Greek"],
+    "dishes": ["avgolemono", "gremolata", "puree"],
+    "ingredients": ["chicken", "egg", "lemon", "potato"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Roasted Harissa Chicken, Corn Purée & Warm Shishito Salad",
+    "slug": "S21E01E15",
+    "season": 21,
+    "episode": 1,
+    "competition": "Elimination",
+    "chef": ["Valentine Howell Jr."],
+    "image": "/S21/E01/E15.webp",
+    "cuisines": [],
+    "dishes": ["puree", "salad"],
+    "ingredients": ["chicken", "harissa", "corn", "chiles", "shishito"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
     "name": "Steamed Clam, Preserved King Oyster Mushroom, Baby Bok Choy with Tomato & Maple Syrup Nage",
     "slug": "S22E01QF01",
     "season": 22,
@@ -6196,7 +6406,9 @@
     "techniques": [
       "grilled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Panipuri with Scarlet Shrimp, Aji Verde, Salsa Macha & Gazpacho Verde",
@@ -6228,7 +6440,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Monkfish with Pickled Turnips, Tempura Broccoli & Baccalà Mbongo",
@@ -6261,7 +6475,8 @@
       "fried"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -6292,7 +6507,9 @@
       "pecan"
     ],
     "techniques": [],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Soup Dumpling Raviolo with Pork & King Crab, Charred Leek Vinaigrette & Lardo",
@@ -6325,7 +6542,9 @@
     "techniques": [
       "charred"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Pollo \"Dorengo\" with Injera Shrimp Toast & Shellfish Jus",
@@ -6355,7 +6574,8 @@
       "pan-fried"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -6387,7 +6607,9 @@
       "charred",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Tangcu Ossobuco with Sweet & Sour Sauce, Radicchio, Long Beans & Grits",
@@ -6417,7 +6639,9 @@
     "techniques": [
       "braised"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Oxtail Milanese Crépinette with Carolina Gold Rice Grits, Curry Butter & Bone Marrow Gremolata",
@@ -6450,7 +6674,8 @@
       "braised"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -6483,7 +6708,8 @@
       "frozen"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "finale"
     ]
   },
   {
@@ -6517,7 +6743,8 @@
       "baked"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "finale"
     ]
   },
   {
@@ -6552,7 +6779,8 @@
     ],
     "miscellaneous": [
       "dessert",
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -13035,7 +13263,8 @@
       "charred"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -13067,7 +13296,9 @@
       "braised",
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Pork & Century Egg Congee with You Tiao",
@@ -13095,7 +13326,9 @@
     "techniques": [
       "fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Abalone Lugaw with Abalone Liver Mousse",
@@ -13127,7 +13360,8 @@
       "braised"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -13157,7 +13391,9 @@
     "techniques": [
       "pickled"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Dim Sum: Daikon Cake, Lobster Sticky Rice & Scallop and Shrimp Roll with Fresh Tofu Skins",
@@ -13190,7 +13426,9 @@
       "steamed",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Grilled Eggplant Omelet with XO Sauce, Vinegar, Crispy Pork Belly, Chili & Fish Sauce",
@@ -13223,7 +13461,8 @@
       "fried"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -13256,7 +13495,9 @@
       "braised",
       "pan-fried"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Seared Duck Breast with Sorghum Glaze, Fermented Tofu, Hoisin & Duck Broth",
@@ -13286,7 +13527,9 @@
       "pan-fried",
       "glazed"
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      "finale"
+    ]
   },
   {
     "name": "Braised Short Rib with Liver Sauce & Vegetables",
@@ -13316,7 +13559,8 @@
       "braised"
     ],
     "miscellaneous": [
-      "winning"
+      "winning",
+      "finale"
     ]
   },
   {
@@ -13348,7 +13592,8 @@
       "candied"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "finale"
     ]
   },
   {
@@ -13376,7 +13621,8 @@
       "caramelized"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "finale"
     ]
   }
 ]

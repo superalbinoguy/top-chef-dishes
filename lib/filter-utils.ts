@@ -120,7 +120,7 @@ export const dishFilters: DishFilter[] = [
     id: "finale",
     label: "Finale Dishes",
     test: (dish) =>
-      dish.competition.toLowerCase().includes("finale"),
+      dish.miscellaneous.includes("finale"),
   },
 
   {

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
 
 export default function AboutPage() {
   return (
@@ -20,11 +21,10 @@ export default function AboutPage() {
         </p>
 
         <p style={{ marginBottom: "16px" }}>
-          Bugs, corrections, or suggestions? Drop me a line at{" "}
-          <Link href="mailto:kurtlosereit@gmail.com" className="recipe-link">
-            kurtlosereit@gmail.com
-          </Link>
+          Bugs, corrections, or suggestions? Send me a message below.
         </p>
+ 
+        <ContactForm />
 
         <h2 style={{ fontSize: "1.25rem", fontWeight: 700, marginTop: "32px", marginBottom: "12px" }}>
           Data & Attribution
