@@ -47,7 +47,11 @@ const cuisineFlags: Record<string, string> = {
   Portuguese: "PT",
   Greek: "GR",
   Ethiopian: "ET",
-  Cameroonian: "CM"
+  Cameroonian: "CM",
+  Georgian: "GE",
+  Persian: "IR",
+  Lebanese: "LB",
+  Polish: "PL"
 };
 
 const globeColors: Record<string, string> = {
@@ -57,6 +61,7 @@ const globeColors: Record<string, string> = {
   Creole: "green",
   Caribbean: "teal",
   "Northeast American": "darkblue",
+  "North African": "orange",
 };
 
 

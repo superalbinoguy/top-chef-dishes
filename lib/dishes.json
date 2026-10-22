@@ -210,6 +210,2960 @@
     "miscellaneous": []
   },
   {
+    "name": "Cured Rainbow Trout with Hop Dashi, Grapefruit & Blood Orange",
+    "slug": "S21E02QF01",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E02/QF01.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["dashi"],
+    "ingredients": ["fish", "trout", "hops", "grapefruit", "orange", "blood orange"],
+    "techniques": ["cured"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Hop-Infused Rice Pudding with Berries",
+    "slug": "S21E02QF02",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E02/QF02.webp",
+    "cuisines": [],
+    "dishes": ["pudding"],
+    "ingredients": ["rice", "hops", "blackberry", "raspberry"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Grilled Rack of Lamb with Hops au Poivre",
+    "slug": "S21E02QF03",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E02/QF03.webp",
+    "cuisines": ["French"],
+    "dishes": ["au poivre"],
+    "ingredients": ["lamb", "hops", "black pepper", "shallot"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Grilled Flank Steak, Strawberry & Shallot Salad with Strawberry & Hops Vinaigrette",
+    "slug": "S21E02QF04",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E02/QF04.webp",
+    "cuisines": [],
+    "dishes": ["salad", "vinaigrette"],
+    "ingredients": ["beef", "flank steak", "strawberry", "shallot", "hops"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Grilled Peaches, Whipped Goat Cheese with Hops & Aleppo Chili Honey",
+    "slug": "S21E02QF05",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E02/QF05.webp",
+    "cuisines": [],
+    "dishes": ["hot honey"],
+    "ingredients": ["peach", "cheese", "goat cheese", "hops", "chiles", "honey", "prosciutto"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Charred Cabbage Salad with Citrus, Herbs, Hops & Alpine Cheddar Cheese",
+    "slug": "S21E02QF06",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E02/QF06.webp",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["cabbage", "grapefruit", "parsley", "dill", "chives", "hops", "cheese", "cheddar"],
+    "techniques": ["charred"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Roasted Blackberries & Raspberries with Fleur de Sel Crumble, Whipped Cream & Hops-Infused Oil",
+    "slug": "S21E02QF07",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E02/QF07.webp",
+    "cuisines": [],
+    "dishes": ["crumble"],
+    "ingredients": ["blackberry", "raspberry", "cream", "hops"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Lambic Hop Braised Haitian Fried Chicken with Pikliz & Plantains",
+    "slug": "S21E02QF08",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E02/QF08.webp",
+    "cuisines": ["Haitian"],
+    "dishes": ["fried chicken", "pikliz"],
+    "ingredients": ["chicken", "hops", "plantain", "avocado", "cabbage"],
+    "techniques": ["braised", "fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Roasted Pork Loin with Sweet Potatoes & Shishito-Hops Chimichurri",
+    "slug": "S21E02QF09",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E02/QF09.webp",
+    "cuisines": [],
+    "dishes": ["chimichurri"],
+    "ingredients": ["pork", "pork loin", "sweet potato", "chiles", "shishito", "hops"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Crab Salad with Hops-Infused Corn Purée",
+    "slug": "S21E02QF10",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E02/QF10.webp",
+    "cuisines": [],
+    "dishes": ["salad", "puree"],
+    "ingredients": ["shellfish", "crab", "corn", "hops"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Hops & Kombu Broth with Farro, Maitake Mushrooms & Burrata",
+    "slug": "S21E02QF11",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Kenny Nguyen"],
+    "image": "/S21/E02/QF11.webp",
+    "cuisines": [],
+    "dishes": ["broth"],
+    "ingredients": ["hops", "seaweed", "farro", "mushroom", "maitake", "burrata", "radish"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Hops-Infused Green Chermoula Crab Salad & Watermelon Ponzu",
+    "slug": "S21E02QF12",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E02/QF12.webp",
+    "cuisines": ["North African", "Japanese"],
+    "dishes": ["salad", "chermoula", "ponzu"],
+    "ingredients": ["shellfish", "crab", "hops", "watermelon", "soy sauce", "cilantro", "lemon", "garlic"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Hop-Cured Tuna with Hop-Infused Dashi & Raw Hops",
+    "slug": "S21E02QF13",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E02/QF13.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["dashi"],
+    "ingredients": ["fish", "tuna", "hops", "radish", "carrot"],
+    "techniques": ["cured"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Hop-Smoked Duck Breast with Berbere Spice & Tomato Nage",
+    "slug": "S21E02QF14",
+    "season": 21,
+    "episode": 2,
+    "competition": "Quickfire",
+    "chef": ["Valentine Howell Jr."],
+    "image": "/S21/E02/QF14.webp",
+    "cuisines": [],
+    "dishes": ["nage"],
+    "ingredients": ["duck", "duck breast", "berbere", "tomato", "hops", "brussels sprouts"],
+    "techniques": ["smoked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cucumber & Melon Salad, Shredded Pickles & Cream Cheese",
+    "slug": "S21E02E01",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E02/E01.webp",
+    "cuisines": [],
+    "dishes": ["salad", "pickles"],
+    "ingredients": ["cucumber", "melon", "pickles", "cheese", "cream cheese"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Canapés - Olive Tapenade & Toast, Tempura Olive Stuffed with Bell Pepper, Green Olives with Parmesan Cracker",
+    "slug": "S21E02E02",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E02/E02.webp",
+    "cuisines": ["French", "Japanese"],
+    "dishes": ["tapenade", "tempura", "cracker"],
+    "ingredients": ["olives", "bread", "peppers", "cheese", "parmesan"],
+    "techniques": ["fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Cured Salmon with Yogurt & Dill Sauce",
+    "slug": "S21E02E03",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E02/E03.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "salmon", "yogurt", "dill", "cucumber", "shallot", "peppers"],
+    "techniques": ["cured"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Smoked Salmon Rillettes with Lavash & Olive Chimichurri",
+    "slug": "S21E02E04",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E02/E04.webp",
+    "cuisines": ["Middle Eastern", "French"],
+    "dishes": ["rillettes", "chimichurri", "lavash"],
+    "ingredients": ["fish", "salmon", "smoked fish", "olives"],
+    "techniques": ["smoked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Badrijani Nigvzit - Georgian Eggplant Rolls Stuffed with Nuts",
+    "slug": "S21E02E05",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E02/E05.webp",
+    "cuisines": ["Georgian"],
+    "dishes": ["badrijani nigvzit"],
+    "ingredients": ["eggplant", "nuts", "walnut", "pistachio"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Toasted Corn Kernel & Crab Biscuit with Spicy High Life Honey Butter",
+    "slug": "S21E02E06",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E02/E06.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["biscuit", "compound butter"],
+    "ingredients": ["corn", "shellfish", "crab", "honey", "butter", "beer"],
+    "techniques": ["baked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Popcorn Mousse with Clams, Roasted Corn & Basil",
+    "slug": "S21E02E07",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E02/E07.webp",
+    "cuisines": [],
+    "dishes": ["mousse"],
+    "ingredients": ["popcorn", "corn", "shellfish", "clams", "basil"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Beer & Corn Soup, Pickled Fresno Peppers & Toasted Corn Kernels",
+    "slug": "S21E02E08",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Valentine Howell Jr."],
+    "image": "/S21/E02/E08.webp",
+    "cuisines": [],
+    "dishes": ["soup"],
+    "ingredients": ["beer", "corn", "fresno chile", "peppers"],
+    "techniques": ["pickled"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Guajillo & Mixed Nut Mole with Roasted Chicken",
+    "slug": "S21E02E09",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E02/E09.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["mole"],
+    "ingredients": ["guajillo", "nuts", "chicken"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Potato Chip Crusted Spanish Mackerel, Black Bean Purée & Beurre Blanc",
+    "slug": "S21E02E10",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E02/E10.webp",
+    "cuisines": [],
+    "dishes": ["puree", "beurre blanc"],
+    "ingredients": ["potato", "fish", "mackerel", "beans"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "“Beer & Pretzels” - Pretzel Beer Foam & Miso with Beer & Lime Granita",
+    "slug": "S21E02E11",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E02/E11.webp",
+    "cuisines": [],
+    "dishes": ["espuma", "granita"],
+    "ingredients": ["pretzel", "beer", "miso", "lime"],
+    "techniques": ["frozen"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato Chip Pavé with Togarashi Yogurt & Beer Braised Short Rib",
+    "slug": "S21E02E12",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Kenny Nguyen"],
+    "image": "/S21/E02/E12.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["togarashi"],
+    "ingredients": ["potato", "yogurt", "beef", "short rib", "beer", "togarashi"],
+    "techniques": ["braised", "fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Barley Pretzel Cake with Pretzel Granita & Honey Mustard Sabayon",
+    "slug": "S21E02E13",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E02/E13.webp",
+    "cuisines": [],
+    "dishes": ["cake", "granita", "sabayon"],
+    "ingredients": ["pretzel", "barley", "honey", "mustard"],
+    "techniques": ["baked", "frozen"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Buttered Popcorn Budino & Salted Caramel Sauce with Chocolate & Caramel Popcorn",
+    "slug": "S21E02E14",
+    "season": 21,
+    "episode": 2,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E02/E14.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["budino", "pudding"],
+    "ingredients": ["popcorn", "caramel", "chocolate", "butter", "cream"],
+    "techniques": ["caramelized"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cherry Glazed Pork Tenderloin with Cherry & Mustard Mostarda",
+    "slug": "S21E03QF01",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E03/QF01.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["mostarda"],
+    "ingredients": ["pork", "pork tenderloin", "cherry", "mustard"],
+    "techniques": ["glazed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Chicken Liver Mousse, Panzanella Salad with Shishito Peppers and Bing Cherry Vinaigrette",
+    "slug": "S21E03QF02",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E03/QF02.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["mousse", "panzanella", "salad", "vinaigrette"],
+    "ingredients": ["chicken liver", "bread", "chiles", "shishito", "cherry"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Tart Cherry Cipollini Onions, Charred Pepper Relish & Berbere Spice",
+    "slug": "S21E03QF03",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E03/QF03.webp",
+    "cuisines": [],
+    "dishes": ["relish"],
+    "ingredients": ["cherry", "onion", "peppers", "berbere"],
+    "techniques": ["charred"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Montmorency Cherry Condensed Milk Ice Cream, Tart Cherry Syrup & Pepper",
+    "slug": "S21E03QF04",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E03/QF04.webp",
+    "cuisines": [],
+    "dishes": ["ice cream", "syrup"],
+    "ingredients": ["cherry", "sweetened condensed milk", "black pepper"],
+    "techniques": ["frozen"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Soy Marinated Roasted Pork Belly with Sautéed and Pickled Cherries",
+    "slug": "S21E03QF05",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E03/QF05.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["pork", "pork belly", "soy sauce", "cherry", "scallion"],
+    "techniques": ["roasted", "pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cherry & Salmon Croquette with Tart Cherry Cream",
+    "slug": "S21E03QF06",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E03/QF06.webp",
+    "cuisines": [],
+    "dishes": ["croquette"],
+    "ingredients": ["cherry", "fish", "salmon", "cream", "pear", "celery"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Charred Golden Beets with Chocolate Cherry Demi, Smashed Purple Potatoes & Pickled Cherries",
+    "slug": "S21E03QF07",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E03/QF07.webp",
+    "cuisines": [],
+    "dishes": ["demi-glace"],
+    "ingredients": ["beets", "chocolate", "cherry", "potato"],
+    "techniques": ["charred", "pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Toasted Marshmallows with Rum & Cherry Sauce, Fried Cinnamon & Sugar Spring Roll Paper",
+    "slug": "S21E03QF08",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Kenny Nguyen"],
+    "image": "/S21/E03/QF08.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["marshmallow", "rum", "cherry", "rice paper", "cinnamon", "almonds"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cherry & Ginseng Broth with Charred Shrimp & Bok Choy",
+    "slug": "S21E03QF09",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E03/QF09.webp",
+    "cuisines": ["Korean"],
+    "dishes": ["broth"],
+    "ingredients": ["cherry", "ginseng", "shellfish", "shrimp", "bok choy"],
+    "techniques": ["charred"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Beef Tenderloin with Poêle of Cherries & Black Garlic",
+    "slug": "S21E03QF10",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E03/QF10.webp",
+    "cuisines": ["French"],
+    "dishes": ["poele"],
+    "ingredients": ["beef", "tenderloin", "cherry", "black garlic", "almonds", "basil"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Grilled Skirt Steak, Bamboo Shoot & Cherry Gremolata with Cherry Gastrique",
+    "slug": "S21E03QF11",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E03/QF11.webp",
+    "cuisines": [],
+    "dishes": ["gremolata", "gastrique"],
+    "ingredients": ["beef", "skirt steak", "bamboo shoot", "cherry"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Kimchi Pancake with Kimchi Cherries & Bing Cherry Hoisin",
+    "slug": "S21E03QF12",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E03/QF12.webp",
+    "cuisines": ["Korean"],
+    "dishes": ["pancake", "kimchi"],
+    "ingredients": ["cherry", "hoisin"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Charred Cabbage with Cherry Serrano Reduction and Lime & Anchovy Butter",
+    "slug": "S21E03QF13",
+    "season": 21,
+    "episode": 3,
+    "competition": "Quickfire",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E03/QF13.webp",
+    "cuisines": [],
+    "dishes": ["compound butter"],
+    "ingredients": ["cabbage", "cherry", "chiles", "serrano", "lime", "anchovy", "butter"],
+    "techniques": ["charred"],
+    "miscellaneous": []
+  },
+  {
+    "name": "15 Year Cheddar Fritter, Cheddar-Lime Mornay & Cheddar Foam",
+    "slug": "S21E03E01",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E03/E01.webp",
+    "cuisines": [],
+    "dishes": ["fritter", "mornay", "espuma"],
+    "ingredients": ["cheese", "cheddar", "lime"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Mount Raclette Arancini with Mornay & Dijon Sauce, Fig & Olive Gremolata",
+    "slug": "S21E03E02",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E03/E02.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["arancini", "mornay", "gremolata"],
+    "ingredients": ["rice", "cheese", "raclette", "mustard", "fig", "olives"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Ham & Brick Cheese Croquettes with Sherry Aioli",
+    "slug": "S21E03E03",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E03/E03.webp",
+    "cuisines": [],
+    "dishes": ["croquette", "aioli"],
+    "ingredients": ["ham", "cheese"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato Croquette with Gravy & Cheese Curds",
+    "slug": "S21E03E04",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E03/E04.webp",
+    "cuisines": [],
+    "dishes": ["croquette", "gravy"],
+    "ingredients": ["potato", "cheese", "cheese curds", "scallion"],
+    "techniques": ["fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Yucca Croquette with Canela Cheese & Tomato-Mango Sauce",
+    "slug": "S21E03E05",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E03/E05.webp",
+    "cuisines": [],
+    "dishes": ["croquette"],
+    "ingredients": ["yucca", "cheese", "canela cheese", "tomato", "mango"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Bellavitano Mac & Cheese with Merlot Mushrooms & Bread Crumbs",
+    "slug": "S21E03E06",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E03/E06.webp",
+    "cuisines": [],
+    "dishes": ["mac and cheese", "pasta"],
+    "ingredients": ["cheese", "mushroom", "red wine", "bread"],
+    "techniques": [],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Oaxacan Cheese Quesadilla with Whipped Avocado, Hatch Chile & Roasted Corn Salsa",
+    "slug": "S21E03E07",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E03/E07.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["quesadilla", "salsa"],
+    "ingredients": ["cheese", "oaxacan cheese", "avocado", "chiles", "hatch chile", "corn"],
+    "techniques": ["roasted", "pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Brie Croquettes with Mornay, Ham & Truffle",
+    "slug": "S21E03E08",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E03/E08.webp",
+    "cuisines": ["French"],
+    "dishes": ["croquette", "mornay"],
+    "ingredients": ["cheese", "brie", "pork", "ham", "truffle"],
+    "techniques": ["fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Sancho Cruz Manchego Potato Dumplings, Cheese Foam & Olive Tapenade",
+    "slug": "S21E03E09",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E03/E09.webp",
+    "cuisines": [],
+    "dishes": ["dumpling", "espuma", "tapenade"],
+    "ingredients": ["potato", "cheese", "manchego", "olives"],
+    "techniques": [],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Gouda Reserve Potato Croquette with Peach Mostarda",
+    "slug": "S21E03E10",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E03/E10.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["croquette", "mostarda"],
+    "ingredients": ["potato", "cheese", "gouda", "peach", "hazelnut"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Dunbarton Blue Paniyaram with Braised Chicken Korma",
+    "slug": "S21E03E11",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E03/E11.webp",
+    "cuisines": ["Indian"],
+    "dishes": ["paniyaram", "korma"],
+    "ingredients": ["cheese", "blue cheese", "chicken", "hazelnut"],
+    "techniques": ["braised", "pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Crab Rangoon Salad with Gorgonzola Crème Fraîche Crema, Luxardo Cherry Relish & Rice Paper Chip",
+    "slug": "S21E03E12",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Kenny Nguyen"],
+    "image": "/S21/E03/E12.webp",
+    "cuisines": ["Chinese"],
+    "dishes": ["rangoon", "salad", "crema", "relish"],
+    "ingredients": ["shellfish", "crab", "cheese", "blue cheese", "creme fraiche", "cherry", "rice paper"],
+    "techniques": ["fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Coconut Curry Collard Green Saag with Pleasant Ridge Reserve Potato Fritter",
+    "slug": "S21E03E13",
+    "season": 21,
+    "episode": 3,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E03/E13.webp",
+    "cuisines": ["Indian"],
+    "dishes": ["saag", "fritter"],
+    "ingredients": ["collard greens", "coconut", "curry", "okra", "potato", "cheese"],
+    "techniques": ["fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Scallop Mousse, Zucchini & Green Chartreuse",
+    "slug": "S21E04E01",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E04/E01.webp",
+    "cuisines": [],
+    "dishes": ["mousse"],
+    "ingredients": ["shellfish", "scallop", "zucchini", "chartreuse"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Daal Quenelle, Pickled Beets, Carrot Purée & Rasam",
+    "slug": "S21E04E02",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E04/E02.webp",
+    "cuisines": ["Indian"],
+    "dishes": ["dal", "puree", "rasam"],
+    "ingredients": ["lentils", "beets", "carrot", "tomato", "tamarind"],
+    "techniques": ["pickled"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Leek Cannoli with Potato Mousse, Potato Tuile, Pickle & Kombu Salad",
+    "slug": "S21E04E03",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E04/E03.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["cannoli", "mousse", "tuile", "salad"],
+    "ingredients": ["leeks", "potato", "pickles", "seaweed"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Angel Hair Pasta with Scallop, Caviar, Kombu Oil & Seafood Broth",
+    "slug": "S21E04E04",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E04/E04.webp",
+    "cuisines": ["Italian", "Japanese"],
+    "dishes": ["pasta", "broth"],
+    "ingredients": ["shellfish", "scallop", "caviar", "seaweed", "angel hair pasta"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Aguachile with Shrimp, Cucumber & Lime",
+    "slug": "S21E04E05",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Alisha Elenz"],
+    "image": "/S21/E04/E05.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["aguachile"],
+    "ingredients": ["shellfish", "shrimp", "cucumber", "lime"],
+    "techniques": [],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Mushroom & Goat Cheese Cheesecake, Sesame Tuile, Candied Mushrooms & Spruce Syrup",
+    "slug": "S21E04E06",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E04/E06.webp",
+    "cuisines": [],
+    "dishes": ["cheesecake", "tuile", "syrup"],
+    "ingredients": ["mushroom", "cheese", "goat cheese", "sesame", "spruce"],
+    "techniques": ["baked", "candied"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Chicken & Mushroom Fiori with Sauce Poulet au Vin Jaune",
+    "slug": "S21E04E07",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E04/E07.webp",
+    "cuisines": ["Italian", "French"],
+    "dishes": ["pasta", "fiori"],
+    "ingredients": ["chicken", "mushroom", "vin jaune"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Warm Praline Chocolate Mousse, Bitter Chocolate Tuile & Mexican Vanilla Ice Cream",
+    "slug": "S21E04E08",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E04/E08.webp",
+    "cuisines": [],
+    "dishes": ["mousse", "tuile", "ice cream"],
+    "ingredients": ["chocolate", "nuts", "vanilla"],
+    "techniques": ["frozen"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Djon Djon, Egg Mousse, Chicken Skin, Pickled Mushrooms & Peas",
+    "slug": "S21E04E09",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E04/E09.webp",
+    "cuisines": ["Haitian"],
+    "dishes": ["djon djon", "mousse"],
+    "ingredients": ["rice", "egg", "chicken", "mushroom", "peas"],
+    "techniques": ["pickled", "fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Mushroom Biscuit with Chicken Liver Mousse, Sous Vide Chicken & Stewed Apples",
+    "slug": "S21E04E10",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E04/E10.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["biscuit", "mousse"],
+    "ingredients": ["mushroom", "chicken", "chicken liver", "apple"],
+    "techniques": ["sous vide"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Dry Aged Ribeye, Mushroom Tempura, Beet & Daikon Oroshi and Wild Pistachio Sauce",
+    "slug": "S21E04E11",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E04/E11.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["tempura", "oroshi"],
+    "ingredients": ["beef", "ribeye", "mushroom", "beets", "daikon", "pistachio"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Filo Pastry, Pistachios, Pistachio Foam & Raspberry Sauce",
+    "slug": "S21E04E12",
+    "season": 21,
+    "episode": 4,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E04/E12.webp",
+    "cuisines": [],
+    "dishes": ["espuma"],
+    "ingredients": ["filo pastry", "pistachio", "raspberry"],
+    "techniques": ["baked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Quick Pickled Cucumber Salad with Yogurt & Sour Cream Horseradish Sauce",
+    "slug": "S21E05QF01",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E05/QF01.webp",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["cucumber", "yogurt", "sour cream", "horseradish"],
+    "techniques": ["pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Diced Grilled Vegetable Salad with Fried Bread & Fried Egg Aioli with Capers",
+    "slug": "S21E05QF02",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E05/QF02.webp",
+    "cuisines": [],
+    "dishes": ["salad", "aioli"],
+    "ingredients": ["squash", "egg", "capers", "bread"],
+    "techniques": ["grilled", "pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Salad with Mustard & Peach Vinaigrette, Poached Egg, Plums, Peaches & Ground Cherries",
+    "slug": "S21E05QF03",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E05/QF03.webp",
+    "cuisines": [],
+    "dishes": ["salad", "vinaigrette"],
+    "ingredients": ["mustard", "peach", "egg", "plum", "ground cherry", "radish"],
+    "techniques": ["poached"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Poached Egg with Tzigane Rahmschnitzel",
+    "slug": "S21E05QF04",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E05/QF04.webp",
+    "cuisines": ["German"],
+    "dishes": ["rahmschnitzel"],
+    "ingredients": ["veal", "egg", "mushroom", "peppers", "tomato", "bread", "cream", "scallion"],
+    "techniques": ["poached", "pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Fingerling Potato with Honey & Tomato Chèvre & Roasted Pepper Creole Sauce",
+    "slug": "S21E05QF05",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E05/QF05.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["potato", "honey", "tomato", "cheese", "goat cheese", "peppers", "broccoli", "scallion"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Spanish Sauce Moroccan Stew with Bratwurst & Jalapeño Popcorn",
+    "slug": "S21E05QF06",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E05/QF06.webp",
+    "cuisines": ["Moroccan"],
+    "dishes": ["stew"],
+    "ingredients": ["pork", "sausage", "bratwurst", "chiles", "jalapeno", "popcorn", "tomato"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Thai Salad with Coconut Egg Sauce & Sweet Pickles",
+    "slug": "S21E05QF07",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E05/QF07.webp",
+    "cuisines": ["Thai"],
+    "dishes": ["salad", "pickles"],
+    "ingredients": ["coconut", "egg", "shellfish", "shrimp", "tomato", "dill", "pickles"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Spinach & Feta Baked Egg with Sweet & Sour Ground Cherry, Raisin & Ham Sauce",
+    "slug": "S21E05QF08",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E05/QF08.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["spinach", "cheese", "feta", "egg", "ground cherry", "raisins", "pork", "ham"],
+    "techniques": ["baked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Fattoush Salad with Fried Tomatoes, Eggplant & Feta",
+    "slug": "S21E05QF09",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E05/QF09.webp",
+    "cuisines": ["Middle Eastern"],
+    "dishes": ["salad", "fattoush"],
+    "ingredients": ["tomato", "eggplant", "cheese", "feta", "bread", "pita", "mint"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Farmers Market Succotash with Tomato Sauce, Rainbow Trout & Kimchi",
+    "slug": "S21E05QF10",
+    "season": 21,
+    "episode": 5,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E05/QF10.webp",
+    "cuisines": [],
+    "dishes": ["succotash", "kimchi"],
+    "ingredients": ["fish", "trout", "tomato", "corn", "kimchi", "beans", "zucchini"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Pickled Vegetables, Black Garlic Tahini, Labneh with Za'atar, Smoked Whitefish & Frena Bread",
+    "slug": "S21E05E01",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E05/E01.webp",
+    "cuisines": ["Moroccan"],
+    "dishes": ["flatbread"],
+    "ingredients": ["cauliflower", "radish", "carrot", "black garlic", "sesame", "tahini", "yogurt", "labneh", "za'atar", "fish", "smoked fish", "bread"],
+    "techniques": ["pickled", "smoked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Epis-Rubbed Fried Trout, Coconut Epis Sauce & Preserved Lemon Pikliz",
+    "slug": "S21E05E02",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Charly Pierre"],
+    "image": "/S21/E05/E02.webp",
+    "cuisines": ["Haitian"],
+    "dishes": ["epis", "pikliz"],
+    "ingredients": ["fish", "trout", "coconut", "preserved lemon", "cabbage", "carrot", "parsley", "peppers", "scallion", "thyme", "garlic", "chiles", "scotch bonnet"],
+    "techniques": ["fried", "pickled"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Hot Chicken Katsu, Szechuan Mala Spice, Apple Miso Mustard Sauce with Red Cabbage & Sauerkraut Relish",
+    "slug": "S21E05E03",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E05/E03.webp",
+    "cuisines": ["Japanese", "Southern", "Chinese"],
+    "dishes": ["katsu", "relish"],
+    "ingredients": ["chicken", "panko", "apple", "miso", "mustard", "red cabbage", "sauerkraut"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Ancho-Crusted New York Strip Loin, Pommes Purée & Cilantro, Epazote & Marcona Almond Salsa Verde",
+    "slug": "S21E05E04",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E05/E04.webp",
+    "cuisines": [],
+    "dishes": ["puree", "salsa verde"],
+    "ingredients": ["beef", "new york strip", "ancho chile", "chiles", "potato", "cilantro", "epazote", "almonds"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "“Four Leches” - Tres Leches Cake with Brandy Cherries & Chocolate Brandy Cocktail",
+    "slug": "S21E05E05",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E05/E05.webp",
+    "cuisines": ["Latin American"],
+    "dishes": ["cake", "tres leches"],
+    "ingredients": ["cream", "cherry", "brandy", "chocolate"],
+    "techniques": ["baked"],
+    "miscellaneous": ["dessert", "bottom"]
+  },
+  {
+    "name": "Crudités in “Soil”, Steak Tartare, Chicken Liver Mousse, Pickled Shallots & Fried Seed Toast",
+    "slug": "S21E05E06",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E05/E06.webp",
+    "cuisines": [],
+    "dishes": ["tartare", "mousse"],
+    "ingredients": ["carrot", "celery", "breadcrumbs", "beef", "chicken", "chicken liver", "shallot", "poppy seeds"],
+    "techniques": ["pickled", "fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Semolina Fried Snapper, Peanut & Jaggery Dip & Smoked Sturgeon Herb Sauce",
+    "slug": "S21E05E07",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E05/E07.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "snapper", "peanuts", "jaggery", "smoked fish"],
+    "techniques": ["fried", "smoked"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Chicken Tonkatsu, White Sturgeon Caviar Emulsion & Sweet Pickled Cabbage",
+    "slug": "S21E05E08",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E05/E08.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["katsu"],
+    "ingredients": ["chicken", "panko", "caviar", "cabbage"],
+    "techniques": ["fried", "pickled"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Beef Tenderloin with Sherry Jus & Confit Potatoes",
+    "slug": "S21E05E09",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E05/E09.webp",
+    "cuisines": [],
+    "dishes": ["jus"],
+    "ingredients": ["beef", "tenderloin", "sherry", "potato", "chives"],
+    "techniques": ["confit"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Coconut Bread Pudding with Pineapple Cream Sauce",
+    "slug": "S21E05E10",
+    "season": 21,
+    "episode": 5,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E05/E10.webp",
+    "cuisines": [],
+    "dishes": ["bread pudding"],
+    "ingredients": ["coconut", "bread", "pineapple", "cream"],
+    "techniques": ["baked"],
+    "miscellaneous": ["dessert", "top"]
+  },
+  {
+    "name": "Salted Caramel & Rum Custard, Rum Caramel, Mascarpone & Crème Fraîche Whip",
+    "slug": "S21E06QF01",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E06/QF01.webp",
+    "cuisines": [],
+    "dishes": ["custard"],
+    "ingredients": ["caramel", "rum", "cheese", "mascarpone", "creme fraiche", "cream", "nuts"],
+    "techniques": [],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Fried Churro with Orange Blossom & Lemon Whipped Cream & Strawberry Compote",
+    "slug": "S21E06QF02",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E06/QF02.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["churros", "compote"],
+    "ingredients": ["cream", "lemon", "orange", "strawberry"],
+    "techniques": ["fried"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Cheddar Biscuit Shortcake with Banana Pastry Cream & Vanilla Chantilly",
+    "slug": "S21E06QF03",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E06/QF03.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["biscuit", "custard"],
+    "ingredients": ["cheese", "cheddar", "banana", "cream", "vanilla"],
+    "techniques": ["baked"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Shrikhand with Saffron",
+    "slug": "S21E06QF04",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E06/QF04.webp",
+    "cuisines": ["Indian"],
+    "dishes": ["shrikhand"],
+    "ingredients": ["yogurt", "saffron", "pistachio"],
+    "techniques": [],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "“PB&J” - Brioche Purée, Brioche Shards, Peanut Brittle & Pasilla Pepper-Blueberry Jam",
+    "slug": "S21E06QF05",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E06/QF05.webp",
+    "cuisines": [],
+    "dishes": ["puree", "jam"],
+    "ingredients": ["brioche", "peanuts", "pasilla chile", "chiles", "blueberry"],
+    "techniques": [],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Corn Cake with Mascarpone Cheese, Basil Cream & Lemon Zest",
+    "slug": "S21E06QF06",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E06/QF06.webp",
+    "cuisines": [],
+    "dishes": ["corn cake", "cake"],
+    "ingredients": ["corn", "cheese", "mascarpone", "basil", "cream", "lemon"],
+    "techniques": [],
+    "miscellaneous": ["dessert", "winning"]
+  },
+  {
+    "name": "Chocolate Muhallebi, Espresso Whipped Cream, Butter Crumble & Caramel",
+    "slug": "S21E06QF07",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E06/QF07.webp",
+    "cuisines": ["Middle Eastern"],
+    "dishes": ["pudding", "crumble", "muhallebi"],
+    "ingredients": ["chocolate", "espresso", "cream", "butter", "caramel"],
+    "techniques": [],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Cream Puff with Black Sesame Pastry Cream",
+    "slug": "S21E06QF08",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E06/QF08.webp",
+    "cuisines": [],
+    "dishes": ["cream puff"],
+    "ingredients": ["sesame", "cream"],
+    "techniques": ["baked"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Floating Island - Crème Anglaise with Meringue, Apple & Cranberry Vinegar",
+    "slug": "S21E06QF09",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E06/QF09.webp",
+    "cuisines": [],
+    "dishes": ["creme anglaise", "meringue"],
+    "ingredients": ["egg", "apple", "cranberry", "vinegar"],
+    "techniques": [],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Shortbread Cookie, Strawberry & Basil Jam, Cream Cheese Vanilla Chantilly & Butter Tuile",
+    "slug": "S21E06QF10",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E06/QF10.webp",
+    "cuisines": [],
+    "dishes": ["jam", "tuile", "shortbread"],
+    "ingredients": ["cookie", "strawberry", "basil", "cheese", "cream cheese", "cream", "vanilla", "butter"],
+    "techniques": ["baked"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Dark Chocolate Pudding, Macerated Plums, Basil & Fried Baguette",
+    "slug": "S21E06QF11",
+    "season": 21,
+    "episode": 6,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E06/QF11.webp",
+    "cuisines": [],
+    "dishes": ["pudding"],
+    "ingredients": ["chocolate", "plum", "basil", "baguette", "bread"],
+    "techniques": ["fried"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Tahdig, Yuzu Kosho Sauce, Quail Eggs, Salmon & Seaweed Salad",
+    "slug": "S21E06E01",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E06/E01.webp",
+    "cuisines": ["Persian"],
+    "dishes": ["tahdig", "salad"],
+    "ingredients": ["rice", "saffron", "egg", "quail egg", "yuzu", "fish", "salmon", "salmon roe", "seaweed", "cucumber"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Black Garlic Pappardelle with Cumin Lamb Ragù, XO Sauce, Celery Leaf & Shrimp Chips",
+    "slug": "S21E06E02",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E06/E02.webp",
+    "cuisines": ["Italian", "Chinese"],
+    "dishes": ["pappardelle", "pasta", "ragu", "xo sauce"],
+    "ingredients": ["black garlic", "lamb", "cumin", "celery", "shellfish", "shrimp"],
+    "techniques": ["braised"],
+    "miscellaneous": []
+  },
+  {
+    "name": "General Soo's Shrimp with Salsa Verde & Salsa Roja",
+    "slug": "S21E06E03",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E06/E03.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["salsa"],
+    "ingredients": ["shellfish", "shrimp", "chiles", "cilantro", "tomato", "tomatillo"],
+    "techniques": ["fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Esquites “Risotto” with Burnt Tortilla Aioli",
+    "slug": "S21E06E04",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E06/E04.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["esquites", "risotto", "aioli"],
+    "ingredients": ["corn", "tortilla", "cheese", "jalapeno"],
+    "techniques": ["charred"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato with Raspberry, Tarragon & White Chocolate",
+    "slug": "S21E06E05",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E06/E05.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["potato", "raspberry", "tarragon", "chocolate", "white chocolate"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Vietnamese Shrimp & Pork Arayes, Puffed Rice & Herb Salad",
+    "slug": "S21E06E06",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E06/E06.webp",
+    "cuisines": ["Vietnamese", "Lebanese"],
+    "dishes": ["arayes", "salad", "puffed grain"],
+    "ingredients": ["shellfish", "shrimp", "pork", "rice", "carrot"],
+    "techniques": ["grilled"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Okonomiyaki Funnel Cake with Seafood, Bacon, Pickles, Caviar & Herbs",
+    "slug": "S21E06E07",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E06/E07.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["okonomiyaki", "funnel cake", "pickles"],
+    "ingredients": ["shellfish", "scallop", "pork", "bacon", "caviar", "cabbage"],
+    "techniques": ["fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Crab & Eggplant with Mushroom Conserva, Dukkah & Garlic Tahini",
+    "slug": "S21E06E08",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Rasika Venkatesa"],
+    "image": "/S21/E06/E08.webp",
+    "cuisines": ["Middle Eastern"],
+    "dishes": ["dukkah", "conserva"],
+    "ingredients": ["shellfish", "crab", "eggplant", "mushroom", "nuts", "garlic", "tahini", "sesame"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "“Trash Burrito” Agnolotti with Ancho Chile & Morita Crema",
+    "slug": "S21E06E09",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E06/E09.webp",
+    "cuisines": ["Italian", "Mexican"],
+    "dishes": ["agnolotti", "pasta", "crema"],
+    "ingredients": ["morita chile", "ancho chile", "chiles", "corn", "cheese", "cotija"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato Soufflé with Golden Milk, Tropical Fruit & Mustard Greens",
+    "slug": "S21E06E10",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E06/E10.webp",
+    "cuisines": ["French"],
+    "dishes": ["souffle"],
+    "ingredients": ["potato", "turmeric", "mustard greens", "milk"],
+    "techniques": ["fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Scallop Chou Farci with Yuzu Kosho Foam",
+    "slug": "S21E06E11",
+    "season": 21,
+    "episode": 6,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E06/E11.webp",
+    "cuisines": ["French"],
+    "dishes": ["chou farci"],
+    "ingredients": ["shellfish", "scallop", "cabbage", "yuzu"],
+    "techniques": ["steamed"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Grilled Shrimp Flambé au Pastis with Fennel Potato Purée",
+    "slug": "S21E07QF01",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E07/QF01.webp",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["shellfish", "shrimp", "pastis", "fennel", "potato", "tomato"],
+    "techniques": ["grilled", "flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Flambéed Bourbon, Fish Sauce Caramel, Whipped Crème Fraîche, Brioche & Brûléed Bananas",
+    "slug": "S21E07QF02",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E07/QF02.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["bourbon", "fish sauce", "caramel", "creme fraiche", "brioche", "banana", "sesame", "basil"],
+    "techniques": ["flambeed", "bruleed"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Pan Roasted Sea Bass, Flambé Vermouth Sauce, Radicchio & Apples",
+    "slug": "S21E07QF03",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E07/QF03.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "sea bass", "vermouth", "radicchio", "apple", "capers", "dill"],
+    "techniques": ["pan-fried", "flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Sautéed Mushrooms with Mezcal, Marsala, Ricotta & Pecorino with Toast",
+    "slug": "S21E07QF04",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E07/QF04.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["mushroom", "mezcal", "marsala", "cheese", "ricotta", "pecorino", "bread"],
+    "techniques": ["pan-fried", "flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Saganaki with Cheese, Toasted White Bread, Molasses & Flambéed Peaches",
+    "slug": "S21E07QF05",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E07/QF05.webp",
+    "cuisines": ["Greek"],
+    "dishes": ["saganaki"],
+    "ingredients": ["cheese", "bread", "molasses", "peach"],
+    "techniques": ["flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Kimchi & Scallion Doughnut, Bourbon-Flambéed Peaches & Jalapeño",
+    "slug": "S21E07QF06",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E07/QF06.webp",
+    "cuisines": [],
+    "dishes": ["doughnut"],
+    "ingredients": ["kimchi", "scallion", "bourbon", "peach", "jalapeno"],
+    "techniques": ["fried", "flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Grilled Prawns with Satsuma & Habanero Sauce, Flambé Mezcal",
+    "slug": "S21E07QF07",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E07/QF07.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["shellfish", "shrimp", "satsuma", "chiles", "habanero", "mezcal", "onion"],
+    "techniques": ["grilled", "flambeed"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "French Toast Brioche, Cachaça Flambéed Mango, with Lime, Coconut & Vanilla Meringue",
+    "slug": "S21E07QF08",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E07/QF08.webp",
+    "cuisines": [],
+    "dishes": ["french toast", "meringue"],
+    "ingredients": ["brioche", "egg", "cachaca", "mango", "lime", "coconut", "vanilla"],
+    "techniques": ["flambeed", "bruleed"],
+    "miscellaneous": ["dessert"]
+  },
+  {
+    "name": "Grilled Radicchio & Cucumber Salad with Garlic Ground Cherry Pernod Emulsion",
+    "slug": "S21E07QF09",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E07/QF09.webp",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["radicchio", "cucumber", "garlic", "ground cherry", "pernod", "apple"],
+    "techniques": ["grilled", "flambeed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Flambéed Mushroom & Bacon Toast, Sweet Potato Purée & Herbed Goat Cheese",
+    "slug": "S21E07QF10",
+    "season": 21,
+    "episode": 7,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E07/QF10.webp",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["mushroom", "pork", "bacon", "bread", "sweet potato", "goat cheese"],
+    "techniques": ["flambeed"],
+    "miscellaneous": []
+  },
+    {
+    "name": "Corn Dog with Wasabi & Jalapeño Mayo",
+    "slug": "S21E07E01",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E07/E01.webp",
+    "cuisines": [],
+    "dishes": ["corn dog"],
+    "ingredients": ["sausage", "corn", "wasabi", "chiles", "jalapeno", "mayo", "fish", "bonito", "ginger"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Bacon-Wrapped Hot Dog with Braised Cabbage & Beet Relish",
+    "slug": "S21E07E02",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E07/E02.webp",
+    "cuisines": [],
+    "dishes": ["relish"],
+    "ingredients": ["sausage", "pork", "bacon", "cheese", "cabbage", "beet", "bread"],
+    "techniques": ["braised"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Pierogi with Fennel & Apple Salad",
+    "slug": "S21E07E03",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E07/E03.webp",
+    "cuisines": ["Polish"],
+    "dishes": ["pierogi", "salad"],
+    "ingredients": ["pork", "sausage", "fennel", "apple", "scallion"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Étouffée with Creamy Grits",
+    "slug": "S21E07E04",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E07/E04.webp",
+    "cuisines": ["Creole"],
+    "dishes": ["etouffee", "grits"],
+    "ingredients": ["pork", "sausage", "cornmeal", "tomato", "peppers"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Risotto with Roasted Parmesan Emulsion & Fennel",
+    "slug": "S21E07E05",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E07/E05.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["risotto"],
+    "ingredients": ["pork", "sausage", "rice", "cheese", "parmesan", "fennel", "scallion"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Potato Gnocchi with Italian Sausage & Calabrian Chili Ragù",
+    "slug": "S21E07E06",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E07/E06.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["gnocchi", "pasta", "ragu"],
+    "ingredients": ["potato", "pork", "sausage", "chiles", "calabrian chile", "tomato", "cheese"],
+    "techniques": [],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Chorizo & Cheese Tetela with Roasted Salsa & Avocado Crema",
+    "slug": "S21E07E07",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E07/E07.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["tetela", "salsa", "crema"],
+    "ingredients": ["pork", "sausage", "chorizo", "cheese", "corn", "tomato", "avocado", "cilantro"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Chorizo Kebab Taco with Yogurt Sauce",
+    "slug": "S21E07E08",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E07/E08.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["kebab", "taco"],
+    "ingredients": ["pork", "sausage", "chorizo", "tortilla", "yogurt", "potato", "cilantro"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato Pancake, Charred Cabbage, Sauerkraut, Mustard Butter & Herbs",
+    "slug": "S21E07E09",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E07/E09.webp",
+    "cuisines": ["German"],
+    "dishes": ["potato pancake"],
+    "ingredients": ["pork", "sausage", "potato", "cabbage", "sauerkraut", "mustard", "butter", "apple"],
+    "techniques": ["charred"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Rye & Caraway Spaetzle, Caramelized Onion with Beer & Mustard Sauce, Crispy Sauerkraut",
+    "slug": "S21E07E10",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E07/E10.webp",
+    "cuisines": ["German"],
+    "dishes": ["spatzle"],
+    "ingredients": ["pork", "sausage", "rye", "caraway", "onion", "beer", "mustard", "sauerkraut", "cabbage"],
+    "techniques": ["caramelized", "fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Beef Tartare, Cilantro Green Goddess, Gochujang, Rice Cracker",
+    "slug": "S21E08E01",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E08/E01.webp",
+    "cuisines": [],
+    "dishes": ["tartare"],
+    "ingredients": ["beef", "cilantro", "gochujang", "rice"],
+    "techniques": ["fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Melon & Dungeness Crab Aguachile, Pickled Bamboo, Furikake Tostada",
+    "slug": "S21E08E02",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss"],
+    "image": "/S21/E08/E02.webp",
+    "cuisines": ["Mexican", "Japanese"],
+    "dishes": ["aguachile"],
+    "ingredients": ["shellfish", "crab", "melon", "bamboo shoot", "furikake", "tortilla"],
+    "techniques": ["pickled", "fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Smoked Walleye, Labneh, Potato Cake, Harissa",
+    "slug": "S21E08E03",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E08/E03.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["fish", "smoked fish", "walleye", "yogurt", "labneh", "potato", "harissa", "dill"],
+    "techniques": ["smoked", "fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Chawanmushi with Scallop, Maitake, Ikura",
+    "slug": "S21E08E04",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E08/E04.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["chawanmushi"],
+    "ingredients": ["egg", "shellfish", "scallop", "mushroom", "maitake", "salmon roe"],
+    "techniques": ["steamed"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Rice Cakes, Salsa Verde, Chinese Sausage & Pepita",
+    "slug": "S21E08E05",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E08/E05.webp",
+    "cuisines": ["Chinese", "Mexican"],
+    "dishes": ["salsa verde"],
+    "ingredients": ["rice cakes", "sausage", "pork", "pumpkin seeds", "scallion", "sesame"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Miso Butter-Poached Shrimp, Kimchi Jicama & Bok Choy",
+    "slug": "S21E08E06",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E08/E06.webp",
+    "cuisines": ["Korean"],
+    "dishes": [],
+    "ingredients": ["shellfish", "shrimp", "miso", "butter", "kimchi", "jicama", "bok choy", "cilantro"],
+    "techniques": ["poached"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Fried Catfish with Dirty Rice Cake",
+    "slug": "S21E08E07",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E08/E07.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["dirty rice"],
+    "ingredients": ["fish", "catfish", "rice"],
+    "techniques": ["fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "“New England Clam Chowder” - Grilled Carrots with Old Bay, Clams & Thyme",
+    "slug": "S21E08E08",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E08/E08.webp",
+    "cuisines": ["Northeast American"],
+    "dishes": ["chowder"],
+    "ingredients": ["carrot", "shellfish", "clam", "old bay", "thyme", "cream"],
+    "techniques": ["grilled"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Vegan Gumbo Z'herbes - Greens, Grilled Mushrooms & Kombu",
+    "slug": "S21E08E09",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E08/E09.webp",
+    "cuisines": ["Creole"],
+    "dishes": ["gumbo"],
+    "ingredients": ["mushroom", "kombu", "rice", "scallion"],
+    "techniques": ["grilled"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Honey Custard, Jasmine Tea & Citrus Gelée, Buckwheat Crumble",
+    "slug": "S21E08E10",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia", "Amanda Turner"],
+    "image": "/S21/E08/E10.webp",
+    "cuisines": [],
+    "dishes": ["custard", "gelee", "crumble"],
+    "ingredients": ["honey", "tea", "jasmine", "citrus", "buckwheat"],
+    "techniques": [],
+    "miscellaneous": ["dessert", "top"]
+  },
+  {
+    "name": "Maple Crémeux, Blueberry, Pistachio & Caramel",
+    "slug": "S21E08E11",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E08/E11.webp",
+    "cuisines": [],
+    "dishes": ["cremeux"],
+    "ingredients": ["maple", "blueberry", "pistachio", "caramel"],
+    "techniques": [],
+    "miscellaneous": ["dessert", "winning"]
+  },
+  {
+    "name": "Beef Tenderloin with Mole Negro, Shimeji Mushrooms & Black Garlic",
+    "slug": "S21E08E12",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E08/E12.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["mole"],
+    "ingredients": ["beef", "tenderloin", "mushroom", "hon-shimeji", "black garlic", "chiles", "ancho chile"],
+    "techniques": [],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Pork Tenderloin à la Talla, Charred Pineapple, Black Bean & Onion Purée",
+    "slug": "S21E08E13",
+    "season": 21,
+    "episode": 8,
+    "competition": "Elimination",
+    "chef": ["Kaleena Bliss", "Laura Ozyilmaz", "Soo Ahn", "Manny Barella"],
+    "image": "/S21/E08/E13.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["puree"],
+    "ingredients": ["pork", "tenderloin", "pineapple", "beans", "onion"],
+    "techniques": ["charred"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Cranberry & Walnut Fesenjān with Pork",
+    "slug": "S21E09QF01",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E09/QF01.webp",
+    "cuisines": ["Persian"],
+    "dishes": ["fesenjan"],
+    "ingredients": ["cranberry", "walnut", "pork"],
+    "techniques": ["braised"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Pork Tenderloin with Brandy & Cranberry Sabayon, Roasted Radicchio, Cranberry & Orange Vinaigrette",
+    "slug": "S21E09QF02",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E09/QF02.webp",
+    "cuisines": ["French"],
+    "dishes": ["sabayon", "vinaigrette"],
+    "ingredients": ["pork", "tenderloin", "brandy", "cranberry", "radicchio", "orange"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Salt & Pepper Scallops with Cranberry Red Curry & Herbs",
+    "slug": "S21E09QF03",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E09/QF03.webp",
+    "cuisines": ["Thai"],
+    "dishes": ["curry"],
+    "ingredients": ["shellfish", "scallop", "cranberry", "chiles", "cilantro"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Beef Carpaccio with Beet, Blackberry & Cranberry Chutney",
+    "slug": "S21E09QF04",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E09/QF04.webp",
+    "cuisines": [],
+    "dishes": ["carpaccio", "chutney"],
+    "ingredients": ["beef", "beet", "blackberry", "cranberry", "tarragon", "rice"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cranberry-Poached Sea Bass with Cranberry Panade",
+    "slug": "S21E09QF05",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E09/QF05.webp",
+    "cuisines": ["French"],
+    "dishes": ["panade"],
+    "ingredients": ["fish", "sea bass", "cranberry", "radish"],
+    "techniques": ["poached"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Corn & Cranberry Hoe Cake with Fried Chicken & Cranberry-Maple Sauce",
+    "slug": "S21E09QF06",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E09/QF06.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["hoe cake", "fried chicken"],
+    "ingredients": ["corn", "cranberry", "chicken", "maple"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Cranberry Beet Soup with Seared Foie Gras & Maple Mascarpone",
+    "slug": "S21E09QF07",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E09/QF07.webp",
+    "cuisines": [],
+    "dishes": ["soup"],
+    "ingredients": ["cranberry", "beet", "foie gras", "maple", "cheese", "mascarpone", "bread"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Seared Scallop with Cranberry-Nori Relish & Cranberry Hot Sauce",
+    "slug": "S21E09QF08",
+    "season": 21,
+    "episode": 9,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E09/QF08.webp",
+    "cuisines": [],
+    "dishes": ["relish", "hot sauce"],
+    "ingredients": ["shellfish", "scallop", "cranberry", "nori", "chiles"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Acorn Squash Polenta Cake, Braised Rabbit, Smoked Onion & Mushrooms",
+    "slug": "S21E09E01",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E09/E01.webp",
+    "cuisines": [],
+    "dishes": ["polenta cake"],
+    "ingredients": ["squash", "cornmeal", "rabbit", "onion", "mushroom"],
+    "techniques": ["braised", "smoked"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Elk Tataki Tartare, Confit Mushrooms, Pipián Rojo & Duck Fat Tortilla",
+    "slug": "S21E09E02",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E09/E02.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["tartare", "pipian"],
+    "ingredients": ["elk", "mushroom", "pumpkin seeds", "chiles", "duck", "tortilla"],
+    "techniques": ["confit"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Pheasant Crépinette with Mole & Roasted Sunchokes",
+    "slug": "S21E09E03",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E09/E03.webp",
+    "cuisines": ["French", "Mexican"],
+    "dishes": ["crepinette", "mole"],
+    "ingredients": ["pheasant", "sunchoke", "chiles"],
+    "techniques": ["roasted"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Duck Tamal Wrapped in Mustard Greens with Huckleberry Sauce & Haroset",
+    "slug": "S21E09E04",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E09/E04.webp",
+    "cuisines": ["Mexican", "Middle Eastern"],
+    "dishes": ["tamal", "haroset"],
+    "ingredients": ["duck", "mustard greens", "huckleberry", "masa", "nuts"],
+    "techniques": ["steamed"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Sunflower Choke with Braised Goose & Aronia Berry Purée",
+    "slug": "S21E09E05",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E09/E05.webp",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["sunchoke", "goose", "aronia berry"],
+    "techniques": ["braised"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Roasted Butternut Squash, Huitlacoche Purée & Wild Rice Gnocchi",
+    "slug": "S21E09E06",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E09/E06.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["gnocchi", "puree"],
+    "ingredients": ["squash", "huitlacoche", "wild rice", "mint"],
+    "techniques": ["roasted"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Duck Breast with Braised Mustard Greens, Wild Rice Cake, Ancho, Guajillo & Plum Sauce",
+    "slug": "S21E09E07",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E09/E07.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["duck", "duck breast", "mustard greens", "wild rice", "ancho chile", "guajillo", "chiles", "plum"],
+    "techniques": ["braised"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Squash & Maple Jelly Cake with Aronia Berries, Grapes & Plum Jelly",
+    "slug": "S21E09E08",
+    "season": 21,
+    "episode": 9,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E09/E08.webp",
+    "cuisines": [],
+    "dishes": ["cake"],
+    "ingredients": ["squash", "maple", "aronia berry", "grapes", "plum", "pine nuts"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Za'atar Spiced Lamb Rack, Jimmy Nardello Harissa Relish, Labneh, Mint",
+    "slug": "S21E10QF01",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E10/QF01.webp",
+    "cuisines": [],
+    "dishes": ["relish"],
+    "ingredients": ["lamb", "lamb rack", "za'atar", "peppers", "harissa", "yogurt", "labneh", "mint"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Sichuan Chateaubriand Noodle Dumpling",
+    "slug": "S21E10QF02",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E10/QF02.webp",
+    "cuisines": ["Chinese"],
+    "dishes": ["dumpling"],
+    "ingredients": ["beef", "noodles", "dill", "cilantro", "scallion"],
+    "techniques": ["steamed"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Jerk Chicken Nugget, Black Bean Purée, Pickled Mango Salsa",
+    "slug": "S21E10QF03",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E10/QF03.webp",
+    "cuisines": ["Jamaican"],
+    "dishes": ["jerk", "puree", "salsa"],
+    "ingredients": ["chicken", "beans", "mango", "onion", "cilantro"],
+    "techniques": ["fried", "pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Dosirak with Luncheon Meat, Marinated Egg, Jasmine Rice & Brussels Sprouts",
+    "slug": "S21E10QF04",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E10/QF04.webp",
+    "cuisines": ["Korean"],
+    "dishes": ["dosirak"],
+    "ingredients": ["pork", "spam", "egg", "rice", "brussels sprouts", "seaweed", "sesame"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Crispy Corned Beef & Beet Salad, Crème Fraîche & Pickled Celery",
+    "slug": "S21E10QF05",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E10/QF05.webp",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["beef", "corned beef", "beets", "creme fraiche", "celery", "dill"],
+    "techniques": ["fried", "pickled"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Wagyu Ribeye Aguachile, Serrano Chiles Toreados, Onion & Cilantro Relish",
+    "slug": "S21E10QF06",
+    "season": 21,
+    "episode": 10,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E10/QF06.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["aguachile", "relish"],
+    "ingredients": ["beef", "ribeye", "chiles", "serrano", "onion", "cilantro", "avocado", "radish"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Sofrito Boil, Salsa Verde, Carrot Slaw, French Bean & Bonito Salad",
+    "slug": "S21E10E01",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E10/E01.webp",
+    "cuisines": ["Latin American"],
+    "dishes": ["fish boil", "sofrito", "salsa verde", "slaw", "salad"],
+    "ingredients": ["fish", "carrot", "beans", "bonito"],
+    "techniques": ["poached"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Kimchi Gochujang Boil, Baby Potatoes, Smashed Tofu Salad",
+    "slug": "S21E10E02",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E10/E02.webp",
+    "cuisines": ["Korean"],
+    "dishes": ["fish boil", "kimchi", "salad"],
+    "ingredients": ["fish", "kimchi", "gochujang", "potato", "tofu"],
+    "techniques": ["poached"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Pineapple Curry Fish Boil, Fish Sauce Beurre Blanc, Twice-Cooked Potatoes, Crispy Corn Miso Slaw",
+    "slug": "S21E10E03",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Soo Ahn"],
+    "image": "/S21/E10/E03.webp",
+    "cuisines": [],
+    "dishes": ["fish boil", "curry", "beurre blanc", "slaw"],
+    "ingredients": ["fish", "pineapple", "curry", "fish sauce", "butter", "potato", "corn", "miso"],
+    "techniques": ["poached", "fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Red Curry Boil, Coconut & Herb Slaw with Peanuts, Fingerlings with Duck Fat & Shiro Dashi Oil",
+    "slug": "S21E10E04",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E10/E04.webp",
+    "cuisines": ["Thai"],
+    "dishes": ["fish boil", "curry", "slaw"],
+    "ingredients": ["fish", "curry", "coconut", "peanuts", "potato", "duck", "shiro dashi"],
+    "techniques": ["poached", "fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Cajun Boil, Charred Corn & Kale Salad, Potatoes with Sausage, Peach & Garlic Butter Sauce",
+    "slug": "S21E10E05",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E10/E05.webp",
+    "cuisines": ["Creole"],
+    "dishes": ["fish boil", "salad"],
+    "ingredients": ["fish", "cajun spice", "corn", "greens", "kale", "potato", "sausage", "pork", "peach", "garlic", "butter"],
+    "techniques": ["poached", "charred"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Mexican Boil, Tostadas with Guacamole, Mexican White Rice with Corn & Chipotle Lime Butter",
+    "slug": "S21E10E06",
+    "season": 21,
+    "episode": 10,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E10/E06.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["fish boil", "tostada", "guacamole"],
+    "ingredients": ["fish", "masa", "avocado", "rice", "corn", "chiles", "chipotle", "lime", "butter"],
+    "techniques": ["poached", "fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Marinated & Poached Lobster with Herb Salad",
+    "slug": "S21E11QF01",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E11/QF01.webp",
+    "cuisines": [],
+    "dishes": ["salad"],
+    "ingredients": ["shellfish", "lobster"],
+    "techniques": ["poached"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Poached Lobster, Bok Choy, Lime Juice, Cilantro, Parsley, Ginger & Seafood Stock",
+    "slug": "S21E11QF02",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E11/QF02.webp",
+    "cuisines": [],
+    "dishes": ["broth"],
+    "ingredients": ["shellfish", "lobster", "bok choy", "lime", "cilantro", "parsley", "ginger"],
+    "techniques": ["poached"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Lobster Stir Fry with Red Fresno Chilis, Bok Choy & Garlic with Fish Sauce & Soy Sauce",
+    "slug": "S21E11QF03",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E11/QF03.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["shellfish", "lobster", "chiles", "fresno chile", "bok choy", "garlic", "fish sauce", "soy sauce"],
+    "techniques": ["stir-fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Blanched Lobster with Curry, Fresno Chilis, Garlic, Parsley & Fish Sauce",
+    "slug": "S21E11QF04",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E11/QF04.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["shellfish", "lobster", "curry", "chiles", "fresno chile", "garlic", "parsley", "fish sauce"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Lobster Stir Fry with Lemongrass, Onions, Ginger, Bok Choy & Cilantro",
+    "slug": "S21E11QF05",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E11/QF05.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["shellfish", "lobster", "lemongrass", "onion", "ginger", "bok choy", "cilantro"],
+    "techniques": ["stir-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Poached Lobster & Fennel Curry with Salad of Bok Choy, Cilantro & Parsley",
+    "slug": "S21E11QF06",
+    "season": 21,
+    "episode": 11,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E11/QF06.webp",
+    "cuisines": [],
+    "dishes": ["curry", "salad"],
+    "ingredients": ["shellfish", "lobster", "fennel", "bok choy", "cilantro", "parsley"],
+    "techniques": ["poached"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Paella with Black Rice & Piquillo Pepper Purée, Frame of Black Garlic, Zucchini & Crème Fraîche Purées",
+    "slug": "S21E11E01",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E11/E01.webp",
+    "cuisines": ["Spanish"],
+    "dishes": ["paella", "puree"],
+    "ingredients": ["rice", "black rice", "peppers", "garlic", "black garlic", "zucchini", "creme fraiche", "shellfish", "shrimp", "mussels", "squid"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Beet Tartare with Beet Purée, Fried Kale & Pumpkin Seed Purée with Fried Kale Salad & Candied Pumpkin Seeds, Scallion Powder, Black Garlic Labneh with Harissa Oil, Horseradish Emulsion & “Puffin”",
+    "slug": "S21E11E02",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E11/E02.webp",
+    "cuisines": [],
+    "dishes": ["tartare", "puree", "salad", "emulsion"],
+    "ingredients": ["beets", "kale", "greens", "pumpkin seeds", "scallion", "black garlic", "garlic", "labneh", "yogurt", "harissa", "horseradish"],
+    "techniques": ["fried", "candied"],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Squid Ink Risotto with Crab, Scallops & Shrimp, Calabrian Chili Oil, Sundried Tomato Purée & Pesto Trapanese",
+    "slug": "S21E11E03",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E11/E03.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["risotto", "chili oil", "puree", "pesto"],
+    "ingredients": ["squid ink", "rice", "shellfish", "crab", "scallop", "shrimp", "chiles", "calabrian chile", "tomato", "sundried tomato", "nuts", "almond"],
+    "techniques": [],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Cured Salmon, Salmon Mousse, Beet Biscuits, Pickled Beets with Capers, Eggs with Caviar, Fig & Bacon Jam, Seasoned Potato Chips",
+    "slug": "S21E11E04",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Michelle Wallace"],
+    "image": "/S21/E11/E04.webp",
+    "cuisines": [],
+    "dishes": ["mousse", "biscuit", "jam"],
+    "ingredients": ["fish", "salmon", "beets", "capers", "egg", "caviar", "fig", "bacon", "pork", "potato"],
+    "techniques": ["cured", "pickled", "fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Kombu Cured Salmon Nigiri with Mustard Green Wasabi, Shrimp Tempura with Yuzu Salt & Yuzu Ponzu Daikon Gane, Boiled & Grilled Octopus with Wasabi, Seared Tuna with Fennel Pollen, Coriander & White Pepper with Black Garlic Soy Glaze, Oyster with Aji Amarillo Sauce, Champagne Gelée & Caviar",
+    "slug": "S21E11E05",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E11/E05.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["nigiri", "tempura", "ponzu", "gelee"],
+    "ingredients": ["fish", "salmon", "seaweed", "mustard greens", "wasabi", "rice", "shellfish", "shrimp", "yuzu", "daikon", "octopus", "tuna", "fennel", "black garlic", "garlic", "soy sauce", "oyster", "caviar", "champagne"],
+    "techniques": ["cured", "fried", "grilled", "pan-fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Meringue & Baklava - Rose, Sour Cherry, Pistachio & Honey Sauces with Clotted Cream, Sour Cherry & Honey Maraş",
+    "slug": "S21E11E06",
+    "season": 21,
+    "episode": 11,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E11/E06.webp",
+    "cuisines": ["Turkish"],
+    "dishes": ["baklava", "meringue", "ice cream", "maras"],
+    "ingredients": ["rose", "cherry", "sour cherry", "pistachio", "honey", "cream", "clotted cream", "phyllo", "egg"],
+    "techniques": ["baked", "frozen"],
+    "miscellaneous": ["dessert", "winning"]
+  },
+  {
+    "name": "Salmon Crudo with Edamame-Jalapeño Purée, Parsley & Gooseberry Relish",
+    "slug": "S21E12QF01",
+    "season": 21,
+    "episode": 12,
+    "competition": "Quickfire",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E12/QF01.webp",
+    "cuisines": [],
+    "dishes": ["crudo", "puree", "relish"],
+    "ingredients": ["fish", "salmon", "edamame", "jalapeno", "chiles", "parsley", "gooseberry"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Grilled Flank Steak, Scrambled Eggs with Hook’s Cheddar & Horseradish, Red Wine & Sour Cream Sauce",
+    "slug": "S21E12QF02",
+    "season": 21,
+    "episode": 12,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E12/QF02.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["beef", "flank steak", "egg", "cheese", "cheddar", "horseradish", "red wine", "sour cream"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Fried Pork Chop, Faux Caesar with Cheddar & Horseradish-Kalamata Olive Sauce",
+    "slug": "S21E12QF03",
+    "season": 21,
+    "episode": 12,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E12/QF03.webp",
+    "cuisines": [],
+    "dishes": [],
+    "ingredients": ["pork", "pork chop", "garlic", "cheese", "cheddar", "horseradish", "olives"],
+    "techniques": ["fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Grilled Flank Steak with Watermelon & Gooseberry Jus, Okra with Parsley, Anchovy & Horseradish Gremolata",
+    "slug": "S21E12QF04",
+    "season": 21,
+    "episode": 12,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E12/QF04.webp",
+    "cuisines": [],
+    "dishes": ["jus", "gremolata"],
+    "ingredients": ["beef", "flank steak", "watermelon", "gooseberry", "okra", "parsley", "anchovy", "horseradish"],
+    "techniques": ["grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Mussel Escabeche with Umeboshi, Anchovies & Herbs, Rosemary Cracker, Watermelon & Gooseberries",
+    "slug": "S21E12QF05",
+    "season": 21,
+    "episode": 12,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E12/QF05.webp",
+    "cuisines": [],
+    "dishes": ["escabeche", "cracker"],
+    "ingredients": ["shellfish", "mussels", "umeboshi", "anchovy", "rosemary", "watermelon", "gooseberry"],
+    "techniques": ["pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Potato Pavé, Burnt Onion & Cherry Jam, Chicken Sauce Reduction",
+    "slug": "S21E12E01",
+    "season": 21,
+    "episode": 12,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E12/E01.webp",
+    "cuisines": [],
+    "dishes": ["pave", "jam"],
+    "ingredients": ["potato", "onion", "cherry", "chicken"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Snapper à la Veracruzana with Creamy Potatoes & Saltines",
+    "slug": "S21E12E02",
+    "season": 21,
+    "episode": 12,
+    "competition": "Elimination",
+    "chef": ["Manny Barella"],
+    "image": "/S21/E12/E02.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["veracruzana"],
+    "ingredients": ["fish", "snapper", "tomato", "olives", "capers", "potato", "cracker"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Soba Cha Mushroom Broth, Mushroom Purée & Cod",
+    "slug": "S21E12E03",
+    "season": 21,
+    "episode": 12,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E12/E03.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["broth", "puree"],
+    "ingredients": ["mushroom", "tea", "buckwheat", "fish", "cod"],
+    "techniques": [],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Smoked Walleye & Potato Dumplings with Lemongrass, Turmeric & Brown Butter Emulsion",
+    "slug": "S21E12E04",
+    "season": 21,
+    "episode": 12,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E12/E04.webp",
+    "cuisines": [],
+    "dishes": ["dumpling", "emulsion"],
+    "ingredients": ["fish", "smoked fish", "walleye", "potato", "lemongrass", "turmeric", "butter"],
+    "techniques": ["smoked"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Lamb Manti with Barbacoa Sauce",
+    "slug": "S21E12E05",
+    "season": 21,
+    "episode": 12,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E12/E05.webp",
+    "cuisines": ["Turkish", "Mexican"],
+    "dishes": ["manti", "dumpling"],
+    "ingredients": ["lamb", "yogurt", "tomato", "chiles"],
+    "techniques": [],
+    "miscellaneous": ["top"]
+  },
+  {
+    "name": "Lionfish Tartare, Orange & Fresno Aguachile, Gouda Frico",
+    "slug": "S21E13QF01",
+    "season": 21,
+    "episode": 13,
+    "competition": "Quickfire",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E13/QF01.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["tartare", "aguachile", "frico"],
+    "ingredients": ["fish", "lionfish", "orange", "fresno chile", "chiles", "cheese", "gouda"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Lionfish Crudo, Guava Sauce, Gouda Crunch",
+    "slug": "S21E13QF02",
+    "season": 21,
+    "episode": 13,
+    "competition": "Quickfire",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E13/QF02.webp",
+    "cuisines": [],
+    "dishes": ["crudo"],
+    "ingredients": ["fish", "lionfish", "guava", "cheese", "gouda"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Lionfish Croquette, Gouda Sauce, Red Cabbage Slaw",
+    "slug": "S21E13QF03",
+    "season": 21,
+    "episode": 13,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E13/QF03.webp",
+    "cuisines": [],
+    "dishes": ["croquette", "slaw"],
+    "ingredients": ["fish", "lionfish", "cheese", "gouda", "cabbage"],
+    "techniques": ["fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Lionfish Crudo, Keshi Yena-Inspired Sauce, Gouda Frico, Chili Oil",
+    "slug": "S21E13QF04",
+    "season": 21,
+    "episode": 13,
+    "competition": "Quickfire",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E13/QF04.webp",
+    "cuisines": ["Caribbean"],
+    "dishes": ["crudo", "frico", "chili oil", "keshi yena"],
+    "ingredients": ["fish", "lionfish", "cheese", "gouda", "chiles", "tomato"],
+    "techniques": [],
+    "miscellaneous": []
+  },
+  {
+    "name": "Sake-Cured Salmon Roll, Salmon Tartare, Twice-Fried Plantain, Ginger Dressing",
+    "slug": "S21E13E01",
+    "season": 21,
+    "episode": 13,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E13/E01.webp",
+    "cuisines": ["Japanese"],
+    "dishes": ["tartare"],
+    "ingredients": ["fish", "salmon", "sake", "seaweed", "nori", "rice", "plantain", "ginger"],
+    "techniques": ["cured", "fried"],
+    "miscellaneous": ["bottom"]
+  },
+  {
+    "name": "Black Bass Recado Negro, Squash, Fried Plantain",
+    "slug": "S21E13E02",
+    "season": 21,
+    "episode": 13,
+    "competition": "Elimination",
+    "chef": ["Laura Ozyilmaz"],
+    "image": "/S21/E13/E02.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["recado negro"],
+    "ingredients": ["fish", "bass", "squash", "plantain", "banana leaf"],
+    "techniques": ["steamed", "fried"],
+    "miscellaneous": ["losing"]
+  },
+  {
+    "name": "Sea Bream Mousse, Fines Herbes Salad, Scotch Bonnet & Green Garlic Spheres",
+    "slug": "S21E13E03",
+    "season": 21,
+    "episode": 13,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E13/E03.webp",
+    "cuisines": [],
+    "dishes": ["mousse", "salad", "spheres"],
+    "ingredients": ["fish", "sea bream", "scotch bonnet", "chiles", "garlic"],
+    "techniques": [],
+    "miscellaneous": ["winning"]
+  },
+  {
+    "name": "Poached Dorade with Coconut & Turmeric, Yucca Fritter, Grilled Pumpkin, & Chili-Garlic Crisp",
+    "slug": "S21E13E04",
+    "season": 21,
+    "episode": 13,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E13/E04.webp",
+    "cuisines": [],
+    "dishes": ["fritter"],
+    "ingredients": ["fish", "dorade", "coconut", "turmeric", "yucca", "pumpkin", "chiles", "garlic"],
+    "techniques": ["poached", "fried", "grilled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Tuna Tartare, Ruby Red Grapefruit, Caribbean Pepper Purée, Garlic Chips & Black Garlic Labneh",
+    "slug": "S21E14E01",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E14/E01.webp",
+    "cuisines": ["Caribbean"],
+    "dishes": ["tartare", "puree"],
+    "ingredients": ["fish", "tuna", "grapefruit", "peppers", "chiles", "garlic", "black garlic", "labneh", "yogurt"],
+    "techniques": ["fried"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Saltfish Fritter, Sweet Potato Purée, Pickled Mussel, Habanero Honey Glaze",
+    "slug": "S21E14E02",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E14/E02.webp",
+    "cuisines": ["Caribbean"],
+    "dishes": ["fritter", "puree"],
+    "ingredients": ["fish", "salt cod", "cod", "sweet potato", "shellfish", "mussels", "chiles", "habanero", "honey"],
+    "techniques": ["fried", "pickled", "glazed"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Scallop & Habanero Leche de Tigre with Breadfruit & Nori Tuile",
+    "slug": "S21E14E03",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E14/E03.webp",
+    "cuisines": ["Latin American"],
+    "dishes": ["leche de tigre", "tuile"],
+    "ingredients": ["shellfish", "scallop", "chiles", "habanero", "breadfruit", "nori", "seaweed"],
+    "techniques": [],
+    "miscellaneous": ["winning", "finale"]
+  },
+  {
+    "name": "Grilled Snapper, Braised Pumpkin & Smoked Snapper Dashi",
+    "slug": "S21E14E04",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E14/E04.webp",
+    "cuisines": [],
+    "dishes": ["dashi"],
+    "ingredients": ["fish", "snapper", "smoked fish", "pumpkin", "scallion"],
+    "techniques": ["grilled", "braised", "smoked"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Spiny Lobster Agnolotti, Lobster Broth, Smoked Marcona Almonds & Grapes",
+    "slug": "S21E14E05",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E14/E05.webp",
+    "cuisines": ["Italian"],
+    "dishes": ["agnolotti", "pasta", "broth"],
+    "ingredients": ["shellfish", "lobster", "spiny lobster", "nuts", "almonds", "grapes"],
+    "techniques": ["smoked"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Smoked Mussels with Plantains & Cabbage, Smoked Mussel Mayo & Fines Herbes Purée",
+    "slug": "S21E14E06",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E14/E06.webp",
+    "cuisines": [],
+    "dishes": ["puree"],
+    "ingredients": ["shellfish", "mussels", "plantain", "cabbage", "mayo"],
+    "techniques": ["smoked"],
+    "miscellaneous": ["winning", "finale"]
+  },
+  {
+    "name": "Oxtail Ragu with Dumplings, Tomato Concasse, Pikliz of Cabbage, Carrots & Scallions",
+    "slug": "S21E14E07",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E14/E07.webp",
+    "cuisines": ["Haitian", "Italian"],
+    "dishes": ["ragu", "dumpling", "pikliz", "concasse"],
+    "ingredients": ["beef", "oxtail", "tomato", "cabbage", "carrot", "scallion"],
+    "techniques": ["braised", "pickled"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Seared Grouper, Epis Spice, Mofongo Plantains, & Flying Fish Roe Butter Sauce",
+    "slug": "S21E14E08",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E14/E08.webp",
+    "cuisines": ["Haitian", "Caribbean", "Puerto Rican"],
+    "dishes": ["epis", "mofongo"],
+    "ingredients": ["fish", "grouper", "plantain", "fish roe", "butter"],
+    "techniques": ["pan-fried"],
+    "miscellaneous": ["finale"]
+  },
+  {
+    "name": "Spiny Lobster with Salsa Macha, Squash, Persimmon, & Chaaza Sauce",
+    "slug": "S21E14E09",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E14/E09.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["salsa macha"],
+    "ingredients": ["shellfish", "lobster", "spiny lobster", "chiles", "squash", "persimmon"],
+    "techniques": [],
+    "miscellaneous": ["winning", "finale"]
+  },
+  {
+    "name": "Yogurt Mousse, Coriander Olive Oil, Grilled Pineapple, Salted Phyllo Crisp",
+    "slug": "S21E14E10",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Dan Jacobs"],
+    "image": "/S21/E14/E10.webp",
+    "cuisines": [],
+    "dishes": ["mousse"],
+    "ingredients": ["yogurt", "coriander", "olive oil", "pineapple", "phyllo"],
+    "techniques": ["grilled", "baked"],
+    "miscellaneous": ["dessert", "finale"]
+  },
+  {
+    "name": "“Hummingbird” Banana Upside Down Cake, Lime & Pineapple Granita, Rum Coconut Sauce",
+    "slug": "S21E14E11",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Savannah Miller"],
+    "image": "/S21/E14/E11.webp",
+    "cuisines": ["Southern"],
+    "dishes": ["cake", "hummingbird cake", "granita"],
+    "ingredients": ["banana", "lime", "pineapple", "rum", "coconut"],
+    "techniques": ["baked", "frozen"],
+    "miscellaneous": ["dessert", "finale"]
+  },
+  {
+    "name": "“Piragua con Leche”, Melon Sorbet with Avocado Yogurt, Candied Seaweed & Condensed Milk Stamp",
+    "slug": "S21E14E12",
+    "season": 21,
+    "episode": 14,
+    "competition": "Elimination",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E14/E12.webp",
+    "cuisines": ["Puerto Rican"],
+    "dishes": ["sorbet", "piragua"],
+    "ingredients": ["melon", "avocado", "yogurt", "seaweed", "condensed milk"],
+    "techniques": ["frozen", "candied"],
+    "miscellaneous": ["dessert", "winning", "finale"]
+  },
+  {
     "name": "Steamed Clam, Preserved King Oyster Mushroom, Baby Bok Choy with Tomato & Maple Syrup Nage",
     "slug": "S22E01QF01",
     "season": 22,
@@ -220,7 +3174,7 @@
       "Tristen Epps-Long",
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E01/QF01.tiff",
+    "image": "/S22/E01/QF01.webp",
     "cuisines": [],
     "dishes": [
       "nage"
@@ -250,7 +3204,7 @@
       "Zubair Mohajir",
       "Anya El-Wattar"
     ],
-    "image": "/S22/E01/QF02.tiff",
+    "image": "/S22/E01/QF02.webp",
     "cuisines": [
       "Italian"
     ],
@@ -282,7 +3236,7 @@
       "Mimi Weissenborn",
       "César Murillo"
     ],
-    "image": "/S22/E01/QF03.tiff",
+    "image": "/S22/E01/QF03.webp",
     "cuisines": [],
     "dishes": [
       "soup",
@@ -312,7 +3266,7 @@
       "Henry Lu",
       "Kat Turner"
     ],
-    "image": "/S22/E01/QF04.tiff",
+    "image": "/S22/E01/QF04.webp",
     "cuisines": [],
     "dishes": [
       "sofrito",
@@ -344,7 +3298,7 @@
       "Lana Lagomarsini",
       "Paula Endara"
     ],
-    "image": "/S22/E01/QF05.tiff",
+    "image": "/S22/E01/QF05.webp",
     "cuisines": [],
     "dishes": [
       "chowder"
@@ -372,7 +3326,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E01/E01.tiff",
+    "image": "/S22/E01/E01.webp",
     "cuisines": [
       "West African"
     ],
@@ -404,7 +3358,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E01/E02.tiff",
+    "image": "/S22/E01/E02.webp",
     "cuisines": [],
     "dishes": [
       "consomme"
@@ -434,7 +3388,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E01/E03.tiff",
+    "image": "/S22/E01/E03.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -465,7 +3419,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E01/E04.tiff",
+    "image": "/S22/E01/E04.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -493,7 +3447,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E01/E05.tiff",
+    "image": "/S22/E01/E05.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -525,7 +3479,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E01/E06.tiff",
+    "image": "/S22/E01/E06.webp",
     "cuisines": [],
     "dishes": [
       "puree"
@@ -552,7 +3506,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E01/E07.tiff",
+    "image": "/S22/E01/E07.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -580,7 +3534,7 @@
     "chef": [
       "Mimi Weissenborn"
     ],
-    "image": "/S22/E01/E08.tiff",
+    "image": "/S22/E01/E08.webp",
     "cuisines": [
       "French"
     ],
@@ -613,7 +3567,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E01/E09.tiff",
+    "image": "/S22/E01/E09.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -644,7 +3598,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E01/E10.tiff",
+    "image": "/S22/E01/E10.webp",
     "cuisines": [],
     "dishes": [
       "mousse",
@@ -675,7 +3629,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E01/E11.tiff",
+    "image": "/S22/E01/E11.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -712,7 +3666,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E01/E12.tiff",
+    "image": "/S22/E01/E12.webp",
     "cuisines": [
       "French"
     ],
@@ -742,7 +3696,7 @@
     "chef": [
       "Anya El-Wattar"
     ],
-    "image": "/S22/E01/E13.tiff",
+    "image": "/S22/E01/E13.webp",
     "cuisines": [
       "Russian"
     ],
@@ -772,7 +3726,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E01/E14.tiff",
+    "image": "/S22/E01/E14.webp",
     "cuisines": [
       "Indian"
     ],
@@ -801,7 +3755,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E01/E15.tiff",
+    "image": "/S22/E01/E15.webp",
     "cuisines": [
       "Italian"
     ],
@@ -829,7 +3783,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E02/QF01.tiff",
+    "image": "/S22/E02/QF01.webp",
     "cuisines": [],
     "dishes": [
       "caramelized onion"
@@ -856,7 +3810,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E02/QF02.tiff",
+    "image": "/S22/E02/QF02.webp",
     "cuisines": [
       "Canadian"
     ],
@@ -886,7 +3840,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E02/QF03.tiff",
+    "image": "/S22/E02/QF03.webp",
     "cuisines": [],
     "dishes": [
       "fondant potato"
@@ -912,7 +3866,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E02/QF04.tiff",
+    "image": "/S22/E02/QF04.webp",
     "cuisines": [],
     "dishes": [
       "tostones"
@@ -938,7 +3892,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E02/QF05.tiff",
+    "image": "/S22/E02/QF05.webp",
     "cuisines": [
       "Southern",
       "Canadian"
@@ -969,7 +3923,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E02/QF06.tiff",
+    "image": "/S22/E02/QF06.webp",
     "cuisines": [
       "Latin American",
       "Canadian"
@@ -999,7 +3953,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E02/QF07.tiff",
+    "image": "/S22/E02/QF07.webp",
     "cuisines": [
       "French"
     ],
@@ -1027,7 +3981,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E02/QF08.tiff",
+    "image": "/S22/E02/QF08.webp",
     "cuisines": [],
     "dishes": [
       "gravy",
@@ -1053,7 +4007,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E02/QF09.tiff",
+    "image": "/S22/E02/QF09.webp",
     "cuisines": [
       "Latin American",
       "Indian"
@@ -1088,7 +4042,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E02/QF10.tiff",
+    "image": "/S22/E02/QF10.webp",
     "cuisines": [],
     "dishes": [
       "pancake",
@@ -1116,7 +4070,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E02/QF11.tiff",
+    "image": "/S22/E02/QF11.webp",
     "cuisines": [
       "Indian",
       "Canadian"
@@ -1149,7 +4103,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E02/QF12.tiff",
+    "image": "/S22/E02/QF12.webp",
     "cuisines": [],
     "dishes": [
       "espuma"
@@ -1178,7 +4132,7 @@
     "chef": [
       "Anya El-Wattar"
     ],
-    "image": "/S22/E02/QF13.tiff",
+    "image": "/S22/E02/QF13.webp",
     "cuisines": [
       "Russian",
       "French",
@@ -1208,7 +4162,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E02/QF14.tiff",
+    "image": "/S22/E02/QF14.webp",
     "cuisines": [
       "Korean",
       "Italian",
@@ -1240,7 +4194,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E02/E01.tiff",
+    "image": "/S22/E02/E01.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette"
@@ -1269,7 +4223,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E02/E02.tiff",
+    "image": "/S22/E02/E02.webp",
     "cuisines": [
       "Italian"
     ],
@@ -1305,7 +4259,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E02/E03.tiff",
+    "image": "/S22/E02/E03.webp",
     "cuisines": [],
     "dishes": [
       "biscuit",
@@ -1336,7 +4290,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E02/E04.tiff",
+    "image": "/S22/E02/E04.webp",
     "cuisines": [
       "Indian",
       "Southern"
@@ -1369,7 +4323,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E02/E05.tiff",
+    "image": "/S22/E02/E05.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -1401,7 +4355,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E02/E06.tiff",
+    "image": "/S22/E02/E06.webp",
     "cuisines": [],
     "dishes": [
       "dukkah",
@@ -1432,7 +4386,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E02/E07.tiff",
+    "image": "/S22/E02/E07.webp",
     "cuisines": [
       "Italian"
     ],
@@ -1467,7 +4421,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E02/E08.tiff",
+    "image": "/S22/E02/E08.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -1496,7 +4450,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E02/E09.tiff",
+    "image": "/S22/E02/E09.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -1525,7 +4479,7 @@
     "chef": [
       "Anya El-Wattar"
     ],
-    "image": "/S22/E02/E10.tiff",
+    "image": "/S22/E02/E10.webp",
     "cuisines": [
       "Russian"
     ],
@@ -1555,7 +4509,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E02/E11.tiff",
+    "image": "/S22/E02/E11.webp",
     "cuisines": [
       "Italian",
       "Southern"
@@ -1589,7 +4543,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E02/E12.tiff",
+    "image": "/S22/E02/E12.webp",
     "cuisines": [
       "French"
     ],
@@ -1618,7 +4572,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E02/E13.tiff",
+    "image": "/S22/E02/E13.webp",
     "cuisines": [
       "French"
     ],
@@ -1646,7 +4600,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E02/E14.tiff",
+    "image": "/S22/E02/E14.webp",
     "cuisines": [],
     "dishes": [
       "tart"
@@ -1676,7 +4630,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E03/QF01.tiff",
+    "image": "/S22/E03/QF01.webp",
     "cuisines": [
       "Chinese",
       "Malaysian"
@@ -1705,7 +4659,7 @@
     "chef": [
       "Anya El-Wattar"
     ],
-    "image": "/S22/E03/QF02.tiff",
+    "image": "/S22/E03/QF02.webp",
     "cuisines": [
       "Russian"
     ],
@@ -1730,7 +4684,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E03/QF03.tiff",
+    "image": "/S22/E03/QF03.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -1755,7 +4709,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E03/QF04.tiff",
+    "image": "/S22/E03/QF04.webp",
     "cuisines": [
       "Haitian"
     ],
@@ -1781,7 +4735,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E03/QF05.tiff",
+    "image": "/S22/E03/QF05.webp",
     "cuisines": [],
     "dishes": [
       "aioli"
@@ -1807,7 +4761,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E03/QF06.tiff",
+    "image": "/S22/E03/QF06.webp",
     "cuisines": [
       "Indian",
       "Jamaican"
@@ -1836,7 +4790,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E03/QF07.tiff",
+    "image": "/S22/E03/QF07.webp",
     "cuisines": [],
     "dishes": [
       "char siu"
@@ -1862,7 +4816,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E03/QF08.tiff",
+    "image": "/S22/E03/QF08.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette"
@@ -1887,7 +4841,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E03/QF09.tiff",
+    "image": "/S22/E03/QF09.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -1914,7 +4868,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E03/QF10.tiff",
+    "image": "/S22/E03/QF10.webp",
     "cuisines": [
       "Jamaican"
     ],
@@ -1940,7 +4894,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E03/QF11.tiff",
+    "image": "/S22/E03/QF11.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -1963,7 +4917,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E03/QF12.tiff",
+    "image": "/S22/E03/QF12.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -1992,7 +4946,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E03/QF13.tiff",
+    "image": "/S22/E03/QF13.webp",
     "cuisines": [
       "Northeast American"
     ],
@@ -2017,7 +4971,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E03/E01.tiff",
+    "image": "/S22/E03/E01.webp",
     "cuisines": [],
     "dishes": [
       "ice cream",
@@ -2044,7 +4998,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E03/E02.tiff",
+    "image": "/S22/E03/E02.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -2071,7 +5025,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E03/E03.tiff",
+    "image": "/S22/E03/E03.webp",
     "cuisines": [],
     "dishes": [
       "cremeux",
@@ -2107,7 +5061,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E03/E04.tiff",
+    "image": "/S22/E03/E04.webp",
     "cuisines": [
       "Indian"
     ],
@@ -2140,7 +5094,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E03/E05.tiff",
+    "image": "/S22/E03/E05.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -2169,7 +5123,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E03/E06.tiff",
+    "image": "/S22/E03/E06.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -2199,7 +5153,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E03/E07.tiff",
+    "image": "/S22/E03/E07.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -2227,7 +5181,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E03/E08.tiff",
+    "image": "/S22/E03/E08.webp",
     "cuisines": [],
     "dishes": [
       "salad"
@@ -2252,7 +5206,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E03/E09.tiff",
+    "image": "/S22/E03/E09.webp",
     "cuisines": [
       "Ecuadorian"
     ],
@@ -2285,7 +5239,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E03/E10.tiff",
+    "image": "/S22/E03/E10.webp",
     "cuisines": [
       "West African"
     ],
@@ -2314,7 +5268,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E03/E11.tiff",
+    "image": "/S22/E03/E11.webp",
     "cuisines": [
       "Middle Eastern"
     ],
@@ -2345,7 +5299,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E03/E12.tiff",
+    "image": "/S22/E03/E12.webp",
     "cuisines": [],
     "dishes": [
       "semifreddo",
@@ -2380,7 +5334,7 @@
     "chef": [
       "Anya El-Wattar"
     ],
-    "image": "/S22/E03/E13.tiff",
+    "image": "/S22/E03/E13.webp",
     "cuisines": [],
     "dishes": [
       "ice cream",
@@ -2409,7 +5363,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E04/QF01.tiff",
+    "image": "/S22/E04/QF01.webp",
     "cuisines": [
       "Vietnamese"
     ],
@@ -2439,7 +5393,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E04/QF02.tiff",
+    "image": "/S22/E04/QF02.webp",
     "cuisines": [
       "French"
     ],
@@ -2473,7 +5427,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E04/QF03.tiff",
+    "image": "/S22/E04/QF03.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -2500,7 +5454,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E04/QF04.tiff",
+    "image": "/S22/E04/QF04.webp",
     "cuisines": [],
     "dishes": [
       "crudo"
@@ -2527,7 +5481,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E04/QF05.tiff",
+    "image": "/S22/E04/QF05.webp",
     "cuisines": [
       "Japanese",
       "Latin American"
@@ -2558,7 +5512,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E04/QF06.tiff",
+    "image": "/S22/E04/QF06.webp",
     "cuisines": [],
     "dishes": [
       "broth"
@@ -2584,7 +5538,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E04/QF07.tiff",
+    "image": "/S22/E04/QF07.webp",
     "cuisines": [],
     "dishes": [
       "crudo"
@@ -2609,7 +5563,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E04/QF08.tiff",
+    "image": "/S22/E04/QF08.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -2634,7 +5588,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E04/QF09.tiff",
+    "image": "/S22/E04/QF09.webp",
     "cuisines": [],
     "dishes": [
       "sandwich"
@@ -2659,7 +5613,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E04/QF10.tiff",
+    "image": "/S22/E04/QF10.webp",
     "cuisines": [
       "Creole",
       "Japanese"
@@ -2692,7 +5646,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E04/QF11.tiff",
+    "image": "/S22/E04/QF11.webp",
     "cuisines": [],
     "dishes": [
       "sandwich",
@@ -2718,7 +5672,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E04/QF12.tiff",
+    "image": "/S22/E04/QF12.webp",
     "cuisines": [
       "Italian"
     ],
@@ -2747,7 +5701,7 @@
     "chef": [
       "Kat Turner"
     ],
-    "image": "/S22/E04/E01.tiff",
+    "image": "/S22/E04/E01.webp",
     "cuisines": [
       "Canadian"
     ],
@@ -2782,7 +5736,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E04/E02.tiff",
+    "image": "/S22/E04/E02.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette",
@@ -2812,7 +5766,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E04/E03.tiff",
+    "image": "/S22/E04/E03.webp",
     "cuisines": [],
     "dishes": [
       "vin blanc"
@@ -2839,7 +5793,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E04/E04.tiff",
+    "image": "/S22/E04/E04.webp",
     "cuisines": [
       "Italian"
     ],
@@ -2867,7 +5821,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E04/E05.tiff",
+    "image": "/S22/E04/E05.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -2892,7 +5846,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E04/E06.tiff",
+    "image": "/S22/E04/E06.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -2922,7 +5876,7 @@
     "chef": [
       "Corwin Hemming"
     ],
-    "image": "/S22/E04/E07.tiff",
+    "image": "/S22/E04/E07.webp",
     "cuisines": [
       "Southern",
       "Caribbean"
@@ -2955,7 +5909,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E04/E08.tiff",
+    "image": "/S22/E04/E08.webp",
     "cuisines": [
       "Guyanese",
       "French"
@@ -2987,7 +5941,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E04/E09.tiff",
+    "image": "/S22/E04/E09.webp",
     "cuisines": [],
     "dishes": [
       "porridge"
@@ -3015,7 +5969,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E04/E10.tiff",
+    "image": "/S22/E04/E10.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -3047,7 +6001,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E04/E11.tiff",
+    "image": "/S22/E04/E11.webp",
     "cuisines": [],
     "dishes": [
       "jus",
@@ -3078,7 +6032,7 @@
     "chef": [
       "Zubair Mohajir"
     ],
-    "image": "/S22/E04/E12.tiff",
+    "image": "/S22/E04/E12.webp",
     "cuisines": [
       "Indian"
     ],
@@ -3110,7 +6064,7 @@
       "Paula Endara",
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E05/E01.tiff",
+    "image": "/S22/E05/E01.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -3140,7 +6094,7 @@
       "Kat Turner",
       "Corwin Hemming"
     ],
-    "image": "/S22/E05/E02.tiff",
+    "image": "/S22/E05/E02.webp",
     "cuisines": [
       "Portuguese"
     ],
@@ -3176,7 +6130,7 @@
       "Katianna Hong",
       "César Murillo"
     ],
-    "image": "/S22/E05/E03.tiff",
+    "image": "/S22/E05/E03.webp",
     "cuisines": [
       "Thai"
     ],
@@ -3207,7 +6161,7 @@
       "Lana Lagomarsini",
       "Vinny Loseto"
     ],
-    "image": "/S22/E05/E04.tiff",
+    "image": "/S22/E05/E04.webp",
     "cuisines": [
       "Indian"
     ],
@@ -3238,7 +6192,7 @@
       "Henry Lu",
       "Shuai Wang"
     ],
-    "image": "/S22/E05/E05.tiff",
+    "image": "/S22/E05/E05.webp",
     "cuisines": [
       "Filipino"
     ],
@@ -3271,7 +6225,7 @@
       "Bailey Sullivan",
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E05/E06.tiff",
+    "image": "/S22/E05/E06.webp",
     "cuisines": [
       "Greek"
     ],
@@ -3302,7 +6256,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E06/QF01.tiff",
+    "image": "/S22/E06/QF01.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3335,7 +6289,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E06/QF02.tiff",
+    "image": "/S22/E06/QF02.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3363,7 +6317,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E06/QF03.tiff",
+    "image": "/S22/E06/QF03.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3393,7 +6347,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E06/QF04.tiff",
+    "image": "/S22/E06/QF04.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3421,7 +6375,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E06/QF05.tiff",
+    "image": "/S22/E06/QF05.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3452,7 +6406,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E06/QF06.tiff",
+    "image": "/S22/E06/QF06.webp",
     "cuisines": [
       "West African"
     ],
@@ -3487,7 +6441,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E06/QF07.tiff",
+    "image": "/S22/E06/QF07.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3514,7 +6468,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E06/QF08.tiff",
+    "image": "/S22/E06/QF08.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3539,7 +6493,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E06/QF09.tiff",
+    "image": "/S22/E06/QF09.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3567,7 +6521,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E06/QF10.tiff",
+    "image": "/S22/E06/QF10.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -3592,7 +6546,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E06/E01.tiff",
+    "image": "/S22/E06/E01.webp",
     "cuisines": [
       "Italian"
     ],
@@ -3621,7 +6575,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E06/E02.tiff",
+    "image": "/S22/E06/E02.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -3649,7 +6603,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E06/E03.tiff",
+    "image": "/S22/E06/E03.webp",
     "cuisines": [
       "Italian"
     ],
@@ -3679,7 +6633,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E06/E04.tiff",
+    "image": "/S22/E06/E04.webp",
     "cuisines": [
       "French"
     ],
@@ -3711,7 +6665,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E06/E05.tiff",
+    "image": "/S22/E06/E05.webp",
     "cuisines": [
       "French"
     ],
@@ -3744,7 +6698,7 @@
     "chef": [
       "Katianna Hong"
     ],
-    "image": "/S22/E06/E06.tiff",
+    "image": "/S22/E06/E06.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette",
@@ -3775,7 +6729,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E06/E07.tiff",
+    "image": "/S22/E06/E07.webp",
     "cuisines": [],
     "dishes": [
       "chimichurri",
@@ -3805,7 +6759,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E06/E08.tiff",
+    "image": "/S22/E06/E08.webp",
     "cuisines": [
       "Korean"
     ],
@@ -3835,7 +6789,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E06/E09.tiff",
+    "image": "/S22/E06/E09.webp",
     "cuisines": [
       "Italian"
     ],
@@ -3867,7 +6821,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E06/E10.tiff",
+    "image": "/S22/E06/E10.webp",
     "cuisines": [],
     "dishes": [
       "tart",
@@ -3898,7 +6852,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E07/QF01.tiff",
+    "image": "/S22/E07/QF01.webp",
     "cuisines": [
       "Italian"
     ],
@@ -3926,7 +6880,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E07/QF02.tiff",
+    "image": "/S22/E07/QF02.webp",
     "cuisines": [
       "Italian"
     ],
@@ -3954,7 +6908,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E07/QF03.tiff",
+    "image": "/S22/E07/QF03.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -3982,7 +6936,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E07/QF04.tiff",
+    "image": "/S22/E07/QF04.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -4008,7 +6962,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E07/QF05.tiff",
+    "image": "/S22/E07/QF05.webp",
     "cuisines": [
       "Italian"
     ],
@@ -4040,7 +6994,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E07/QF06.tiff",
+    "image": "/S22/E07/QF06.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -4068,7 +7022,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E07/QF07.tiff",
+    "image": "/S22/E07/QF07.webp",
     "cuisines": [
       "Nigerian"
     ],
@@ -4080,6 +7034,7 @@
       "shellfish",
       "clams",
       "peas",
+      "chiles",
       "shishito"
     ],
     "techniques": [
@@ -4096,7 +7051,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E07/QF08.tiff",
+    "image": "/S22/E07/QF08.webp",
     "cuisines": [
       "Italian"
     ],
@@ -4125,7 +7080,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E07/QF09.tiff",
+    "image": "/S22/E07/QF09.webp",
     "cuisines": [],
     "dishes": [
       "crumble",
@@ -4152,7 +7107,7 @@
     "chef": [
       "Shuai Wang"
     ],
-    "image": "/S22/E07/E01.tiff",
+    "image": "/S22/E07/E01.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -4187,7 +7142,7 @@
     "chef": [
       "Tristen Epps-Long"
     ],
-    "image": "/S22/E07/E02.tiff",
+    "image": "/S22/E07/E02.webp",
     "cuisines": [
       "Middle Eastern"
     ],
@@ -4219,7 +7174,7 @@
     "chef": [
       "Lana Lagomarsini"
     ],
-    "image": "/S22/E07/E03.tiff",
+    "image": "/S22/E07/E03.webp",
     "cuisines": [
       "Caribbean"
     ],
@@ -4251,7 +7206,7 @@
     "chef": [
       "Henry Lu"
     ],
-    "image": "/S22/E07/E04.tiff",
+    "image": "/S22/E07/E04.webp",
     "cuisines": [
       "Vietnamese"
     ],
@@ -4283,7 +7238,7 @@
     "chef": [
       "César Murillo"
     ],
-    "image": "/S22/E07/E05.tiff",
+    "image": "/S22/E07/E05.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -4315,7 +7270,7 @@
     "chef": [
       "Bailey Sullivan"
     ],
-    "image": "/S22/E07/E06.tiff",
+    "image": "/S22/E07/E06.webp",
     "cuisines": [
       "Italian"
     ],
@@ -4346,7 +7301,7 @@
     "chef": [
       "Massimo Piedimonte"
     ],
-    "image": "/S22/E07/E07.tiff",
+    "image": "/S22/E07/E07.webp",
     "cuisines": [
       "Italian"
     ],
@@ -4375,7 +7330,7 @@
     "chef": [
       "Paula Endara"
     ],
-    "image": "/S22/E07/E08.tiff",
+    "image": "/S22/E07/E08.webp",
     "cuisines": [],
     "dishes": [
       "pizza",
@@ -4405,7 +7360,7 @@
     "chef": [
       "Vinny Loseto"
     ],
-    "image": "/S22/E07/E09.tiff",
+    "image": "/S22/E07/E09.webp",
     "cuisines": [
       "Northeast American"
     ],
@@ -6794,7 +9749,7 @@
       "Brandon Dearden",
       "Sieger Bayer"
     ],
-    "image": "/S23/E01/QF01.tiff",
+    "image": "/S23/E01/QF01.webp",
     "cuisines": [],
     "dishes": [
       "cured fish",
@@ -6825,7 +9780,7 @@
       "Jassi Bindra",
       "Brittany Cochran"
     ],
-    "image": "/S23/E01/QF02.tiff",
+    "image": "/S23/E01/QF02.webp",
     "cuisines": [
       "Indian"
     ],
@@ -6856,7 +9811,7 @@
       "Nana Araba Wilmot",
       "Duyen Ha"
     ],
-    "image": "/S23/E01/QF03.tiff",
+    "image": "/S23/E01/QF03.webp",
     "cuisines": [],
     "dishes": [
       "pickles"
@@ -6887,7 +9842,7 @@
       "Sherry Cardoso",
       "Oscar Diaz"
     ],
-    "image": "/S23/E01/QF04.tiff",
+    "image": "/S23/E01/QF04.webp",
     "cuisines": [
       "Latin American",
       "Mexican"
@@ -6917,7 +9872,7 @@
       "Jennifer Lee Jackson",
       "Jonathan Dearden"
     ],
-    "image": "/S23/E01/QF05.tiff",
+    "image": "/S23/E01/QF05.webp",
     "cuisines": [
       "Southern"
     ],
@@ -6951,7 +9906,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E01/E01.tiff",
+    "image": "/S23/E01/E01.webp",
     "cuisines": [
       "Brazilian",
       "Southern"
@@ -6980,7 +9935,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E01/E02.tiff",
+    "image": "/S23/E01/E02.webp",
     "cuisines": [],
     "dishes": [
       "bacon jam",
@@ -7010,7 +9965,7 @@
     "chef": [
       "Day Anaїs Joseph"
     ],
-    "image": "/S23/E01/E03.tiff",
+    "image": "/S23/E01/E03.webp",
     "cuisines": [
       "Haitian"
     ],
@@ -7039,7 +9994,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E01/E04.tiff",
+    "image": "/S23/E01/E04.webp",
     "cuisines": [
       "Haitian"
     ],
@@ -7070,7 +10025,7 @@
     "chef": [
       "Nana Araba Wilmot"
     ],
-    "image": "/S23/E01/E05.tiff",
+    "image": "/S23/E01/E05.webp",
     "cuisines": [
       "Ghanaian"
     ],
@@ -7099,7 +10054,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E01/E06.tiff",
+    "image": "/S23/E01/E06.webp",
     "cuisines": [
       "Croatian"
     ],
@@ -7127,7 +10082,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E01/E07.tiff",
+    "image": "/S23/E01/E07.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -7156,7 +10111,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E01/E08.tiff",
+    "image": "/S23/E01/E08.webp",
     "cuisines": [
       "Indian"
     ],
@@ -7185,7 +10140,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E01/E09.tiff",
+    "image": "/S23/E01/E09.webp",
     "cuisines": [],
     "dishes": [
       "sorbet",
@@ -7217,7 +10172,7 @@
     "chef": [
       "Jassi Bindra"
     ],
-    "image": "/S23/E01/E10.tiff",
+    "image": "/S23/E01/E10.webp",
     "cuisines": [
       "Indian"
     ],
@@ -7245,7 +10200,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E01/E11.tiff",
+    "image": "/S23/E01/E11.webp",
     "cuisines": [],
     "dishes": [
       "puree",
@@ -7271,7 +10226,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E01/E12.tiff",
+    "image": "/S23/E01/E12.webp",
     "cuisines": [],
     "dishes": [
       "puree"
@@ -7300,7 +10255,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E01/E13.tiff",
+    "image": "/S23/E01/E13.webp",
     "cuisines": [],
     "dishes": [
       "mochi",
@@ -7330,7 +10285,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E01/E14.tiff",
+    "image": "/S23/E01/E14.webp",
     "cuisines": [],
     "dishes": [
       "jus",
@@ -7355,7 +10310,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E01/E15.tiff",
+    "image": "/S23/E01/E15.webp",
     "cuisines": [],
     "dishes": [
       "puree",
@@ -7382,7 +10337,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E02/QF01.tiff",
+    "image": "/S23/E02/QF01.webp",
     "cuisines": [
       "Venezuelan"
     ],
@@ -7413,7 +10368,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E02/QF02.tiff",
+    "image": "/S23/E02/QF02.webp",
     "cuisines": [],
     "dishes": [
       "gastrique"
@@ -7442,7 +10397,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E02/QF03.tiff",
+    "image": "/S23/E02/QF03.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -7470,7 +10425,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E02/QF04.tiff",
+    "image": "/S23/E02/QF04.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette"
@@ -7497,7 +10452,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E02/QF05.tiff",
+    "image": "/S23/E02/QF05.webp",
     "cuisines": [
       "Turkish"
     ],
@@ -7529,7 +10484,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E02/QF06.tiff",
+    "image": "/S23/E02/QF06.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -7553,7 +10508,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E02/QF07.tiff",
+    "image": "/S23/E02/QF07.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -7579,7 +10534,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E02/QF08.tiff",
+    "image": "/S23/E02/QF08.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -7611,7 +10566,7 @@
     "chef": [
       "Jassi Bindra"
     ],
-    "image": "/S23/E02/QF09.tiff",
+    "image": "/S23/E02/QF09.webp",
     "cuisines": [
       "Indian"
     ],
@@ -7640,7 +10595,7 @@
     "chef": [
       "Nana Araba Wilmot"
     ],
-    "image": "/S23/E02/QF10.tiff",
+    "image": "/S23/E02/QF10.webp",
     "cuisines": [],
     "dishes": [
       "salsa"
@@ -7665,7 +10620,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E02/QF11.tiff",
+    "image": "/S23/E02/QF11.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -7687,7 +10642,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E02/QF12.tiff",
+    "image": "/S23/E02/QF12.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -7712,7 +10667,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E02/QF13.tiff",
+    "image": "/S23/E02/QF13.webp",
     "cuisines": [
       "Italian"
     ],
@@ -7741,7 +10696,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E02/QF14.tiff",
+    "image": "/S23/E02/QF14.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -7768,7 +10723,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E02/E01.tiff",
+    "image": "/S23/E02/E01.webp",
     "cuisines": [],
     "dishes": [
       "granita",
@@ -7799,7 +10754,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E02/E02.tiff",
+    "image": "/S23/E02/E02.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -7828,7 +10783,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E02/E03.tiff",
+    "image": "/S23/E02/E03.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -7860,7 +10815,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E02/E04.tiff",
+    "image": "/S23/E02/E04.webp",
     "cuisines": [],
     "dishes": [
       "chowder",
@@ -7887,7 +10842,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E02/E05.tiff",
+    "image": "/S23/E02/E05.webp",
     "cuisines": [
       "Southern"
     ],
@@ -7915,7 +10870,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E02/E06.tiff",
+    "image": "/S23/E02/E06.webp",
     "cuisines": [
       "Thai"
     ],
@@ -7945,7 +10900,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E02/E07.tiff",
+    "image": "/S23/E02/E07.webp",
     "cuisines": [],
     "dishes": [
       "slaw"
@@ -7973,7 +10928,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E02/E08.tiff",
+    "image": "/S23/E02/E08.webp",
     "cuisines": [
       "Chinese",
       "Southern"
@@ -8002,7 +10957,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E02/E09.tiff",
+    "image": "/S23/E02/E09.webp",
     "cuisines": [
       "Caribbean",
       "West African",
@@ -8040,7 +10995,7 @@
     "chef": [
       "Nana Araba Wilmot"
     ],
-    "image": "/S23/E02/E10.tiff",
+    "image": "/S23/E02/E10.webp",
     "cuisines": [
       "Ghanaian"
     ],
@@ -8074,7 +11029,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E02/E11.tiff",
+    "image": "/S23/E02/E11.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -8107,7 +11062,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E02/E12.tiff",
+    "image": "/S23/E02/E12.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -8140,7 +11095,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E02/E13.tiff",
+    "image": "/S23/E02/E13.webp",
     "cuisines": [],
     "dishes": [
       "pickles"
@@ -8170,7 +11125,7 @@
     "chef": [
       "Jassi Bindra"
     ],
-    "image": "/S23/E02/E14.tiff",
+    "image": "/S23/E02/E14.webp",
     "cuisines": [
       "Indian"
     ],
@@ -8201,7 +11156,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E03/QF01.tiff",
+    "image": "/S23/E03/QF01.webp",
     "cuisines": [
       "Vietnamese"
     ],
@@ -8229,7 +11184,7 @@
     "chef": [
       "Nana Araba Wilmot"
     ],
-    "image": "/S23/E03/QF02.tiff",
+    "image": "/S23/E03/QF02.webp",
     "cuisines": [],
     "dishes": [
       "french toast"
@@ -8254,7 +11209,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E03/QF03.tiff",
+    "image": "/S23/E03/QF03.webp",
     "cuisines": [],
     "dishes": [
       "pate",
@@ -8282,7 +11237,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E03/QF04.tiff",
+    "image": "/S23/E03/QF04.webp",
     "cuisines": [],
     "dishes": [
       "hollandaise"
@@ -8309,7 +11264,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E03/QF05.tiff",
+    "image": "/S23/E03/QF05.webp",
     "cuisines": [],
     "dishes": [
       "eggs benedict",
@@ -8336,7 +11291,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E03/QF06.tiff",
+    "image": "/S23/E03/QF06.webp",
     "cuisines": [
       "French"
     ],
@@ -8362,7 +11317,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E03/QF07.tiff",
+    "image": "/S23/E03/QF07.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -8388,7 +11343,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E03/QF08.tiff",
+    "image": "/S23/E03/QF08.webp",
     "cuisines": [
       "French",
       "British"
@@ -8416,7 +11371,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E03/QF09.tiff",
+    "image": "/S23/E03/QF09.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -8441,7 +11396,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E03/QF10.tiff",
+    "image": "/S23/E03/QF10.webp",
     "cuisines": [
       "French"
     ],
@@ -8464,7 +11419,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E03/QF11.tiff",
+    "image": "/S23/E03/QF11.webp",
     "cuisines": [
       "Italian"
     ],
@@ -8490,7 +11445,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E03/QF12.tiff",
+    "image": "/S23/E03/QF12.webp",
     "cuisines": [
       "Spanish"
     ],
@@ -8520,7 +11475,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E03/E01.tiff",
+    "image": "/S23/E03/E01.webp",
     "cuisines": [
       "Italian"
     ],
@@ -8548,7 +11503,7 @@
     "chef": [
       "Nana Araba Wilmot"
     ],
-    "image": "/S23/E03/E02.tiff",
+    "image": "/S23/E03/E02.webp",
     "cuisines": [
       "West African",
       "French"
@@ -8579,7 +11534,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E03/E03.tiff",
+    "image": "/S23/E03/E03.webp",
     "cuisines": [
       "Southern"
     ],
@@ -8611,7 +11566,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E03/E04.tiff",
+    "image": "/S23/E03/E04.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -8637,7 +11592,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E03/E05.tiff",
+    "image": "/S23/E03/E05.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -8669,7 +11624,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E03/E06.tiff",
+    "image": "/S23/E03/E06.webp",
     "cuisines": [],
     "dishes": [
       "puree",
@@ -8700,7 +11655,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E03/E07.tiff",
+    "image": "/S23/E03/E07.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -8725,7 +11680,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E03/E08.tiff",
+    "image": "/S23/E03/E08.webp",
     "cuisines": [
       "German"
     ],
@@ -8756,7 +11711,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E03/E09.tiff",
+    "image": "/S23/E03/E09.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -8796,7 +11751,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E03/E10.tiff",
+    "image": "/S23/E03/E10.webp",
     "cuisines": [
       "French"
     ],
@@ -8828,7 +11783,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E03/E11.tiff",
+    "image": "/S23/E03/E11.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -8855,7 +11810,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E03/E12.tiff",
+    "image": "/S23/E03/E12.webp",
     "cuisines": [
       "Spanish"
     ],
@@ -8884,7 +11839,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E03/E13.tiff",
+    "image": "/S23/E03/E13.webp",
     "cuisines": [
       "Moroccan"
     ],
@@ -8916,7 +11871,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E04/QF01.tiff",
+    "image": "/S23/E04/QF01.webp",
     "cuisines": [
       "Venezuelan"
     ],
@@ -8943,7 +11898,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E04/QF02.tiff",
+    "image": "/S23/E04/QF02.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -8967,7 +11922,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E04/QF03.tiff",
+    "image": "/S23/E04/QF03.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -8992,7 +11947,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E04/QF04.tiff",
+    "image": "/S23/E04/QF04.webp",
     "cuisines": [],
     "dishes": [
       "grilled cheese",
@@ -9019,7 +11974,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E04/QF05.tiff",
+    "image": "/S23/E04/QF05.webp",
     "cuisines": [],
     "dishes": [
       "cheese sauce"
@@ -9044,7 +11999,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E04/QF06.tiff",
+    "image": "/S23/E04/QF06.webp",
     "cuisines": [],
     "dishes": [
       "soubise"
@@ -9072,7 +12027,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E04/QF07.tiff",
+    "image": "/S23/E04/QF07.webp",
     "cuisines": [],
     "dishes": [
       "aioli"
@@ -9101,7 +12056,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E04/QF08.tiff",
+    "image": "/S23/E04/QF08.webp",
     "cuisines": [],
     "dishes": [
       "croutons"
@@ -9130,7 +12085,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E04/QF09.tiff",
+    "image": "/S23/E04/QF09.webp",
     "cuisines": [
       "French"
     ],
@@ -9158,7 +12113,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E04/QF10.tiff",
+    "image": "/S23/E04/QF10.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -9184,7 +12139,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E04/QF11.tiff",
+    "image": "/S23/E04/QF11.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -9211,7 +12166,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E04/QF12.tiff",
+    "image": "/S23/E04/QF12.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -9238,7 +12193,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E04/E01.tiff",
+    "image": "/S23/E04/E01.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -9266,7 +12221,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E04/E02.tiff",
+    "image": "/S23/E04/E02.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -9291,7 +12246,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E04/E03.tiff",
+    "image": "/S23/E04/E03.webp",
     "cuisines": [
       "Latin American",
       "Southern"
@@ -9324,7 +12279,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E04/E04.tiff",
+    "image": "/S23/E04/E04.webp",
     "cuisines": [
       "Chinese",
       "Southern"
@@ -9360,7 +12315,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E04/E05.tiff",
+    "image": "/S23/E04/E05.webp",
     "cuisines": [
       "Caribbean",
       "Southern"
@@ -9393,7 +12348,7 @@
     "chef": [
       "Brittany Cochran"
     ],
-    "image": "/S23/E04/E06.tiff",
+    "image": "/S23/E04/E06.webp",
     "cuisines": [],
     "dishes": [
       "sausage"
@@ -9421,7 +12376,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E04/E07.tiff",
+    "image": "/S23/E04/E07.webp",
     "cuisines": [
       "Southern"
     ],
@@ -9450,7 +12405,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E04/E08.tiff",
+    "image": "/S23/E04/E08.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -9475,7 +12430,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E04/E09.tiff",
+    "image": "/S23/E04/E09.webp",
     "cuisines": [
       "Korean",
       "Southern"
@@ -9508,7 +12463,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E04/E10.tiff",
+    "image": "/S23/E04/E10.webp",
     "cuisines": [
       "Southern"
     ],
@@ -9540,7 +12495,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E04/E11.tiff",
+    "image": "/S23/E04/E11.webp",
     "cuisines": [
       "Japanese",
       "Southern"
@@ -9570,7 +12525,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E04/E12.tiff",
+    "image": "/S23/E04/E12.webp",
     "cuisines": [
       "Thai"
     ],
@@ -9595,7 +12550,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E05/QF01.tiff",
+    "image": "/S23/E05/QF01.webp",
     "cuisines": [],
     "dishes": [
       "ice cream"
@@ -9624,7 +12579,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E05/QF02.tiff",
+    "image": "/S23/E05/QF02.webp",
     "cuisines": [
       "Southern"
     ],
@@ -9650,7 +12605,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E05/QF03.tiff",
+    "image": "/S23/E05/QF03.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -9676,7 +12631,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E05/QF04.tiff",
+    "image": "/S23/E05/QF04.webp",
     "cuisines": [
       "French",
       "British"
@@ -9706,7 +12661,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E05/QF05.tiff",
+    "image": "/S23/E05/QF05.webp",
     "cuisines": [
       "Italian"
     ],
@@ -9734,7 +12689,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E05/QF06.tiff",
+    "image": "/S23/E05/QF06.webp",
     "cuisines": [],
     "dishes": [
       "fried chicken"
@@ -9758,7 +12713,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E05/QF07.tiff",
+    "image": "/S23/E05/QF07.webp",
     "cuisines": [],
     "dishes": [
       "fried chicken",
@@ -9785,7 +12740,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E05/QF08.tiff",
+    "image": "/S23/E05/QF08.webp",
     "cuisines": [
       "Spanish"
     ],
@@ -9817,7 +12772,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E05/QF09.tiff",
+    "image": "/S23/E05/QF09.webp",
     "cuisines": [],
     "dishes": [
       "soup",
@@ -9840,7 +12795,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E05/QF10.tiff",
+    "image": "/S23/E05/QF10.webp",
     "cuisines": [
       "Italian",
       "Creole"
@@ -9872,7 +12827,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E05/E01.tiff",
+    "image": "/S23/E05/E01.webp",
     "cuisines": [
       "Nigerian"
     ],
@@ -9905,7 +12860,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E05/E02.tiff",
+    "image": "/S23/E05/E02.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -9934,7 +12889,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E05/E03.tiff",
+    "image": "/S23/E05/E03.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -9969,7 +12924,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E05/E04.tiff",
+    "image": "/S23/E05/E04.webp",
     "cuisines": [
       "French"
     ],
@@ -10004,7 +12959,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E05/E05.tiff",
+    "image": "/S23/E05/E05.webp",
     "cuisines": [],
     "dishes": [
       "salad"
@@ -10030,7 +12985,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E05/E06.tiff",
+    "image": "/S23/E05/E06.webp",
     "cuisines": [],
     "dishes": [
       "salsa",
@@ -10062,7 +13017,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E05/E07.tiff",
+    "image": "/S23/E05/E07.webp",
     "cuisines": [
       "Filipino"
     ],
@@ -10094,7 +13049,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E05/E08.tiff",
+    "image": "/S23/E05/E08.webp",
     "cuisines": [
       "French"
     ],
@@ -10124,7 +13079,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E05/E09.tiff",
+    "image": "/S23/E05/E09.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10154,7 +13109,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E05/E10.tiff",
+    "image": "/S23/E05/E10.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10185,7 +13140,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E05/E11.tiff",
+    "image": "/S23/E05/E11.webp",
     "cuisines": [],
     "dishes": [
       "chimichurri"
@@ -10218,7 +13173,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E06/QF01.tiff",
+    "image": "/S23/E06/QF01.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10244,7 +13199,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E06/QF02.tiff",
+    "image": "/S23/E06/QF02.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10270,7 +13225,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E06/QF03.tiff",
+    "image": "/S23/E06/QF03.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10296,7 +13251,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E06/QF04.tiff",
+    "image": "/S23/E06/QF04.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10322,7 +13277,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E06/QF05.tiff",
+    "image": "/S23/E06/QF05.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10349,7 +13304,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E06/QF06.tiff",
+    "image": "/S23/E06/QF06.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10376,7 +13331,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E06/QF07.tiff",
+    "image": "/S23/E06/QF07.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10403,7 +13358,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E06/QF08.tiff",
+    "image": "/S23/E06/QF08.webp",
     "cuisines": [],
     "dishes": [
       "s'more"
@@ -10431,7 +13386,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E06/E01.tiff",
+    "image": "/S23/E06/E01.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10463,7 +13418,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E06/E02.tiff",
+    "image": "/S23/E06/E02.webp",
     "cuisines": [
       "Southern",
       "Korean"
@@ -10496,7 +13451,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E06/E03.tiff",
+    "image": "/S23/E06/E03.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10527,7 +13482,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E06/E04.tiff",
+    "image": "/S23/E06/E04.webp",
     "cuisines": [
       "Southern",
       "Chinese"
@@ -10556,7 +13511,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E06/E05.tiff",
+    "image": "/S23/E06/E05.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10588,7 +13543,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E06/E06.tiff",
+    "image": "/S23/E06/E06.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10622,7 +13577,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E06/E07.tiff",
+    "image": "/S23/E06/E07.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10654,7 +13609,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E06/E08.tiff",
+    "image": "/S23/E06/E08.webp",
     "cuisines": [
       "Cuban"
     ],
@@ -10687,7 +13642,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E06/E09.tiff",
+    "image": "/S23/E06/E09.webp",
     "cuisines": [
       "Mexican",
       "Salvadoran"
@@ -10717,7 +13672,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E06/E10.tiff",
+    "image": "/S23/E06/E10.webp",
     "cuisines": [
       "Vietnamese",
       "Thai"
@@ -10750,7 +13705,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E07/QF01.tiff",
+    "image": "/S23/E07/QF01.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -10759,7 +13714,7 @@
     ],
     "ingredients": [
       "cornmeal",
-      "berries",
+      "blackberry",
       "maple syrup",
       "piloncillo",
       "sweetened condensed milk"
@@ -10780,7 +13735,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E07/QF02.tiff",
+    "image": "/S23/E07/QF02.webp",
     "cuisines": [],
     "dishes": [
       "eggs benedict",
@@ -10809,7 +13764,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E07/QF03.tiff",
+    "image": "/S23/E07/QF03.webp",
     "cuisines": [],
     "dishes": [
       "corned beef hash",
@@ -10838,7 +13793,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E07/QF04.tiff",
+    "image": "/S23/E07/QF04.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10867,7 +13822,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E07/QF05.tiff",
+    "image": "/S23/E07/QF05.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10901,7 +13856,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E07/QF06.tiff",
+    "image": "/S23/E07/QF06.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10929,7 +13884,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E07/QF07.tiff",
+    "image": "/S23/E07/QF07.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -10956,7 +13911,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E07/QF08.tiff",
+    "image": "/S23/E07/QF08.webp",
     "cuisines": [
       "Southern"
     ],
@@ -10986,7 +13941,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E07/QF09.tiff",
+    "image": "/S23/E07/QF09.webp",
     "cuisines": [
       "Southern"
     ],
@@ -11012,7 +13967,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E07/E01.tiff",
+    "image": "/S23/E07/E01.webp",
     "cuisines": [],
     "dishes": [
       "semifreddo",
@@ -11042,7 +13997,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E07/E02.tiff",
+    "image": "/S23/E07/E02.webp",
     "cuisines": [
       "French"
     ],
@@ -11074,7 +14029,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E07/E03.tiff",
+    "image": "/S23/E07/E03.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -11104,7 +14059,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E07/E04.tiff",
+    "image": "/S23/E07/E04.webp",
     "cuisines": [],
     "dishes": [
       "sabayon"
@@ -11135,7 +14090,7 @@
     "chef": [
       "Jennifer Lee Jackson"
     ],
-    "image": "/S23/E07/E05.tiff",
+    "image": "/S23/E07/E05.webp",
     "cuisines": [],
     "dishes": [
       "curd",
@@ -11162,7 +14117,7 @@
     "chef": [
       "Justin Tootla"
     ],
-    "image": "/S23/E07/E06.tiff",
+    "image": "/S23/E07/E06.webp",
     "cuisines": [],
     "dishes": [
       "granita"
@@ -11195,7 +14150,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E07/E07.tiff",
+    "image": "/S23/E07/E07.webp",
     "cuisines": [
       "French"
     ],
@@ -11205,7 +14160,7 @@
       "mousse"
     ],
     "ingredients": [
-      "berries",
+      "blackberry",
       "nuts",
       "almond",
       "passion fruit",
@@ -11228,7 +14183,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E07/E08.tiff",
+    "image": "/S23/E07/E08.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -11259,7 +14214,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E07/E09.tiff",
+    "image": "/S23/E07/E09.webp",
     "cuisines": [
       "Italian"
     ],
@@ -11290,7 +14245,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E08/E01.tiff",
+    "image": "/S23/E08/E01.webp",
     "cuisines": [
       "Southern"
     ],
@@ -11320,7 +14275,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E08/E02.tiff",
+    "image": "/S23/E08/E02.webp",
     "cuisines": [
       "French",
       "Southern"
@@ -11353,7 +14308,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E08/E03.tiff",
+    "image": "/S23/E08/E03.webp",
     "cuisines": [
       "Southern",
       "French"
@@ -11386,7 +14341,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E08/E04.tiff",
+    "image": "/S23/E08/E04.webp",
     "cuisines": [
       "Southern"
     ],
@@ -11418,7 +14373,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E08/E05.tiff",
+    "image": "/S23/E08/E05.webp",
     "cuisines": [],
     "dishes": [
       "panna cotta",
@@ -11448,7 +14403,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E08/E06.tiff",
+    "image": "/S23/E08/E06.webp",
     "cuisines": [
       "Middle Eastern",
       "Southern"
@@ -11483,7 +14438,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E08/E07.tiff",
+    "image": "/S23/E08/E07.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -11513,7 +14468,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E08/E08.tiff",
+    "image": "/S23/E08/E08.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -11542,7 +14497,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E08/E09.tiff",
+    "image": "/S23/E08/E09.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -11570,7 +14525,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E08/E10.tiff",
+    "image": "/S23/E08/E10.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -11601,7 +14556,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E08/E11.tiff",
+    "image": "/S23/E08/E11.webp",
     "cuisines": [
       "Spanish"
     ],
@@ -11629,7 +14584,7 @@
     "chef": [
       "Brandon Dearden"
     ],
-    "image": "/S23/E08/E12.tiff",
+    "image": "/S23/E08/E12.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -11658,7 +14613,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E09/QF01.tiff",
+    "image": "/S23/E09/QF01.webp",
     "cuisines": [
       "Southern"
     ],
@@ -11686,7 +14641,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E09/QF02.tiff",
+    "image": "/S23/E09/QF02.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -11715,7 +14670,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E09/QF03.tiff",
+    "image": "/S23/E09/QF03.webp",
     "cuisines": [],
     "dishes": [
       "tartare",
@@ -11740,7 +14695,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E09/QF04.tiff",
+    "image": "/S23/E09/QF04.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -11765,7 +14720,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E09/QF05.tiff",
+    "image": "/S23/E09/QF05.webp",
     "cuisines": [
       "Latin American",
       "Southern"
@@ -11793,7 +14748,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E09/QF06.tiff",
+    "image": "/S23/E09/QF06.webp",
     "cuisines": [
       "French"
     ],
@@ -11822,7 +14777,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E09/QF07.tiff",
+    "image": "/S23/E09/QF07.webp",
     "cuisines": [
       "French"
     ],
@@ -11850,7 +14805,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E09/QF08.tiff",
+    "image": "/S23/E09/QF08.webp",
     "cuisines": [],
     "dishes": [
       "trout dip"
@@ -11876,7 +14831,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E09/E01.tiff",
+    "image": "/S23/E09/E01.webp",
     "cuisines": [
       "French"
     ],
@@ -11908,7 +14863,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E09/E02.tiff",
+    "image": "/S23/E09/E02.webp",
     "cuisines": [],
     "dishes": [
       "salad"
@@ -11934,7 +14889,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E09/E03.tiff",
+    "image": "/S23/E09/E03.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -11964,7 +14919,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E09/E04.tiff",
+    "image": "/S23/E09/E04.webp",
     "cuisines": [
       "French"
     ],
@@ -11995,7 +14950,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E09/E05.tiff",
+    "image": "/S23/E09/E05.webp",
     "cuisines": [
       "Japanese",
       "French"
@@ -12026,7 +14981,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E09/E06.tiff",
+    "image": "/S23/E09/E06.webp",
     "cuisines": [],
     "dishes": [
       "jus"
@@ -12052,7 +15007,7 @@
     "chef": [
       "Oscar Diaz"
     ],
-    "image": "/S23/E09/E07.tiff",
+    "image": "/S23/E09/E07.webp",
     "cuisines": [
       "Latin American"
     ],
@@ -12085,7 +15040,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E09/E08.tiff",
+    "image": "/S23/E09/E08.webp",
     "cuisines": [
       "British"
     ],
@@ -12095,7 +15050,6 @@
     ],
     "ingredients": [
       "creme fraiche",
-      "berries",
       "strawberry",
       "blueberry",
       "blackberry",
@@ -12119,7 +15073,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E10/QF01.tiff",
+    "image": "/S23/E10/QF01.webp",
     "cuisines": [],
     "dishes": [
       "salad",
@@ -12150,7 +15104,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E10/QF02.tiff",
+    "image": "/S23/E10/QF02.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -12182,7 +15136,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E10/QF03.tiff",
+    "image": "/S23/E10/QF03.webp",
     "cuisines": [],
     "dishes": [
       "romesco"
@@ -12210,7 +15164,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E10/QF04.tiff",
+    "image": "/S23/E10/QF04.webp",
     "cuisines": [
       "Spanish"
     ],
@@ -12240,7 +15194,7 @@
     "chef": [
       "Duyen Ha"
     ],
-    "image": "/S23/E10/E01.tiff",
+    "image": "/S23/E10/E01.webp",
     "cuisines": [
       "Vietnamese"
     ],
@@ -12271,7 +15225,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E10/E02.tiff",
+    "image": "/S23/E10/E02.webp",
     "cuisines": [
       "French"
     ],
@@ -12307,7 +15261,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E10/E03.tiff",
+    "image": "/S23/E10/E03.webp",
     "cuisines": [],
     "dishes": [
       "vinaigrette",
@@ -12338,7 +15292,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E10/E04.tiff",
+    "image": "/S23/E10/E04.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -12369,7 +15323,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E10/E05.tiff",
+    "image": "/S23/E10/E05.webp",
     "cuisines": [
       "West African"
     ],
@@ -12402,7 +15356,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E10/E06.tiff",
+    "image": "/S23/E10/E06.webp",
     "cuisines": [
       "Thai"
     ],
@@ -12431,7 +15385,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E10/E07.tiff",
+    "image": "/S23/E10/E07.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -12468,7 +15422,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E11/QF01.tiff",
+    "image": "/S23/E11/QF01.webp",
     "cuisines": [],
     "dishes": [
       "crostini",
@@ -12494,7 +15448,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E11/QF02.tiff",
+    "image": "/S23/E11/QF02.webp",
     "cuisines": [],
     "dishes": [
       "crostini",
@@ -12524,7 +15478,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E11/QF03.tiff",
+    "image": "/S23/E11/QF03.webp",
     "cuisines": [
       "Mexican"
     ],
@@ -12558,7 +15512,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E11/QF04.tiff",
+    "image": "/S23/E11/QF04.webp",
     "cuisines": [],
     "dishes": [
       "crostini",
@@ -12585,7 +15539,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E11/QF05.tiff",
+    "image": "/S23/E11/QF05.webp",
     "cuisines": [],
     "dishes": [
       "green harissa"
@@ -12612,7 +15566,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E11/QF06.tiff",
+    "image": "/S23/E11/QF06.webp",
     "cuisines": [
       "French"
     ],
@@ -12643,7 +15597,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E11/E01.tiff",
+    "image": "/S23/E11/E01.webp",
     "cuisines": [
       "French"
     ],
@@ -12675,7 +15629,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E11/E02.tiff",
+    "image": "/S23/E11/E02.webp",
     "cuisines": [
       "Caribbean",
       "Puerto Rican"
@@ -12709,7 +15663,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E11/E03.tiff",
+    "image": "/S23/E11/E03.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -12735,7 +15689,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E11/E04.tiff",
+    "image": "/S23/E11/E04.webp",
     "cuisines": [],
     "dishes": [
       "croquette",
@@ -12765,7 +15719,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E11/E05.tiff",
+    "image": "/S23/E11/E05.webp",
     "cuisines": [],
     "dishes": [
       "sausage",
@@ -12791,7 +15745,7 @@
     "chef": [
       "Anthony Jones"
     ],
-    "image": "/S23/E11/E06.tiff",
+    "image": "/S23/E11/E06.webp",
     "cuisines": [],
     "dishes": [
       "puree",
@@ -12821,7 +15775,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E12/E01.tiff",
+    "image": "/S23/E12/E01.webp",
     "cuisines": [
       "Southern"
     ],
@@ -12857,7 +15811,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E12/E02.tiff",
+    "image": "/S23/E12/E02.webp",
     "cuisines": [
       "Brazilian",
       "Southern"
@@ -12891,7 +15845,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E12/E03.tiff",
+    "image": "/S23/E12/E03.webp",
     "cuisines": [
       "Southern"
     ],
@@ -12927,7 +15881,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E12/E04.tiff",
+    "image": "/S23/E12/E04.webp",
     "cuisines": [
       "Filipino",
       "Chinese",
@@ -12964,7 +15918,7 @@
     "chef": [
       "Sieger Bayer"
     ],
-    "image": "/S23/E12/E05.tiff",
+    "image": "/S23/E12/E05.webp",
     "cuisines": [],
     "dishes": [
       "pâté",
@@ -12993,7 +15947,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E13/QF01.tiff",
+    "image": "/S23/E13/QF01.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -13020,7 +15974,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E13/QF02.tiff",
+    "image": "/S23/E13/QF02.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -13048,7 +16002,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E13/QF03.tiff",
+    "image": "/S23/E13/QF03.webp",
     "cuisines": [
       "French"
     ],
@@ -13081,7 +16035,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E13/QF04.tiff",
+    "image": "/S23/E13/QF04.webp",
     "cuisines": [],
     "dishes": [],
     "ingredients": [
@@ -13107,7 +16061,7 @@
     "chef": [
       "Jonathan Dearden"
     ],
-    "image": "/S23/E13/E01.tiff",
+    "image": "/S23/E13/E01.webp",
     "cuisines": [],
     "dishes": [
       "compound butter",
@@ -13136,7 +16090,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E13/E02.tiff",
+    "image": "/S23/E13/E02.webp",
     "cuisines": [],
     "dishes": [
       "puree",
@@ -13168,7 +16122,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E13/E03.tiff",
+    "image": "/S23/E13/E03.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -13210,7 +16164,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E13/E04.tiff",
+    "image": "/S23/E13/E04.webp",
     "cuisines": [
       "Korean"
     ],
@@ -13244,7 +16198,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E14/E01.tiff",
+    "image": "/S23/E14/E01.webp",
     "cuisines": [
       "Japanese"
     ],
@@ -13276,7 +16230,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E14/E02.tiff",
+    "image": "/S23/E14/E02.webp",
     "cuisines": [
       "Brazilian"
     ],
@@ -13309,7 +16263,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E14/E03.tiff",
+    "image": "/S23/E14/E03.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -13339,7 +16293,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E14/E04.tiff",
+    "image": "/S23/E14/E04.webp",
     "cuisines": [
       "Filipino"
     ],
@@ -13373,7 +16327,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E14/E05.tiff",
+    "image": "/S23/E14/E05.webp",
     "cuisines": [],
     "dishes": [
       "dumpling",
@@ -13404,7 +16358,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E14/E06.tiff",
+    "image": "/S23/E14/E06.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -13439,7 +16393,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E14/E07.tiff",
+    "image": "/S23/E14/E07.webp",
     "cuisines": [
       "Filipino"
     ],
@@ -13474,7 +16428,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E14/E08.tiff",
+    "image": "/S23/E14/E08.webp",
     "cuisines": [
       "French",
       "Peruvian"
@@ -13508,7 +16462,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E14/E09.tiff",
+    "image": "/S23/E14/E09.webp",
     "cuisines": [
       "Chinese"
     ],
@@ -13540,7 +16494,7 @@
     "chef": [
       "Rhoda Magbitang"
     ],
-    "image": "/S23/E14/E10.tiff",
+    "image": "/S23/E14/E10.webp",
     "cuisines": [],
     "dishes": [
       "jus"
@@ -13572,7 +16526,7 @@
     "chef": [
       "Sherry Cardoso"
     ],
-    "image": "/S23/E14/E11.tiff",
+    "image": "/S23/E14/E11.webp",
     "cuisines": [],
     "dishes": [
       "porridge",
@@ -13605,7 +16559,7 @@
     "chef": [
       "Laurence Louie"
     ],
-    "image": "/S23/E14/E12.tiff",
+    "image": "/S23/E14/E12.webp",
     "cuisines": [],
     "dishes": [
       "cake"
