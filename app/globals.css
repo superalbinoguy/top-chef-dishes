@@ -590,4 +590,9 @@ body.card-body {
   .photo-card {
     max-width: 150px;
   }
+
+  .home-preamble {
+    margin-bottom: 1rem;
+    opacity: 0.5
+  }
 }
