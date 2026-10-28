@@ -115,7 +115,7 @@ body.card-body {
 
 .photo-card {
   background: #fff;
-  padding: 12px 12px 32px;
+  padding: 12px 12px 14px;
   border: 2px solid black;
   box-shadow: 8px 8px 0 black;
   width: 200px;
@@ -420,6 +420,13 @@ body.card-body {
   gap: 12px;
 }
 
+.dish-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
 /* ===================================================================
    MOBILE RESPONSIVE STYLES
    =================================================================== */
@@ -594,5 +601,117 @@ body.card-body {
   .home-preamble {
     margin-bottom: 1rem;
     opacity: 0.5
+  }
+}
+
+@media (max-width: 640px) {
+  /* Stack: title on top, filter centered underneath */
+  .dishes-header {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .dishes-header .tag-filter-wrapper {
+    position: static;
+    transform: none;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* Wide, single-line chip */
+  .dishes-header .tag-filter {
+    width: 50%;
+    max-width: 360px;
+    justify-content: center;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 640px) {
+  .tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+
+    position: relative;
+    z-index: 3;            /* lift the whole row above the card */
+    align-items: flex-start;
+    padding-bottom: 0;     /* remove the 2px that lifted the tab */
+    padding-right: 8px;    /* room for the last tab's shadow */
+  }
+
+  .card-tab {
+    flex: 0 0 auto;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    transform: translateY(3px);   /* bottom border lands exactly on the card's border */
+  }
+
+  .card-tab:hover {
+    transform: translateY(1px);
+  }
+
+  .card-tab.active {
+    transform: none;
+    padding-bottom: calc(0.5rem + 6px); /* extend down over the card's top border */
+  }
+
+  .dish-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .photo-card {
+    padding: 10px 10px 10px;
+  }
+
+  .dish-grid .photo-card {
+    width: 100%;
+    max-width: none;
+    box-sizing: border-box;
+    padding: 8px 8px 10px;
+    box-shadow: 4px 4px 0 black;
+  }
+
+  .dish-grid .photo-card:hover {
+    box-shadow: 6px 6px 0 black;
+  }
+
+  .dish-grid .photo-card img {
+    max-width: 100%;
+  }
+
+  .tabs.can-scroll-left.can-scroll-right {
+    -webkit-mask-image: linear-gradient(to right, transparent, #000 32px, #000 calc(100% - 64px), transparent);
+    mask-image: linear-gradient(to right, transparent, #000 64px, #000 calc(100% - 64px), transparent);
+  }
+
+  .tabs.can-scroll-left:not(.can-scroll-right) {
+    -webkit-mask-image: linear-gradient(to right, transparent, #000 64px);
+    mask-image: linear-gradient(to right, transparent, #000 64px);
+  }
+
+  .tabs.can-scroll-right:not(.can-scroll-left) {
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 64px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 64px), transparent);
+  }
+}
+
+.chef-card-name {
+  font-size: 18px;
+}
+
+@media (max-width: 640px) {
+  .chef-card-name {
+    font-size: 14px;
+  }
+
+  .dish-page {
+    padding: 0;
   }
 }

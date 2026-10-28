@@ -44,7 +44,7 @@ export default function DishHomepage() {
 
   return (
     <div>
-      <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
+      <div className="dishes-header relative flex items-center justify-center text-3xl font-semibold mb-4">
         <div className="flex items-center gap-2">
           <span>The</span>
           <Image
@@ -58,13 +58,13 @@ export default function DishHomepage() {
         </div>
 
         <div className="tag-filter-wrapper">
-                    <TagFilter
-                      filters={dishFilters}
-                      selected={selectedFilters}
-                      onChange={setSelectedFilters}
-                    />
-                  </div>
+          <TagFilter
+            filters={dishFilters}
+            selected={selectedFilters}
+            onChange={setSelectedFilters}
+          />
         </div>
+      </div>
       <div className="season-wrapper">
         {(selectedSeason ? [selectedSeason] : seasons).map((season) => (
           <section key={season}>
@@ -81,19 +81,9 @@ export default function DishHomepage() {
                     <h3>Episode {episode}</h3>
                   </div>
 
-                  <div
-                    style={{
-                      display: "flex",
-                      flexWrap: "wrap",
-                      gap: "2rem",
-                      marginBottom: "3rem",
-                    }}
-                  >
+                  <div className="dish-grid">
                     {grouped[season][episode].map((dish) => (
-                      <PhotoCard
-                        key={dish.slug}
-                        dish={dish}
-                      />
+                      <PhotoCard key={dish.slug} dish={dish} />
                     ))}
                   </div>
                 </div>

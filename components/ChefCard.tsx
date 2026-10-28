@@ -19,15 +19,7 @@ export default function ChefCard({
         color: "inherit",
       }}
     >
-      <div className="photo-card"
-        style={{
-          background: "#fff",
-          padding: "12px 12px 32px",
-          border: "2px solid black",
-          boxShadow: "8px 8px 0 black",
-          width: "190px",
-        }}
-      >
+      <div className="photo-card">
         <div
           style={{
             aspectRatio: "1 / 1",
@@ -46,14 +38,7 @@ export default function ChefCard({
           />
         </div>
 
-        <div
-          style={{
-            marginTop: "12px",
-            textAlign: "center",
-            fontWeight: 600,
-            fontSize: "18px"
-          }}
-        >
+        <div className="chef-card-name" style={{ marginTop: "12px", textAlign: "center", fontWeight: 600 }}>
           {chefDisplayName(chef, "first")}
         </div>
       </div>

@@ -46,15 +46,7 @@ export default async function EpisodePage({
           Quickfire
         </h1>
       </div>
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "2rem",
-          marginTop: "1.5rem",
-          marginBottom: "1.5rem"
-        }}
-      >
+      <div className="dish-grid" style={{ marginTop: "1.5rem" }}>
         {quickfireDishes.map((dish) => (
           <PhotoCard key={dish.slug} dish={dish} />
         ))}
@@ -65,15 +57,7 @@ export default async function EpisodePage({
           Elimination
         </h1>
       </div>
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "2rem",
-          marginTop: "1.5rem",
-          marginBottom: "1.5rem"
-        }}
-      >
+      <div className="dish-grid" style={{ marginTop: "1.5rem" }}>
         {eliminationDishes.map((dish) => (
           <PhotoCard key={dish.slug} dish={dish} />
         ))}

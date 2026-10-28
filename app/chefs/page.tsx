@@ -50,19 +50,11 @@ export default function ChefsPage() {
           <div className="season-header">
             <h2>Season {season}</h2>
           </div>
-          <div style={{        
-            display: "flex",
-            flexWrap: "wrap",
-            gap: "1.5rem",
-            marginBottom: "3rem",
-          }}>
+          <div className="dish-grid">
             {Array.from(chefsBySeason[season])
               .sort()
               .map((chef) => (
-                <ChefCard
-                        key={chefSlug(chef)}
-                        chef={chef}
-                      />
+                <ChefCard key={chefSlug(chef)} chef={chef} />
               ))}
           </div>
         </section>

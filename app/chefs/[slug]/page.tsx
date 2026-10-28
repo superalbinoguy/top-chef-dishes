@@ -38,15 +38,7 @@ export default async function ChefPage({
         </p>
       </div>
 
-      {/* GRID */}
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "2rem",
-          marginTop: "1.5rem",
-        }}
-      >
+      <div className="dish-grid" style={{ marginTop: "1.5rem" }}>
         {chefDishes.map((dish) => (
           <PhotoCard key={dish.slug} dish={dish} />
         ))}

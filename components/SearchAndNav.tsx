@@ -111,6 +111,7 @@ export default function SearchAndNav({ dishes }: { dishes: Dish[] }) {
   const [open, setOpen] = useState(false);
 
   const containerRef = useRef<HTMLDivElement | null>(null);
+  const tabsRef = useRef<HTMLDivElement | null>(null);
 
   const index = useMemo(() => buildIndex(dishes), [dishes]);
 
@@ -153,6 +154,27 @@ export default function SearchAndNav({ dishes }: { dishes: Dish[] }) {
     document.addEventListener("mousedown", handler);
     return () => document.removeEventListener("mousedown", handler);
   }, []);
+
+  useEffect(() => {
+  const tabs = tabsRef.current;
+  if (!tabs) return;
+
+  const updateFades = () => {
+    const max = tabs.scrollWidth - tabs.clientWidth;
+    tabs.classList.toggle("can-scroll-left", tabs.scrollLeft > 1);
+    tabs.classList.toggle("can-scroll-right", tabs.scrollLeft < max - 1);
+  };
+
+  tabs.addEventListener("scroll", updateFades, { passive: true });
+  const ro = new ResizeObserver(updateFades);
+  ro.observe(tabs);
+  updateFades();
+
+  return () => {
+    tabs.removeEventListener("scroll", updateFades);
+    ro.disconnect();
+  };
+}, []);
 
   return (
     <div ref={containerRef}>
@@ -204,7 +226,7 @@ export default function SearchAndNav({ dishes }: { dishes: Dish[] }) {
 
       {/* TABS */}
       <div>
-        <div className="tabs flex gap-2 flex-wrap">
+        <div ref={tabsRef} className="tabs flex gap-2">
           {routes.map((r) => {
             const isActive =
               r.path === "/"

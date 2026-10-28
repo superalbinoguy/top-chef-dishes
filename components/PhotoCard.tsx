@@ -101,10 +101,7 @@ export default function PhotoCard({
         {dish.chef && dish.chef.length > 0 && (
           <div
             style={{
-              position: "absolute",
-              left: "12px",
-              bottom: "8px",
-              maxWidth: "calc(100% - 24px)",
+              marginTop: "6px",
               overflow: "hidden",
               textOverflow: "ellipsis",
               whiteSpace: "nowrap",
