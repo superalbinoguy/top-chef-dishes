@@ -29,10 +29,10 @@ export default async function ChefPage({
     <div className="season-wrapper">
       {/* HEADER */}
       <div className="season-header">
-        <div style={{ display: "flex", gap: "0.5rem", alignItems: "baseline" }}>
-          <h1 style={{ opacity: 0.3, marginRight: "4px",}}>Dishes by</h1>
-          <h1>{chef}</h1>
-        </div>
+        <h1>
+          <span style={{ opacity: 0.3, marginRight: "0.4rem" }}>Dishes by</span>
+          <span>{chef}</span>
+        </h1>
         <p style={{ opacity: 0.6, marginTop: "0.25rem" }}>
           {chefDishes.length} dishes
         </p>

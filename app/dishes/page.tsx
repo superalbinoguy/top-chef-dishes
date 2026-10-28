@@ -42,6 +42,10 @@ export default function DishHomepage() {
     .map(Number)
     .sort((a, b) => b - a);
 
+  const visibleSeasons = selectedSeason
+  ? seasons.filter((s) => s === selectedSeason)
+  : seasons;
+
   return (
     <div>
       <div className="dishes-header relative flex items-center justify-center text-3xl font-semibold mb-4">
@@ -66,7 +70,13 @@ export default function DishHomepage() {
         </div>
       </div>
       <div className="season-wrapper">
-        {(selectedSeason ? [selectedSeason] : seasons).map((season) => (
+        {visibleSeasons.length === 0 && (
+          <p style={{ opacity: 0.6 }}>
+            No dishes match the current filters.
+          </p>
+        )}
+
+        {visibleSeasons.map((season) => (
           <section key={season}>
             <div className="season-header">
               <h2>Season {season}</h2>

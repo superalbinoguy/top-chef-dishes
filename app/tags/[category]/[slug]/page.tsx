@@ -82,10 +82,12 @@ export default function TagPage({
   return (
     <div className="season-wrapper">
       <div className="season-header">
-        <div style={{ display: "flex", gap: "0.5rem", alignItems: "baseline" }}>
-          <h1 style={{ opacity: 0.3, marginRight: "4px",}}>{getTagTitle(typedCategory)}</h1>
-          <h1>{tag}</h1>
-        </div>
+        <h1>
+          <span style={{ opacity: 0.3, marginRight: "0.4rem" }}>
+            {getTagTitle(typedCategory)}
+          </span>
+          <span>{tag}</span>
+        </h1>
         <p style={{ opacity: 0.6, marginTop: "0.25rem" }}>
           {matchingDishes.length} dishes
         </p>

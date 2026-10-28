@@ -179,6 +179,14 @@ export default function TagsPage() {
     },
   ] as const;
 
+  const visibleGroups = groups.filter(
+    (group) =>
+      selectedTagCategory === null ||
+      group.category === selectedTagCategory
+  );
+
+  const hasResults = visibleGroups.some((group) => group.data.length > 0);
+
   return (
     <div>
       {/* Header */}
@@ -205,12 +213,14 @@ export default function TagsPage() {
       </div>
       {/* Groups */}
       <div className="season-wrapper">
-        {groups
-          .filter(
-            (group) =>
-              selectedTagCategory === null ||
-              group.category === selectedTagCategory
-          )
+        {!hasResults && (
+          <p style={{ opacity: 0.6 }}>
+            No dishes match the current filters.
+          </p>
+        )}
+
+        {visibleGroups
+          .filter((group) => group.data.length > 0)
           .map((group) => {
 
           const isExpanded = expanded[group.category];
