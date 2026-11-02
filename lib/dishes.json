@@ -3674,7 +3674,9 @@
       "grilled",
       "flambeed"
     ],
-    "miscellaneous": [],
+    "miscellaneous": [
+      "winning"
+    ],
     "recipe": ""
   },
   {
@@ -3879,7 +3881,8 @@
       "bruleed"
     ],
     "miscellaneous": [
-      "dessert"
+      "dessert",
+      "winning"
     ],
     "recipe": ""
   },
@@ -3939,6 +3942,48 @@
     ],
     "miscellaneous": [],
     "recipe": ""
+  },
+  {
+    "name": "Charred Squab Breast with Green Curry Yogurt Sauce, Panko-Fried Squab Leg & Toasted Almond",
+    "slug": "S21E07QF11",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Kévin D'Andrea"],
+    "image": "/S21/E07/QF11.webp",
+    "cuisines": ["Thai"],
+    "dishes": [],
+    "ingredients": ["squab", "yogurt", "curry", "almonds", "panko"],
+    "techniques": ["charred", "fried"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Glazed Veal Chop with Grilled & Charred Corn Relish & Peach Pickles",
+    "slug": "S21E07QF12",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Amanda Turner"],
+    "image": "/S21/E07/QF12.webp",
+    "cuisines": [],
+    "dishes": ["relish", "pickles"],
+    "ingredients": ["veal", "corn", "peach", "chiles"],
+    "techniques": ["glazed", "grilled", "charred", "pickled"],
+    "miscellaneous": []
+  },
+  {
+    "name": "Charred Branzino with Charred Poblano Purée & Charred Avocado",
+    "slug": "S21E07QF13",
+    "season": 21,
+    "episode": 7,
+    "competition": "Quickfire",
+    "chef": ["Danny Garcia"],
+    "image": "/S21/E07/QF13.webp",
+    "cuisines": ["Mexican"],
+    "dishes": ["puree"],
+    "ingredients": ["fish", "branzino", "poblano", "chiles", "avocado", "cilantro"],
+    "techniques": ["charred"],
+    "miscellaneous": ["winning"]
   },
   {
     "name": "Corn Dog with Wasabi & Jalapeño Mayo",
