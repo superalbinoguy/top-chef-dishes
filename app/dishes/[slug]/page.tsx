@@ -12,6 +12,44 @@ function getImagePath(slug: string) {
   return `/images/${season}/${episode}/${file}`;
 }
 
+type TimeLimit = {
+  minutes: number | null;
+  segments: number[];
+  overnight: boolean | null;
+  status: "timed" | "overnight_unspecified" | "untimed" | "unknown";
+};
+
+function formatMinutes(total: number) {
+  const hours = Math.floor(total / 60);
+  const mins = total % 60;
+
+  if (hours === 0) return `${mins} min`;
+  if (mins === 0) return `${hours} hr`;
+  return `${hours} hr ${mins} min`;
+}
+
+function formatTimeLimit(limit: TimeLimit) {
+  switch (limit.status) {
+    case "timed":
+      if (limit.segments.length > 1) {
+        const days = limit.segments
+          .map((minutes, i) => `Day ${i + 1}: ${formatMinutes(minutes)}`)
+          .join(" · ");
+        return `${days} (${formatMinutes(limit.minutes ?? 0)} total)`;
+      }
+      return formatMinutes(limit.minutes ?? 0);
+
+    case "overnight_unspecified":
+      return "Overnight cook (time unspecified)";
+
+    case "untimed":
+      return "No time limit / non-standard clock";
+
+    default:
+      return "Unknown";
+  }
+}
+
 function TagSection({
   title,
   href,
@@ -173,6 +211,11 @@ export default async function DishPage({
                   </Link>
                 </dd>
               </div>
+              
+              <div>
+                <dt>Time Limit</dt>
+                <dd>{formatTimeLimit(dish.time_limit as TimeLimit)}</dd>
+              </div>
 
               <div>
                 <dt>Recipe</dt>
@@ -195,15 +238,15 @@ export default async function DishPage({
               <div>
                 <dt>Miscellaneous</dt>
                 <dd>
-                  {dish.miscellaneous.length > 0
-                    ? dish.miscellaneous.map((tag, index) => (
-                        <span key={tag}>
-                          {index > 0 && ", "}
-                          {tag}
-                        </span>
-                      ))
-                    : "None"}
-                </dd>
+                {dish.miscellaneous.length > 0
+                  ? dish.miscellaneous.map((tag, index) => (
+                      <span key={tag}>
+                        {index > 0 && ", "}
+                        {tag}
+                      </span>
+                    ))
+                  : "None"}
+              </dd>
               </div>
 
             </dl>

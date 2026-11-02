@@ -27,6 +27,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -64,6 +70,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -96,6 +108,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -128,6 +146,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -160,6 +184,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -185,6 +215,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -218,6 +254,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": "https://www.denverlifemagazine.com/top-chef-contestant-manny-barellas-winning-pozole-recipe/"
   },
   {
@@ -241,6 +283,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -272,6 +320,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -301,6 +355,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -333,6 +393,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -360,6 +426,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -392,6 +464,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -422,6 +500,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -450,6 +534,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -480,6 +570,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -506,6 +602,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -534,6 +636,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -562,6 +670,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -591,6 +705,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -621,6 +741,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -647,6 +773,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -678,6 +810,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -706,6 +844,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -731,6 +875,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -758,6 +908,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -791,6 +947,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -820,6 +982,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -848,6 +1016,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -874,6 +1048,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -908,6 +1088,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -935,6 +1121,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -966,6 +1158,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -992,6 +1190,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1023,6 +1227,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1050,6 +1260,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1078,6 +1294,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1107,6 +1329,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1136,6 +1364,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1163,6 +1397,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1196,6 +1436,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1227,6 +1473,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1257,6 +1509,12 @@
       "caramelized"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1285,6 +1543,12 @@
       "glazed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1315,6 +1579,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1343,6 +1613,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1369,6 +1645,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1395,6 +1677,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1423,6 +1711,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1450,6 +1744,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1476,6 +1776,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1505,6 +1811,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1535,6 +1847,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1562,6 +1880,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1589,6 +1913,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1618,6 +1948,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1645,6 +1981,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1677,6 +2019,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1702,6 +2050,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1731,6 +2085,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1758,6 +2118,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1785,6 +2151,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1817,6 +2189,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1849,6 +2227,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1877,6 +2261,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1907,6 +2297,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1937,6 +2333,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -1973,6 +2375,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2006,6 +2414,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [120, 45],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2032,6 +2446,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2065,6 +2485,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2094,6 +2520,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2125,6 +2557,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2153,6 +2591,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2185,6 +2629,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2212,6 +2662,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2239,6 +2695,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2270,6 +2732,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2299,6 +2767,12 @@
       "sous vide"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2330,6 +2804,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2355,6 +2835,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2381,6 +2867,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2409,6 +2901,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2438,6 +2936,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2471,6 +2975,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2501,6 +3011,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2530,6 +3046,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2560,6 +3082,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2588,6 +3116,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2620,6 +3154,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2650,6 +3190,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2687,6 +3233,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2728,6 +3280,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2762,6 +3320,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2795,6 +3359,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2827,6 +3397,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2861,6 +3437,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2887,6 +3469,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2918,6 +3506,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2945,6 +3539,12 @@
       "confit"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -2974,6 +3574,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3003,6 +3609,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3034,6 +3646,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3066,6 +3684,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3093,6 +3717,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3121,6 +3751,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3151,6 +3787,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3182,6 +3824,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3208,6 +3856,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3235,6 +3889,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3269,6 +3929,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3298,6 +3964,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3331,6 +4003,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3365,6 +4043,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3397,6 +4081,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3427,6 +4117,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3452,6 +4148,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3486,6 +4188,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3520,6 +4228,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3555,6 +4269,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3586,6 +4306,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3616,6 +4342,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3646,6 +4378,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3677,6 +4415,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3708,6 +4452,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3736,6 +4486,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3764,6 +4520,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3792,6 +4554,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3820,6 +4588,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3850,6 +4624,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3884,6 +4664,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3913,6 +4699,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3941,6 +4733,12 @@
       "flambeed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -3955,7 +4753,13 @@
     "dishes": [],
     "ingredients": ["squab", "yogurt", "curry", "almonds", "panko"],
     "techniques": ["charred", "fried"],
-    "miscellaneous": []
+    "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    }
   },
   {
     "name": "Glazed Veal Chop with Grilled & Charred Corn Relish & Peach Pickles",
@@ -3969,7 +4773,13 @@
     "dishes": ["relish", "pickles"],
     "ingredients": ["veal", "corn", "peach", "chiles"],
     "techniques": ["glazed", "grilled", "charred", "pickled"],
-    "miscellaneous": []
+    "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    }
   },
   {
     "name": "Charred Branzino with Charred Poblano Purée & Charred Avocado",
@@ -3983,7 +4793,13 @@
     "dishes": ["puree"],
     "ingredients": ["fish", "branzino", "poblano", "chiles", "avocado", "cilantro"],
     "techniques": ["charred"],
-    "miscellaneous": ["winning"]
+    "miscellaneous": ["winning"],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    }
   },
   {
     "name": "Corn Dog with Wasabi & Jalapeño Mayo",
@@ -4014,6 +4830,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4043,6 +4865,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4075,6 +4903,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4105,6 +4939,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4138,6 +4978,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4171,6 +5017,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4205,6 +5057,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4235,6 +5093,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4269,6 +5133,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4305,6 +5175,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4333,6 +5209,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4367,6 +5249,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4398,6 +5286,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4430,6 +5324,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4463,6 +5363,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4495,6 +5401,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4524,6 +5436,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4556,6 +5474,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4586,6 +5510,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4617,6 +5547,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4644,6 +5580,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4675,6 +5617,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4709,6 +5657,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 300,
+      "segments": [300],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4736,6 +5690,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4767,6 +5727,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4796,6 +5762,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4823,6 +5795,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4853,6 +5831,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4882,6 +5866,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4911,6 +5901,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4939,6 +5935,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -4969,6 +5971,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5002,6 +6010,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5031,6 +6045,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5064,6 +6084,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5091,6 +6117,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5122,6 +6154,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5150,6 +6188,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5178,6 +6222,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5208,6 +6258,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5237,6 +6293,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5269,6 +6331,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5300,6 +6368,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5331,6 +6405,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5364,6 +6444,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5398,6 +6484,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5431,6 +6523,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5467,6 +6565,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5503,6 +6607,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5542,6 +6652,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5580,6 +6696,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5604,6 +6726,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5633,6 +6761,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5663,6 +6797,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5689,6 +6829,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5716,6 +6862,12 @@
       "stir-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5745,6 +6897,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5783,6 +6941,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [120, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5822,6 +6986,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5861,6 +7031,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5899,6 +7075,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5948,6 +7130,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -5988,6 +7176,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6019,6 +7213,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6047,6 +7247,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6076,6 +7282,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6107,6 +7319,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6137,6 +7355,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6166,6 +7390,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6199,6 +7429,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6229,6 +7465,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6261,6 +7503,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6291,6 +7539,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6324,6 +7578,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6349,6 +7609,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6377,6 +7643,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6408,6 +7680,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6443,6 +7721,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6475,6 +7759,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6504,6 +7794,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6536,6 +7832,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6572,6 +7874,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6610,6 +7918,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6643,6 +7957,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6674,6 +7994,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6708,6 +8034,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6738,6 +8070,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6775,6 +8113,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6809,6 +8153,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6840,6 +8190,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6871,6 +8227,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6906,6 +8268,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6941,6 +8309,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 450,
+      "segments": [300, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -6972,6 +8346,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7005,6 +8385,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7036,6 +8422,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7069,6 +8461,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7100,6 +8498,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7133,6 +8537,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7164,6 +8574,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7196,6 +8612,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7225,6 +8647,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7258,6 +8686,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7286,6 +8720,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7315,6 +8755,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7349,6 +8795,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7381,6 +8833,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7413,6 +8871,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7451,6 +8915,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7482,6 +8952,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7513,6 +8989,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7543,6 +9025,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7572,6 +9060,12 @@
       "confit"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7600,6 +9094,12 @@
       "caramelized"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7631,6 +9131,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7658,6 +9164,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7685,6 +9197,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7717,6 +9235,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7748,6 +9272,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7777,6 +9307,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7804,6 +9340,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7840,6 +9382,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7869,6 +9417,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7903,6 +9457,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7933,6 +9493,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7964,6 +9530,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -7997,6 +9569,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8027,6 +9605,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8064,6 +9648,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8096,6 +9686,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8130,6 +9726,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8163,6 +9765,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8195,6 +9803,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8231,6 +9845,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8261,6 +9881,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8291,6 +9917,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8322,6 +9954,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8357,6 +9995,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8387,6 +10031,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8416,6 +10066,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8447,6 +10103,12 @@
       "dessert",
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8477,6 +10139,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8503,6 +10171,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8529,6 +10203,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8556,6 +10236,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8583,6 +10269,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8613,6 +10305,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8640,6 +10338,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8666,6 +10370,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8694,6 +10404,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8721,6 +10437,12 @@
       "glazed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8745,6 +10467,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8775,6 +10503,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8801,6 +10535,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8829,6 +10569,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8857,6 +10603,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8894,6 +10646,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8928,6 +10686,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8958,6 +10722,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -8989,6 +10759,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9018,6 +10794,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9044,6 +10826,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9078,6 +10866,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9108,6 +10902,12 @@
       "candied"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9140,6 +10940,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9176,6 +10982,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9206,6 +11018,12 @@
       "dessert",
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9237,6 +11055,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9272,6 +11096,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9300,6 +11130,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9328,6 +11164,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9360,6 +11202,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9387,6 +11235,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9413,6 +11267,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9439,6 +11299,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9465,6 +11331,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 15,
+      "segments": [15],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9499,6 +11371,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 15,
+      "segments": [15],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9526,6 +11404,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 15,
+      "segments": [15],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9556,6 +11440,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 15,
+      "segments": [15],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9592,6 +11482,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9623,6 +11519,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9651,6 +11553,12 @@
       "glazed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9680,6 +11588,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9706,6 +11620,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9737,6 +11657,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9771,6 +11697,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9804,6 +11736,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9833,6 +11771,12 @@
       "confit"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9866,6 +11810,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9898,6 +11848,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9930,6 +11886,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9961,6 +11923,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -9998,6 +11966,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10030,6 +12004,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10062,6 +12042,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10096,6 +12082,12 @@
       "fermented"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10129,6 +12121,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 210,
+      "segments": [120, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10163,6 +12161,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10192,6 +12196,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10223,6 +12233,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10252,6 +12268,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10284,6 +12306,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10320,6 +12348,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10348,6 +12382,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10374,6 +12414,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10403,6 +12449,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10429,6 +12481,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10459,6 +12517,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10488,6 +12552,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [90, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10519,6 +12589,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 200,
+      "segments": [90, 110],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10552,6 +12628,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 200,
+      "segments": [90, 110],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10586,6 +12668,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 220,
+      "segments": [90, 130],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10618,6 +12706,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 220,
+      "segments": [90, 130],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10649,6 +12743,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [90, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10680,6 +12780,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [90, 150],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10713,6 +12819,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 260,
+      "segments": [90, 170],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10745,6 +12857,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 260,
+      "segments": [90, 170],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10774,6 +12892,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10803,6 +12927,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10832,6 +12962,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10859,6 +12995,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10892,6 +13034,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10921,6 +13069,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10951,6 +13105,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -10981,6 +13141,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11009,6 +13175,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11045,6 +13217,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11078,6 +13256,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11111,6 +13295,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": "https://cooking.nytimes.com/recipes/1026955-tamarind-glazed-oxtails"
   },
   {
@@ -11144,6 +13334,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11177,6 +13373,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11209,6 +13411,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11239,6 +13447,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11270,6 +13484,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11304,6 +13524,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [60, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11339,6 +13565,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11373,6 +13605,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11405,6 +13643,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11439,6 +13683,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11472,6 +13722,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11504,6 +13760,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11535,6 +13797,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11569,6 +13837,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11600,6 +13874,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11629,6 +13909,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11662,6 +13948,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11690,6 +13982,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [240],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11720,6 +14018,12 @@
       "stir-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11746,6 +14050,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11775,6 +14085,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11802,6 +14118,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11828,6 +14150,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11860,6 +14188,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11887,6 +14221,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11921,6 +14261,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11953,6 +14299,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -11983,6 +14335,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12013,6 +14371,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12041,6 +14405,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12074,6 +14444,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12105,6 +14481,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12137,6 +14519,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12169,6 +14557,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12196,6 +14590,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12227,6 +14627,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12255,6 +14661,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12284,6 +14696,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12315,6 +14733,12 @@
       "candied"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12341,6 +14765,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12372,6 +14802,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12401,6 +14837,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12429,6 +14871,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12459,6 +14907,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12491,6 +14945,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12525,6 +14985,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12559,6 +15025,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12588,6 +15060,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12620,6 +15098,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12652,6 +15136,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12684,6 +15174,12 @@
       "bruleed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12716,6 +15212,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12748,6 +15250,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12778,6 +15286,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12809,6 +15323,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12840,6 +15360,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12872,6 +15398,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12905,6 +15437,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12938,6 +15476,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12967,6 +15511,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -12999,6 +15549,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13032,6 +15588,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13065,6 +15627,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13093,6 +15661,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 35,
+      "segments": [35],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13123,6 +15697,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 35,
+      "segments": [35],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13155,6 +15735,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 35,
+      "segments": [35],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13185,6 +15771,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 35,
+      "segments": [35],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13221,6 +15813,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [120, 30],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13258,6 +15856,12 @@
       "dessert",
       "losing"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [120, 30],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13286,6 +15890,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [120, 30],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13314,6 +15924,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [120, 30],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13351,6 +15967,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13386,6 +16008,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13422,6 +16050,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13455,6 +16089,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13491,6 +16131,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13524,6 +16170,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13558,6 +16210,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13591,6 +16249,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13627,6 +16291,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13662,6 +16332,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13698,6 +16374,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13735,6 +16417,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13767,6 +16455,12 @@
       "cured"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -13799,6 +16493,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -13831,6 +16531,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -13862,6 +16568,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -13899,6 +16611,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -13929,6 +16647,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13960,6 +16684,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -13990,6 +16720,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14022,6 +16758,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14052,6 +16794,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14081,6 +16829,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14111,6 +16865,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14141,6 +16901,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14174,6 +16940,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14203,6 +16975,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14230,6 +17008,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14260,6 +17044,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14291,6 +17081,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14317,6 +17113,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14345,6 +17147,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14377,6 +17185,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14407,6 +17221,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14436,6 +17256,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14464,6 +17290,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14497,6 +17329,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14522,6 +17360,12 @@
       "candied"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14549,6 +17393,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14582,6 +17432,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14612,6 +17468,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14638,6 +17500,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14661,6 +17529,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14687,6 +17561,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14717,6 +17597,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14745,6 +17631,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14777,6 +17669,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14807,6 +17705,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14840,6 +17744,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14868,6 +17778,12 @@
       "frozen"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14897,6 +17813,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14928,6 +17850,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14957,6 +17885,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -14987,6 +17921,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15026,6 +17966,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15061,6 +18007,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15095,6 +18047,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15129,6 +18087,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15160,6 +18124,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15192,6 +18162,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15221,6 +18197,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15247,6 +18229,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15276,6 +18264,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15304,6 +18298,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15332,6 +18332,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15359,6 +18365,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15386,6 +18398,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15415,6 +18433,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15441,6 +18465,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15465,6 +18495,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15492,6 +18528,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15523,6 +18565,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15552,6 +18600,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15584,6 +18638,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15617,6 +18677,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15644,6 +18710,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15677,6 +18749,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15709,6 +18787,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15735,6 +18819,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15767,6 +18857,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15808,6 +18904,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15841,6 +18943,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15869,6 +18977,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15899,6 +19013,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15932,6 +19052,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [120, 60],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15960,6 +19086,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -15985,6 +19117,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16011,6 +19149,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16039,6 +19183,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16065,6 +19215,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16094,6 +19250,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16124,6 +19286,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16154,6 +19322,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16183,6 +19357,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16210,6 +19390,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16238,6 +19424,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16266,6 +19458,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16295,6 +19493,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16321,6 +19525,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16355,6 +19565,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16392,6 +19608,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16426,6 +19648,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16455,6 +19683,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16485,6 +19719,12 @@
       "confit"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16511,6 +19751,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16545,6 +19791,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16578,6 +19830,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16609,6 +19867,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16635,6 +19899,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16665,6 +19935,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16692,6 +19968,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16719,6 +20001,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16750,6 +20038,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16779,6 +20073,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16804,6 +20104,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16832,6 +20138,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16865,6 +20177,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16889,6 +20207,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16922,6 +20246,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16956,6 +20286,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -16986,6 +20322,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17022,6 +20364,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17058,6 +20406,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17085,6 +20439,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17118,6 +20478,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17151,6 +20517,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17182,6 +20554,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17213,6 +20591,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17245,6 +20629,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17279,6 +20669,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 165,
+      "segments": [75, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17306,6 +20702,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17333,6 +20735,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17360,6 +20768,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17387,6 +20801,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17415,6 +20835,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17443,6 +20869,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17471,6 +20903,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17500,6 +20938,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -17533,6 +20977,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17567,6 +21017,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17599,6 +21055,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17629,6 +21091,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17662,6 +21130,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17697,6 +21171,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17730,6 +21210,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17764,6 +21250,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17795,6 +21287,12 @@
       "smoked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17829,6 +21327,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": true,
+      "status": "overnight_unspecified"
+    },
     "recipe": ""
   },
   {
@@ -17860,6 +21364,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17890,6 +21400,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17920,6 +21436,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17950,6 +21472,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -17985,6 +21513,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18014,6 +21548,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18042,6 +21582,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18073,6 +21619,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18100,6 +21652,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 45,
+      "segments": [45],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18131,6 +21689,12 @@
       "dessert",
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18164,6 +21728,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18195,6 +21765,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18227,6 +21803,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18255,6 +21837,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18289,6 +21877,12 @@
       "dessert",
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18323,6 +21917,12 @@
       "dessert",
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18355,6 +21955,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18387,6 +21993,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18418,6 +22030,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18452,6 +22070,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18486,6 +22110,12 @@
       "baked"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18519,6 +22149,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18550,6 +22186,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18586,6 +22228,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18617,6 +22265,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18647,6 +22301,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18676,6 +22336,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18708,6 +22374,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18737,6 +22409,12 @@
     "miscellaneous": [
       "dessert"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18767,6 +22445,12 @@
       "dessert",
       "losing"
     ],
+    "time_limit": {
+      "minutes": null,
+      "segments": [],
+      "overnight": false,
+      "status": "untimed"
+    },
     "recipe": ""
   },
   {
@@ -18796,6 +22480,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18826,6 +22516,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18852,6 +22548,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18878,6 +22580,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18907,6 +22615,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18937,6 +22651,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18966,6 +22686,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -18993,6 +22719,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19026,6 +22758,12 @@
       "top"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19053,6 +22791,12 @@
       "compressed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 60,
+      "segments": [60],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19084,6 +22828,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19116,6 +22866,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19148,6 +22904,12 @@
       "steamed"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19175,6 +22937,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19209,6 +22977,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19243,6 +23017,12 @@
       "dessert",
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 150,
+      "segments": [150],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19275,6 +23055,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19308,6 +23094,12 @@
       "fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19337,6 +23129,12 @@
       "charred"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19368,6 +23166,12 @@
       "grilled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 20,
+      "segments": [20],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19400,6 +23204,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19437,6 +23247,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19469,6 +23285,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19501,6 +23323,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19535,6 +23363,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19565,6 +23399,12 @@
       "pan-fried"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 90,
+      "segments": [90],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19603,6 +23443,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 120,
+      "segments": [120],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19630,6 +23476,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19661,6 +23513,12 @@
       "pickled"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19696,6 +23554,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19724,6 +23588,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19752,6 +23622,12 @@
     ],
     "techniques": [],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19784,6 +23660,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19817,6 +23699,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19852,6 +23740,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19879,6 +23773,12 @@
       "velveted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19910,6 +23810,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19937,6 +23843,12 @@
       "braised"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -19968,6 +23880,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 180,
+      "segments": [180],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20005,6 +23923,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 270,
+      "segments": [180, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20040,6 +23964,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 270,
+      "segments": [180, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20077,6 +24007,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 270,
+      "segments": [180, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20115,6 +24051,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 270,
+      "segments": [180, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20145,6 +24087,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 270,
+      "segments": [180, 90],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20172,6 +24120,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20201,6 +24155,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20235,6 +24195,12 @@
       "roasted"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20262,6 +24228,12 @@
       "poached"
     ],
     "miscellaneous": [],
+    "time_limit": {
+      "minutes": 30,
+      "segments": [30],
+      "overnight": false,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20292,6 +24264,12 @@
     "miscellaneous": [
       "losing"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [120, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20325,6 +24303,12 @@
     "miscellaneous": [
       "top"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [120, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20368,6 +24352,12 @@
     "miscellaneous": [
       "bottom"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [120, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20403,6 +24393,12 @@
     "miscellaneous": [
       "winning"
     ],
+    "time_limit": {
+      "minutes": 240,
+      "segments": [120, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20436,6 +24432,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20470,6 +24472,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20501,6 +24509,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20536,6 +24550,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20568,6 +24588,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20604,6 +24630,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20640,6 +24672,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20675,6 +24713,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20708,6 +24752,12 @@
     "miscellaneous": [
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20741,6 +24791,12 @@
       "winning",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20775,6 +24831,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   },
   {
@@ -20805,6 +24867,12 @@
       "dessert",
       "finale"
     ],
+    "time_limit": {
+      "minutes": 420,
+      "segments": [300, 120],
+      "overnight": true,
+      "status": "timed"
+    },
     "recipe": ""
   }
 ]

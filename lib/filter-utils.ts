@@ -9,6 +9,11 @@ export type DishFilter = {
   test: (dish: typeof dishes[number]) => boolean;
 };
 
+type Dish = typeof dishes[number];
+
+const cookMinutes = (dish: Dish): number | null =>
+  dish.time_limit.status === "timed" ? dish.time_limit.minutes : null;
+
 export const dishFilters: DishFilter[] = [
   {
     id: "vegan",
@@ -152,5 +157,42 @@ export const dishFilters: DishFilter[] = [
     label: "Has Recipe",
     test: (dish) =>
       dish.recipe != "",
+  },
+
+    {
+    id: "lightning-round",
+    label: "Lightning Round (<=20 mins)",
+    description: "Time limit of 20 minutes or less",
+    test: (dish) => {
+      const m = cookMinutes(dish);
+      return m !== null && m <= 20;
+    },
+  },
+
+  {
+    id: "quick-cook",
+    label: "Quick Cook (<=30 mins)",
+    description: "Time limit of 30 minutes or less",
+    test: (dish) => {
+      const m = cookMinutes(dish);
+      return m !== null && m <= 30;
+    },
+  },
+
+  {
+    id: "long-cook",
+    label: "Long Cook (>= 2 hrs)",
+    description: "Time limit of 2 hours or more",
+    test: (dish) => {
+      const m = cookMinutes(dish);
+      return m !== null && m >= 120;
+    },
+  },
+
+  {
+    id: "multi-day",
+    label: "Multi-Day Cook",
+    description: "Cooked across two days with a timed segment on each",
+    test: (dish) => dish.time_limit.segments.length > 1,
   },
 ];
