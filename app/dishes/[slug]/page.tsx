@@ -175,14 +175,34 @@ export default async function DishPage({
               </div>
 
               <div>
+                <dt>Recipe</dt>
+                <dd>
+                  {dish.recipe ? (
+                    <a
+                      href={dish.recipe}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="recipe-link"
+                    >
+                      View recipe
+                    </a>
+                  ) : (
+                    "None"
+                  )}
+                </dd>
+              </div>
+
+              <div>
                 <dt>Miscellaneous</dt>
                 <dd>
-                  {dish.miscellaneous.map((tag, index) => (
-                    <span key={tag}>
-                      {index > 0 && ", "}
-                      {tag}
-                    </span>
-                  ))}
+                  {dish.miscellaneous.length > 0
+                    ? dish.miscellaneous.map((tag, index) => (
+                        <span key={tag}>
+                          {index > 0 && ", "}
+                          {tag}
+                        </span>
+                      ))
+                    : "None"}
                 </dd>
               </div>
 

@@ -146,4 +146,11 @@ export const dishFilters: DishFilter[] = [
     test: (dish) =>
       dish.miscellaneous.includes("losing"),
   },
+
+  {
+    id: "has-recipe",
+    label: "Has Recipe",
+    test: (dish) =>
+      dish.recipe != "",
+  },
 ];
