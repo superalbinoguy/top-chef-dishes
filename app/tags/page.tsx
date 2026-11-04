@@ -224,9 +224,17 @@ export default function TagsPage() {
           .map((group) => {
 
           const isExpanded = expanded[group.category];
-          const visibleData = isExpanded
-            ? group.data
-            : group.data.slice(0, MAX_ITEMS);
+          const sortedData = [...group.data].sort(([tagA, countA], [tagB, countB]) => {
+          if (countA !== countB) {
+            return countB - countA; // Highest count first
+          }
+
+          return tagA.localeCompare(tagB); // Alphabetical tie-breaker
+        });
+
+        const visibleData = isExpanded
+          ? sortedData
+          : sortedData.slice(0, MAX_ITEMS);
 
           return (
             <section key={group.category} style={{ 

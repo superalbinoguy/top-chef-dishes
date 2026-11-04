@@ -78,15 +78,17 @@ function TagSection({
       <h3>{title}</h3>
 
       <div className="tag-list">
-        {values.map((value) => (
-          <Link
-            key={value}
-            href={`/tags/${href}/${tagSlug(value)}`}
-            className="tag-chip"
-          >
-            {value}
-          </Link>
-        ))}
+        {[...values]
+          .sort((a, b) => a.localeCompare(b))
+          .map((value) => (
+            <Link
+              key={value}
+              href={`/tags/${href}/${tagSlug(value)}`}
+              className="tag-chip"
+            >
+              {value}
+            </Link>
+          ))}
       </div>
     </section>
   );
