@@ -79,6 +79,8 @@ export default function PhotoCard({
           <img
             src={tryImage(dish.slug)}
             alt={dish.name}
+            fetchPriority="low"
+            loading="lazy"
             style={{
               width: "100%",
               height: "100%",
@@ -118,6 +120,8 @@ export default function PhotoCard({
           <img
             src={stampSrc}
             alt={`${stampKey} stamp`}
+            fetchPriority="high"
+            loading="eager"
             style={{
               position: "absolute",
               top: "-10px",

@@ -48,7 +48,7 @@ export default function DishHomepage() {
 
   return (
     <div>
-      <div className="dishes-header relative flex items-center justify-center text-3xl font-semibold mb-4">
+      <div className="dishes-header relative flex items-center justify-center text-3xl font-semibold">
         <div className="flex items-center gap-2">
           <span>The</span>
           <Image

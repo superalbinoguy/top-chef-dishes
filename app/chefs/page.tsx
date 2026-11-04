@@ -33,7 +33,7 @@ export default function ChefsPage() {
     <div>
       <div className="flex items-center justify-center gap-2 text-3xl font-semibold">
       </div>
-      <div className="relative flex items-center justify-center text-3xl font-semibold mb-4">
+      <div className="relative flex items-center justify-center text-3xl font-semibold">
               <span>The</span>
               <Image
                 src="/images/logos/Chefs.png"
@@ -48,7 +48,7 @@ export default function ChefsPage() {
         {(selectedSeason ? [selectedSeason] : seasons).map((season) => (
         <section key={season}>
           <div className="season-header">
-            <h2>Season {season}</h2>
+            <h2 style={{ marginBottom: "1rem" }}>Season {season}</h2>
           </div>
           <div className="dish-grid">
             {Array.from(chefsBySeason[season])

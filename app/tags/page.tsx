@@ -240,7 +240,7 @@ export default function TagsPage() {
             <section key={group.category} style={{ 
                 marginBottom: "2.5rem",
               }}>
-              <div className="episode-header">
+              <div className="season-header">
                 <h2 style={{ marginBottom: "1rem" }}>{group.title}</h2>
               </div>
 
