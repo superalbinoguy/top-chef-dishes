@@ -6,12 +6,14 @@ import PhotoCard from "@/components/PhotoCard";
 import { useSeason } from "@/components/SeasonContext";
 import { useState } from "react";
 import { dishFilters } from "@/lib/filter-utils";
+import { useUrlFilters } from "@/lib/use-url-filters";
 import TagFilter from "@/components/TagFilter";
+import { Suspense } from "react";
 
-export default function DishHomepage() {
+function DishHomepageContent() {
   const { selectedSeason } = useSeason();
 
-  const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
+  const [selectedFilters, setSelectedFilters] = useUrlFilters();
 
   const filteredDishes =
     selectedFilters.length > 0
@@ -102,5 +104,13 @@ export default function DishHomepage() {
         ))}
       </div>
     </div>
+  );
+}
+
+export default function DishHomepage() {
+  return (
+    <Suspense fallback={null}>
+      <DishHomepageContent />
+    </Suspense>
   );
 }

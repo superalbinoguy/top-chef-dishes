@@ -9,7 +9,9 @@ import { Globe, Utensils } from "lucide-react";
 import TagFilter from "@/components/TagFilter";
 import { useSeason } from "@/components/SeasonContext";
 import { dishFilters } from "@/lib/filter-utils";
+import { useUrlFilters } from "@/lib/use-url-filters";
 import dishes from "@/lib/dishes.json";
+import { Suspense } from "react";
 
 const cuisineFlags: Record<string, string> = {
   French: "FR",
@@ -105,8 +107,7 @@ function useIsMobile(breakpointPx = 640) {
   return isMobile;
 }
 
-
-export default function TagsPage() {
+function TagsPageContent() {
   const isMobile = useIsMobile();
   const MAX_ITEMS = isMobile ? MAX_ITEMS_MOBILE : MAX_ITEMS_DESKTOP;
 
@@ -121,7 +122,7 @@ export default function TagsPage() {
 
   // Multiple filters can be active at once now; a dish must satisfy
   // every selected filter (AND), not just one of them.
-  const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
+  const [selectedFilters, setSelectedFilters] = useUrlFilters();
 
   const filteredDishes =
     selectedFilters.length > 0
@@ -381,5 +382,13 @@ export default function TagsPage() {
         })}
       </div>
     </div>
+  );
+}
+
+export default function TagsPage() {
+  return (
+    <Suspense fallback={null}>
+      <TagsPageContent />
+    </Suspense>
   );
 }
