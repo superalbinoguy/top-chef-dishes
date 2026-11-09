@@ -755,24 +755,10 @@ body.card-body {
 }
 
 @media (max-width: 640px) {
-  /* Side arrows would eat the card's width, so move them below it */
+  /* Side arrows would eat the card's width, so stack them above it */
   .dish-carousel {
     grid-template-columns: 1fr 1fr;
-  }
-
-  .dish-carousel > .recipe-card {
-    grid-column: 1 / -1;
-    grid-row: 1;
-  }
-
-  @media (max-width: 640px) {
-  .dish-carousel {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .dish-carousel > .recipe-card {
-    grid-column: 1 / -1;
-    grid-row: 1;
+    gap: 1rem;
   }
 
   .dish-nav {
@@ -781,19 +767,23 @@ body.card-body {
 
   .dish-nav-prev {
     grid-column: 1;
-    grid-row: 2;
+    grid-row: 1;
     justify-self: start;
   }
 
   .dish-nav-next {
     grid-column: 2;
-    grid-row: 2;
+    grid-row: 1;
     justify-self: end;
+  }
+
+  .dish-carousel > .recipe-card {
+    grid-column: 1 / -1;
+    grid-row: 2;
   }
 
   .dish-nav-btn {
     position: static;
     margin-top: 0;
   }
-}
 }
